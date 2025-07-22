@@ -1,71 +1,80 @@
 _BikeShopClerkWelcomeText::
-	text "Hi! Welcome to"
-	line "our BIKE SHOP."
+	text "Ciao! Benvenuto"
+	line "nel nostro NEGOZIO"
+	cont "DI BICI."
 
-	para "Have we got just"
-	line "the BIKE for you!"
+	para "Abbiamo proprio"
+	line "la BICI che fa"
+	cont "per te!"
 	prompt
 
 _BikeShopClerkDoYouLikeItText::
-	text "It's a cool BIKE!"
-	line "Do you want it?"
+	text "È una BICI"
+	line "fantastica!"
+	cont "La vuoi?"
 	done
 
 _BikeShopCantAffordText::
-	text "Sorry! You can't"
-	line "afford it!"
+	text "Spiacente! Non"
+	line "te la puoi"
+	cont "permettere!"
 	prompt
 
 _BikeShopClerkOhThatsAVoucherText::
-	text "Oh, that's..."
+	text "Oh, quello è..."
 
-	para "A BIKE VOUCHER!"
+	para "Un BUONO BICI!"
 
-	para "OK! Here you go!"
+	para "OK! Ecco a te!"
 	prompt
 
 _BikeShopExchangedVoucherText::
-	text "<PLAYER> exchanged"
-	line "the BIKE VOUCHER"
-	cont "for a BICYCLE.@"
+	text "<PLAYER> ha"
+	line "scambiato il"
+	cont "BUONO BICI con"
+	cont "una BICICLETTA.@"
 	text_end
 
 _BikeShopComeAgainText::
-	text "Come back again"
-	line "sometime!"
+	text "Torna a trovarci"
+	line "ancora!"
 	done
 
 _BikeShopClerkHowDoYouLikeYourBicycleText::
-	text "How do you like"
-	line "your new BICYCLE?"
+	text "Che ne pensi"
+	line "della tua nuova"
+	cont "BICICLETTA?"
 
-	para "You can take it"
-	line "on CYCLING ROAD"
-	cont "and in caves!"
+	para "Puoi usarla"
+	line "sulla PISTA"
+	cont "CICLABILE"
+	cont "e nelle grotte!"
 	done
 
 _BikeShopBagFullText::
-	text "You better make"
-	line "room for this!"
+	text "Faresti meglio a"
+	line "fare spazio per"
+	cont "questo!"
 	done
 
 _BikeShopMiddleAgedWomanText::
-	text "A plain city BIKE"
-	line "is good enough"
-	cont "for me!"
+	text "Una semplice"
+	line "BICI da città"
+	cont "va bene per me!"
 
-	para "You can't put a"
-	line "shopping basket"
-	cont "on an MTB!"
+	para "Non puoi mettere"
+	line "un cestino su"
+	cont "una MTB!"
 	done
 
 _BikeShopYoungsterTheseBikesAreExpensiveText::
-	text "These BIKEs are"
-	line "cool, but they're"
-	cont "way expensive!"
+	text "Queste BICI sono"
+	line "fantastiche, ma"
+	cont "costano troppo!"
 	done
 
 _BikeShopYoungsterCoolBikeText::
-	text "Wow. Your BIKE is"
-	line "really cool!"
+	text "Wow. La tua"
+	line "BICI è davvero"
+	cont "fantastica!"
 	done

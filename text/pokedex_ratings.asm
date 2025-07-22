@@ -1,118 +1,127 @@
 _DexCompletionText::
 	text "#DEX comp-"
-	line "letion is:"
+	line "letamento:"
 
 	para "@"
 	text_decimal hDexRatingNumMonsSeen, 1, 3
-	text " #MON seen"
+	text " #MON visti"
 	line "@"
 	text_decimal hDexRatingNumMonsOwned, 1, 3
-	text " #MON owned"
+	text " #MON posseduti"
 
-	para "PROF.OAK's"
-	line "Rating:"
+	para "Valutazione del"
+	line "PROF. OAK:"
 	prompt
 
 _DexRatingText_Own0To9::
-	text "You still have"
-	line "lots to do."
-	cont "Look for #MON"
-	cont "in grassy areas!"
+	text "Hai ancora molto"
+	line "da fare."
+	cont "Cerca i #MON"
+	cont "nelle zone erbose!"
 	done
 
 _DexRatingText_Own10To19::
-	text "You're on the"
-	line "right track! "
-	cont "Get a FLASH HM"
-	cont "from my AIDE!"
+	text "Sei sulla strada"
+	line "giusta! "
+	cont "Prendi la MN"
+	cont "FLASH dal mio"
+	cont "ASSISTENTE!"
 	done
 
 _DexRatingText_Own20To29::
-	text "You still need"
-	line "more #MON!"
-	cont "Try to catch"
-	cont "other species!"
+	text "Ti servono ancora"
+	line "più #MON!"
+	cont "Prova a catturare"
+	cont "altre specie!"
 	done
 
 _DexRatingText_Own30To39::
-	text "Good, you're"
-	line "trying hard!"
-	cont "Get an ITEMFINDER"
-	cont "from my AIDE!"
+	text "Bene, ti stai"
+	line "impegnando!"
+	cont "Prendi il"
+	cont "DETECTOR"
+	cont "dal mio"
+	cont "ASSISTENTE!"
 	done
 
 _DexRatingText_Own40To49::
-	text "Looking good!"
-	line "Go find my AIDE"
-	cont "when you get 50!"
+	text "Ottimo aspetto!"
+	line "Trova il mio"
+	cont "ASSISTENTE quando"
+	cont "ne avrai 50!"
 	done
 
 _DexRatingText_Own50To59::
-	text "You finally got at"
-	line "least 50 species!"
-	cont "Be sure to get"
-	cont "EXP.ALL from my"
-	cont "AIDE!"
+	text "Finalmente hai"
+	line "almeno 50 specie!"
+	cont "Assicurati di"
+	cont "prendere CONDIV."
+	cont "ESP. dal mio"
+	cont "ASSISTENTE!"
 	done
 
 _DexRatingText_Own60To69::
-	text "Oh! This is get-"
-	line "ting even better!"
+	text "Oh! Sta andando"
+	line "ancora meglio!"
 	done
 
 _DexRatingText_Own70To79::
-	text "Very good!"
-	line "Go fish for some"
-	cont "marine #MON!"
+	text "Molto bene!"
+	line "Vai a pescare"
+	cont "alcuni #MON"
+	cont "marini!"
 	done
 
 _DexRatingText_Own80To89::
-	text "Wonderful!"
-	line "Do you like to"
-	cont "collect things?"
+	text "Meraviglioso!"
+	line "Ti piace"
+	cont "collezionare?"
 	done
 
 _DexRatingText_Own90To99::
-	text "I'm impressed!"
-	line "It must have been"
-	cont "difficult to do!"
+	text "Sono colpito!"
+	line "Dev'essere stato"
+	cont "difficile da fare!"
 	done
 
 _DexRatingText_Own100To109::
-	text "You finally got at"
-	line "least 100 species!"
+	text "Finalmente hai"
+	line "almeno 100 specie!"
 
-	para "I can't believe"
-	line "how good you are!"
+	para "Non riesco a"
+	line "credere quanto"
+	cont "sei bravo!"
 	done
 
 _DexRatingText_Own110To119::
-	text "You even have the"
-	line "evolved forms of"
+	text "Hai persino le"
+	line "forme evolute dei"
 	cont "#MON! Super!"
 	done
 
 _DexRatingText_Own120To129::
-	text "Excellent! Trade"
-	line "with friends to"
-	cont "get some more!"
+	text "Eccellente!"
+	line "Scambia con gli"
+	cont "amici per averne"
+	cont "ancora di più!"
 	done
 
 _DexRatingText_Own130To139::
-	text "Outstanding!"
-	line "You've become a"
-	cont "real pro at this!"
+	text "Straordinario!"
+	line "Sei diventato un"
+	cont "vero"
+	cont "professionista!"
 	done
 
 _DexRatingText_Own140To149::
-	text "I have nothing"
-	line "left to say!"
-	cont "You're the"
-	cont "authority now!"
+	text "Non ho più niente"
+	line "da dire!"
+	cont "Ora sei tu"
+	cont "l'esperto!"
 	done
 
 _DexRatingText_Own150To151::
-	text "Your #DEX is"
-	line "fully complete!"
-	cont "Congratulations!"
+	text "Il tuo #DEX è"
+	line"completo!"
+	cont "Congratulazioni!"
 	done

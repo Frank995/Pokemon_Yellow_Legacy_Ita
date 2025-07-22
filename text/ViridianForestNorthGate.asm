@@ -1,19 +1,21 @@
 _ViridianForestNorthGateSuperNerdText::
-	text "Many #MON live"
-	line "only in forests "
-	cont "and caves."
+	text "Molti #MON vivono"
+	line "solo nelle foreste"
+	cont "e nelle grotte."
 
-	para "You need to look"
-	line "everywhere to get"
-	cont "different kinds!"
+	para "Devi cercare"
+	line "ovunque per"
+	cont "trovare specie"
+	cont "diverse!"
 	done
 
 _ViridianForestNorthGateGrampsText::
-	text "Have you noticed"
-	line "the bushes on the"
-	cont "roadside?"
+	text "Hai notato i"
+	line "cespugli lungo"
+	cont "la strada?"
 
-	para "They can be cut"
-	line "down by a special"
-	cont "#MON move."
+	para "Possono essere"
+	line "tagliati con una"
+	cont "mossa speciale dei"
+	cont "#MON."
 	done

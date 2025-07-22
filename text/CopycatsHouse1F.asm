@@ -1,18 +1,21 @@
 _CopycatsHouse1FMiddleAgedWomanText::
-	text "My daughter is so"
-	line "self-centered."
-	cont "She only has a"
-	cont "few friends."
+	text "Mia figlia è così"
+	line "egocentrica."
+	cont "Ha solo pochi"
+	cont "amici."
 	done
 
 _CopycatsHouse1FMiddleAgedManText::
-	text "My daughter likes"
-	line "to mimic people."
+	text "A mia figlia piace"
+	line "imitare le"
+	cont "persone."
 
-	para "Her mimicry has"
-	line "earned her the"
-	cont "nickname COPYCAT"
-	cont "around here!"
+	para "La sua abilità"
+	line "nell'imitare le ha"
+	cont "fatto guadagnare"
+	cont "il soprannome"
+	cont "COPIONA da"
+	cont "queste parti!"
 	done
 
 _CopycatsHouse1FChanseyText::

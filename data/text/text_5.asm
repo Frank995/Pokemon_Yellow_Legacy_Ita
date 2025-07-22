@@ -1,88 +1,88 @@
 _IsEvolvingText::
-	text "What? @"
+	text "Ehi? @"
 	text_ram wStringBuffer
 	text_start
-	line "is evolving!"
+	line "si sta evolvendo!"
 	done
 
 _FellAsleepText::
 	text "<TARGET>"
-	line "fell asleep!"
+	line "s'è addormentato!"
 	prompt
 
 _AlreadyAsleepText::
-	text "<TARGET>'s"
-	line "already asleep!"
+	text "<TARGET>"
+	line "sta dormendo!"
 	prompt
 
 _PoisonedText::
 	text "<TARGET>"
-	line "was poisoned!"
+	line "è avvelenato!"
 	prompt
 
 _BadlyPoisonedText::
-	text "<TARGET>'s"
-	line "badly poisoned!"
+	text "<TARGET>"
+	line "è iperavvelenato!"
 	prompt
 
 _BurnedText::
 	text "<TARGET>"
-	line "was burned!"
+	line "è stato scottato!"
 	prompt
 
 _FrozenText::
 	text "<TARGET>"
-	line "was frozen solid!"
+	line "è congelato!"
 	prompt
 
 _FireDefrostedText::
-	text "Fire defrosted"
+	text "Il fuoco scongela"
 	line "<TARGET>!"
 	prompt
 
 _MonsStatsRoseText::
-	text "<USER>'s"
 	line "@"
 	text_ram wStringBuffer
-	text "@"
+	text " di"
+	line "<USER>@"
 	text_end
 
 _GreatlyRoseText::
-	text "<SCROLL>greatly@"
+	text "<SCROLL>molto@"
 	text_end
 
 _RoseText::
-	text " rose!"
+	text " cresce!"
 	prompt
 
 _MonsStatsFellText::
-	text "<TARGET>'s"
 	line "@"
 	text_ram wStringBuffer
-	text "@"
+	text " di"
+	line "<TARGET>@"
 	text_end
 
 _GreatlyFellText::
-	text "<SCROLL>greatly@"
+	text "<SCROLL>molto@"
 	text_end
 
 _FellText::
-	text " fell!"
+	text " cala!"
 	prompt
 
 _RanFromBattleText::
 	text "<USER>"
-	line "ran from battle!"
+	line "lascia il campo!"
 	prompt
 
 _RanAwayScaredText::
 	text "<TARGET>"
-	line "ran away scared!"
+	line "fugge spaventato!"
 	prompt
 
 _WasBlownAwayText::
 	text "<TARGET>"
-	line "was blown away!"
+	line "è spazzato via!"
 	prompt
 
 _ChargeMoveEffectText::
@@ -91,181 +91,181 @@ _ChargeMoveEffectText::
 
 _MadeWhirlwindText::
 	text_start
-	line "made a whirlwind!"
+	line "genera TURBINE!"
 	prompt
 
 _TookInSunlightText::
 	text_start
-	line "took in sunlight!"
+	line "assorbe la luce!"
 	prompt
 
 _LoweredItsHeadText::
 	text_start
-	line "lowered its head!"
+	line "abbassa la testa!"
 	prompt
 
 _SkyAttackGlowingText::
 	text_start
-	line "is glowing!"
+	line "sta brillando!"
 	prompt
 
 _FlewUpHighText::
 	text_start
-	line "flew up high!"
+	line "è volato in alto!"
 	prompt
 
 _DugAHoleText::
 	text_start
-	line "dug a hole!"
+	line "scava una fossa!"
 	prompt
 
 _BecameConfusedText::
 	text "<TARGET>"
-	line "became confused!"
+	line "è confuso!"
 	prompt
 
 _MimicLearnedMoveText::
 	text "<USER>"
-	line "learned"
+	line "ha imparato"
 	cont "@"
 	text_ram wcd6d
 	text "!"
 	prompt
 
 _MoveWasDisabledText::
-	text "<TARGET>'s"
-	line "@"
+	text "@"
 	text_ram wcd6d
-	text " was"
-	cont "disabled!"
+	line "di <TARGET>"
+	cont "è fuori uso!"
 	prompt
 
 _NothingHappenedText::
-	text "Nothing happened!"
+	text "Non succede nulla!"
 	prompt
 
 _NoEffectText::
-	text "No effect!"
+	text "Non ha effetto!"
 	prompt
 
 _ButItFailedText::
-	text "But, it failed! "
+	text "Attacco fallito!"
 	prompt
 
 _DidntAffectText::
-	text "It didn't affect"
-	line "<TARGET>!"
+	text "Non ha avuto"
+	line "effetto su"
+	cont "<TARGET>!"
 	prompt
 
 _IsUnaffectedText::
 	text "<TARGET>"
-	line "is unaffected!"
+	line "è incolume!"
 	prompt
 
 _ParalyzedMayNotAttackText::
-	text "<TARGET>'s"
-	line "paralyzed! It may"
-	cont "not attack!"
+	text "<TARGET>"
+	line "è paralizzato!"
+	cont "Attacco incerto!"
 	prompt
 
 _SubstituteText::
-	text "It created a"
-	line "SUBSTITUTE!"
+	text "Ha creato un"
+	line "SOSTITUTO!"
 	prompt
 
 _HasSubstituteText::
 	text "<USER>"
-	line "has a SUBSTITUTE!"
+	line "usa un SOSTITUTO!"
 	prompt
 
 _TooWeakSubstituteText::
-	text "Too weak to make"
-	line "a SUBSTITUTE!"
+	text "Debole! Non può"
+	line "creare SOSTITUTO!"
 	prompt
 
 _WasSeededText::
 	text "<TARGET>"
-	line "was seeded!"
+	line "è pieno di semi!"
 	prompt
 
 _EvadedAttackText::
 	text "<TARGET>"
-	line "evaded attack!"
+	line "schiva l'attacco!"
 	prompt
 
 _HitWithRecoilText::
-	text "<USER>'s"
-	line "hit with recoil!"
+	text "Contraccolpo su"
+	line "<USER>!"
 	prompt
 
 _ConvertedTypeText::
-	text "Converted type to"
-	line "<TARGET>'s!"
+	text "Passa al tipo di"
+	line "<TARGET>!"
 	prompt
 
 _StatusChangesEliminatedText::
-	text "All STATUS changes"
-	line "are eliminated!"
+	text "Eliminato ogni"
+	line "cambio di STATO!"
 	prompt
 
 _GettingPumpedText::
-	text "<USER>'s"
-	line "getting pumped!"
+	text "<USER>"
+	line "si gonfia!"
 	prompt
 
 _StartedSleepingEffect::
 	text "<USER>"
-	line "started sleeping!"
+	line "s'è addormentato!"
 	done
 
 _FellAsleepBecameHealthyText::
 	text "<USER>"
-	line "fell asleep and"
-	cont "became healthy!"
+	line "si addormenta"
+	cont "e si riprende!"
 	done
 
 _RegainedHealthText::
 	text "<USER>"
-	line "regained health!"
+	line "riprende energia!"
 	prompt
 
 _TransformedText::
 	text "<USER>"
-	line "transformed into"
+	line "si trasforma in"
 	cont "@"
 	text_ram wcd6d
 	text "!"
 	prompt
 
 _LightScreenProtectedText::
-	text "<USER>'s"
-	line "protected against"
-	cont "special attacks!"
+	text "<USER>"
+	line "è immune agli"
+	cont "attacchi speciali!"
 	prompt
 
 _ReflectGainedArmorText::
 	text "<USER>"
-	line "gained armor!"
+	line "si è corazzato!"
 	prompt
 
 _ShroudedInMistText::
-	text "<USER>'s"
-	line "shrouded in mist!"
+	text "La nebbia avvolge"
+	line "<USER>!"
 	prompt
 
 _CoinsScatteredText::
-	text "Coins scattered"
-	line "everywhere!"
+	text "Ci sono gettoni"
+	line "sparse ovunque!"
 	prompt
 
 _SuckedHealthText::
-	text "Sucked health from"
+	text "Succhia energia da"
 	line "<TARGET>!"
 	prompt
 
 _DreamWasEatenText::
-	text "<TARGET>'s"
-	line "dream was eaten!"
+	text "Mangiato sogno di"
+	line "<TARGET>"
 	prompt
 
 _TradeCenterOpponentText::

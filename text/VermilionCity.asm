@@ -1,69 +1,74 @@
 _VermilionCityBeautyText::
-	text "We're careful"
-	line "about pollution!"
+	text "Stiamo attenti"
+	line "all'inquinamento!"
 
-	para "We've heard GRIMER"
-	line "multiplies in"
-	cont "toxic sludge!"
+	para "Abbiamo sentito"
+	line "che GRIMER si"
+	cont "moltiplica nel"
+	cont "fango tossico!"
 	done
 
 _VermilionCityGambler1DidYouSeeText::
-	text "Did you see S.S."
-	line "ANNE moored in"
-	cont "the harbor?"
+	text "Hai visto la M/N"
+	line "ANNE ormeggiata"
+	cont "nel porto?"
 	done
 
 _VermilionCityGambler1SSAnneDepartedText::
-	text "So, S.S.ANNE has"
-	line "departed!"
+	text "Così, la M/N ANNE"
+	line "È partita!"
 
-	para "She'll be back in"
-	line "about a year."
+	para "Tornerà tra circa"
+	line "un anno."
 	done
 
 _VermilionCitySailor1WelcomeToSSAnneText::
-	text "Welcome to S.S."
-	line "ANNE!"
+	text "Benvenuto sulla"
+	line "M/N ANNE!"
 	done
 
 _VermilionCitySailor1DoYouHaveATicketText::
-	text "Welcome to S.S."
-	line "ANNE!"
+	text "Benvenuto sulla"
+	line "M/N ANNE!"
 
-	para "Excuse me, do you"
-	line "have a ticket?"
+	para "Scusa, hai un"
+	line "biglietto?"
 	prompt
 
 _VermilionCitySailor1FlashedTicketText::
-	text "<PLAYER> flashed"
-	line "the S.S.TICKET!"
+	text "<PLAYER> ha"
+	line "mostrato il"
+	cont "BIGLIETTO NAVE!"
 
-	para "Great! Welcome to"
-	line "S.S.ANNE!"
+	para "Perfetto!"
+	line "Benvenuto sulla"
+	cont "M/N ANNE!"
 	done
 
 _VermilionCitySailor1YouNeedATicketText::
-	text "<PLAYER> doesn't"
-	line "have the needed"
-	cont "S.S.TICKET."
+	text "<PLAYER> non ha"
+	line "il BIGLIETTO NAVE"
+	cont "necessario."
 
-	para "Sorry!"
+	para "Spiacente!"
 
-	para "You need a ticket"
-	line "to get aboard."
+	para "Ti serve un"
+	line "biglietto per"
+	cont "salire a bordo."
 	done
 
 _VermilionCitySailor1ShipSetSailText::
-	text "The ship set sail."
+	text "La nave è salpata."
 	done
 
 _VermilionCityGambler2Text::
-	text "I'm putting up a"
-	line "building on this"
-	cont "plot of land."
+	text "Sto costruendo un"
+	line "edificio su questo"
+	cont "pezzo di terreno."
 
-	para "My #MON is"
-	line "tamping the land."
+	para "Il mio #MON sta"
+	line "battendo il"
+	cont "terreno."
 	done
 
 _VermilionCityMachopText::
@@ -73,137 +78,149 @@ _VermilionCityMachopText::
 
 _VermilionCityMachopStompingTheLandFlatText::
 	text_start
-	para "A MACHOP is"
-	line "stomping the land"
-	cont "flat."
+	para "Un MACHOP sta"
+	line "battendo il"
+	cont "terreno per"
+	cont "livellarlo."
 	done
 
 _VermilionCitySailor2Text::
-	text "S.S.ANNE is a"
-	line "famous luxury"
-	cont "cruise ship."
+	text "La M/N ANNE è una"
+	line "famosa nave da"
+	cont "crociera di lusso."
 
-	para "We visit VERMILION"
-	line "once a year."
+	para "Visitiamo"
+	line "ARANCIOPOLI una"
+	cont "volta all'anno."
 	done
 
 _OfficerJennyText1::
-	text "I just caught a"
-	line "SQUIRTLE that was"
-	cont "always getting"
-	cont "into mischief."
+	text "Ho appena"
+	line "catturato uno"
+	cont "SQUIRTLE che"
+	cont "combinava sempre"
+	cont "guai."
 
-	para "I think it needs a"
-	line "good trainer to"
-	cont "set it straight."
+	para "Penso che abbia"
+	line "bisogno di un buon"
+	cont "allenatore per"
+	cont "raddrizzarlo."
 	done
 
 _OfficerJennyText2::
-	text "You have the"
-	line "THUNDERBADGE!?"
+	text "Hai la MEDAGLIA"
+	line "TUONO!?"
 
-	para "You must be a"
-	line "good trainer!"
+	para "Devi essere un"
+	line "bravo allenatore!"
 
-	para "I just caught a"
-	line "SQUIRTLE that was"
-	cont "always getting"
-	cont "into mischief."
+	para "Ho appena"
+	line "catturato uno"
+	cont "SQUIRTLE che"
+	cont "combinava sempre"
+	cont "guai."
 
-	para "Would you take"
-	line "good care of it?"
+	para "Te ne prenderesti"
+	line "cura?"
 	done
 
 _OfficerJennyText3::
-	text "OK! Please treat"
-	line "SQUIRTLE right!@"
+	text "OK! Per favore"
+	line "tratta bene"
+	cont "SQUIRTLE!@"
 	text_end
 
 _OfficerJennyText4::
-	text "Oh... What am I"
-	line "to do now?"
+	text "Oh... Cosa devo"
+	line "fare ora?"
 	done
 
 _OfficerJennyText5::
-	text "How is SQUIRTLE"
-	line "doing?"
+	text "Come sta andando"
+	line "SQUIRTLE?"
 	done
 
 _JennyBattleText::
-	text "As a CHAMPION,"
-	line "you've grown"
-	cont "strong."
+	text "Come CAMPIONE,"
+	line "sei diventato"
+	cont "forte."
 
-	para "And so has that"
-	line "SQUIRTLE I gave"
-	cont "you."
+	para "E così anche"
+	line "quello SQUIRTLE"
+	cont "che ti ho dato."
 
-	para "I wonder how"
-	line "strong?"
+	para "Mi chiedo quanto"
+	line "forte?"
 
-	para "Can I test your"
-	line "strength in a"
-	cont "battle?"
+	para "Posso testare la"
+	line "tua forza in una"
+	cont "lotta?"
 	done
 
 _JennyRefusedText::
-	text "Oh, that's too"
-	line "bad. Maybe"
-	cont "another time."
+	text "Oh, che peccato."
+	line "Magari un'altra"
+	cont "volta."
 	done
 
 _JennyAcceptedText::
-	text "I knew you"
-	line "wouldn't back"
-	cont "down!"
+	text "Sapevo che non"
+	line "ti saresti tirato"
+	cont "indietro!"
 	done
 
 _JennyAfterBattleText::
-    text "Incredible!"
+    text "Incredibile!"
 
-	para "You and SQUIRTLE"
-	line "are unstoppable!"
+	para "Tu e SQUIRTLE"
+	line "siete"
+	cont "inarrestabili!"
 
-	para "Keep up the"
-	line "great work,"
-	cont "CHAMPION!"
+	para "Continua così,"
+	line "CAMPIONE!"
     done
 
 _VermilionCitySignText::
-	text "VERMILION CITY"
-	line "The Port of"
-	cont "Exquisite Sunsets"
+	text "ARANCIOPOLI"
+	line "Il Porto degli"
+	cont "Squisiti Tramonti"
 	done
 
 _VermilionCityNoticeSignText::
-	text "NOTICE!"
+	text "AVVISO!"
 
-	para "ROUTE 12 may be"
-	line "blocked off by a"
-	cont "sleeping #MON."
+	para "Il PERCORSO 12"
+	line "potrebbe essere"
+	cont "bloccato da un"
+	cont "#MON addormentato."
 
-	para "Detour through"
-	line "ROCK TUNNEL to"
-	cont "LAVENDER TOWN."
+	para "Deviazione"
+	line "attraverso il"
+	cont "TUNNEL ROCCIOSO"
+	cont "verso LAVANDONIA."
 
-	para "VERMILION POLICE"
+	para "POLIZIA DI"
+	line "ARANCIOPOLI"
 	done
 
 _VermilionCityPokemonFanClubSignText::
-	text "#MON FAN CLUB"
-	line "All #MON fans"
-	cont "welcome!"
+	text "FAN CLUB #MON"
+	line "Tutti i fan dei"
+	cont "#MON sono"
+	cont "benvenuti!"
 	done
 
 _VermilionCityGymSignText::
-	text "VERMILION CITY"
-	line "#MON GYM"
-	cont "LEADER: LT.SURGE"
+	text "PALESTRA #MON"
+	line "DI ARANCIOPOLI"
+	cont "CAPOPALESTRA:"
+	cont "LT.SURGE"
 
-	para "The Lightning "
-	line "American!"
+	para "L'Americano "
+	line "Illuminato!"
 	done
 
 _VermilionCityHarborSignText::
-	text "VERMILION HARBOR"
+	text "PORTO DI"
+	line "ARANCIOPOLI"
 	done

@@ -1,29 +1,34 @@
 _SummerBeachHouseSurfinDudeText1::
-	text "Whoa!"
+	text "Woah!"
 
-	para "Your PIKACHU knows"
-	line "how to SURF! So,"
-	cont "I'm not alone..."
+	para "Il tuo PIKACHU sa"
+	line "come usare SURF!"
+	cont "Quindi non sono"
+	cont "solo..."
 
-	para "Great! You earned"
-	line "the right to SURF"
-	cont "with the DUDE!"
+	para "Fantastico! Ti sei"
+	line "guadagnato il"
+	cont "diritto di fare"
+	cont "SURF con il TIPO!"
 
-	para "Give it a go?"
+	para "Vuoi provare?"
 	done
 
 _SummerBeachHouseSurfinDudeText2::
-	text "Come SURF anytime,"
-	line "my friend!"
+	text "Vieni a fare SURF"
+	line "quando vuoi,"
+	cont "amico mio!"
 	done
 
 _SummerBeachHouseSurfinDudeText3::
-	text "Wanna go SURF?"
+	text "Vuoi andare a fare"
+	line "SURF?"
 	done
 
 _SummerBeachHouseSurfinDudeText4::
-	text "Dogs and burgers"
-	line "on special today!"
+	text "Hot dog e"
+	line "hamburger in"
+	cont "offerta oggi!"
 	done
 
 _SummerBeachHousePikachuText::
@@ -31,77 +36,81 @@ _SummerBeachHousePikachuText::
 	done
 
 _SummerBeachHousePoster1Text1::
-	text "SURFIN' DUDE's"
-	line "scribbles..."
+	text "Scarabocchi del"
+	line "TIPO DEL SURF..."
 
-	para "When I shoot the"
-	line "tube, the tunes"
-	cont "hit the groove!"
+	para "Quando cavalco"
+	line "l'onda, la musica"
+	cont "entra nel ritmo!"
 	done
 
 _SummerBeachHousePoster1Text2::
-	text "30 years of waves!"
-	line "SURFIN' DUDE"
+	text "30 anni di onde!"
+	line "TIPO DEL SURF"
 	done
 
 _SummerBeachHousePoster2Text1::
-	text "SURFING TIP 1!"
+	text "CONSIGLIO SURF 1!"
 
-	para "After flips, line"
-	line "the board up with"
-	cont "a wave for a cool"
-	cont "effect!"
+	para "Dopo le capriole,"
+	line "allinea la tavola"
+	cont "con un'onda per"
+	cont "un effetto figo!"
 	done
 
 _SummerBeachHousePoster2Text2::
-	text "SUMMER BEACH HOUSE"
-	line "#MON welcome!"
+	text "CASA SULLA"
+	line "SPIAGGIA"
+	cont "#MON benvenuti!"
 	done
 
 _SummerBeachHousePoster3Text1::
-	text "SURFING TIP 2!"
+	text "CONSIGLIO SURF 2!"
 
-	para "Pulling flips in"
-	line "a jump is totally"
-	cont "rad!"
+	para "Fare capriole in"
+	line "un salto è"
+	cont "totalmente figo!"
 	done
 
 _SummerBeachHousePoster3Text2::
-	text "The sea unites"
-	line "all in surfdom!"
+	text "Il mare unisce"
+	line "tutti nel surf!"
 	done
 
 _SummerBeachHousePrinterText1::
-	text "It's some sort of"
-	line "a machine...@"
+	text "È una specie di"
+	line "macchina...@"
 	text_end
 
 _SummerBeachHousePrinterText2::
-	text "SUMMER BEACH HOUSE"
-	line "PRINTER, it says.@"
+	text "STAMPANTE DELLA"
+	line "CASA SULLA"
+	cont "SPIAGGIA, dice.@"
 	text_end
 
 _SummerBeachHousePrinterText3::
-	text "The Hi-Score is"
-	line "shown."
+	text "È mostrato il"
+	line "Punteggio Massimo."
 
-	para "PRINT it out?"
+	para "STAMPARLO?"
 	done
 
 _SummerBeachHousePrinterText4::
-	text "SUMMER BEACH HOUSE"
-	line "PRINTER, it says."
+	text "STAMPANTE DELLA"
+	line "CASA SULLA"
+	cont "SPIAGGIA, dice."
 
-	para "The Hi-Score is"
-	line "shown."
+	para "È mostrato il"
+	line "Punteggio Massimo."
 
-	para "PRINT it out?"
+	para "STAMPARLO?"
 	done
 
 _SummerBeachHousePrinterText5::
-	text "PRINT completed.@"
+	text "STAMPA"
+	line "completata.@"
 	text_end
 
 _SummerBeachHousePrinterText6::
-	text "PRINT error!@"
+	text "Errore di STAMPA!@"
 	text_end

@@ -3,28 +3,29 @@ _MewtwoBattleText::
 	text_end
 
 _CeruleanCaveSmithBattleText1::
-	text "Hey, what's up?"
+	text "Ehi, come va?"
 
-	para "Show me how much"
-	line "zest you've got!"
+	para "Fammi vedere"
+	line "la tua grinta!"
 	done
 	
 _CeruleanCaveSmithEndBattleText1::
 	text "Wow!"
 	
-	para "You've got zest!"
+	para "Che grinta!"
 
-	para "I love to see"
-	line "that."
+	para "Adoro vedere"
+	line "questo."
 	prompt
 	
 _CeruleanCaveSmithAfterBattleText1::
-	text "What zest!"
+	text "Che grinta!"
 	
-	para "You should be"
-	line "able to handle"
-	cont "yourself in this"
-	cont "cave!"
+	para "Dovresti essere"
+	line "in grado di"
+	cont "cavartela in"
+	cont "questa grotta!"
 
-	para "Good luck, nerd!"
+	para "Buona fortuna,"
+	line "secchione!"
 	done

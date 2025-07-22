@@ -1,133 +1,137 @@
 _Route1Youngster1MartSampleText::
-	text "Hi! I work at a"
-	line "#MON MART."
+	text "Ciao! Lavoro in un"
+	line "#MON MARKET."
 
-	para "It's a convenient"
-	line "shop, so please"
-	cont "visit us in"
-	cont "VIRIDIAN CITY."
+	para "È un negozio"
+	line "comodo, quindi"
+	cont "vieni a trovarci"
+	cont "a SMERALDOPOLI."
 
-	para "I know, I'll give"
-	line "you a sample!"
-	cont "Here you go!"
+	para "Lo so, ti darò"
+	line "un campione!"
+	cont "Ecco a te!"
 	prompt
 
 _Route1Youngster1GotPotionText::
-	text "<PLAYER> got"
-	line "@"
+	text "<PLAYER> ha"
+	line "ottenuto @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _Route1Youngster1AlsoGotPokeballsText::
-	text "We also carry"
-	line "# BALLs for"
-	cont "catching #MON!"
+	text "Vendiamo anche"
+	line "# BALL per"
+	cont "catturare #MON!"
 	done
 
 _Route1Youngster1NoRoomText::
-	text "You have too much"
-	line "stuff with you!"
+	text "Hai troppe cose"
+	line "con te!"
 	done
 
 _Route1Youngster2Text::
-	text "Do you know"
-	line "about STAT" 
-	cont "experience?"
+	text "Conosci"
+	line "l'esperienza"
+	cont "STAT?"
 
-	para "When a #MON"
-	line "battles, it"
-	cont "gains EXP."
+	para "Quando un #MON"
+	line "lotta, guadagna"
+	cont "ESP."
 
-	para "This EXP gives"
-	line "it increased"
-	cont "stats that"
-	cont "enemy trainers"
-	cont "don't have."
+	para "Questa ESP gli dà"
+	line "statistiche"
+	cont "migliori che"
+	cont "gli allenatori"
+	cont "nemici non hanno."
 
-	para "A #MON trained"
-	line "from LVL 5 to"
-	cont "LVL 50 could"
-	cont "have the stats"
-	cont "of an opponent"
-	cont "at LVL 60!"
+	para "Un #MON allenato"
+	line "dal LIV 5 al"
+	cont "LIV 50 potrebbe"
+	cont "avere le"
+	cont "statistiche di"
+	cont "un avversario"
+	cont "al LIV 60!"
 	done
 
 _Route1SignText::
-	text "ROUTE 1"
-	line "PALLET TOWN -"
-	cont "VIRIDIAN CITY"
+	text "PERCORSO 1"
+	line "BIANCAVILLA -"
+	cont "SMERALDOPOLI"
 	done
 
 _OakBeforeBattleText::
-	text "OAK: Oh, my!"
+	text "OAK: Oh,"
+	line "mamma mia!"
 	
-	para "It seems you"
-	line "caught me during"
-	cont "my lunch hour!"
+	para "Sembra che tu mi"
+	line "abbia beccato"
+	cont "durante la pausa"
+	cont "pranzo!"
 
-	para "<PLAYER>, you"
-	line "have truly come"
-	cont "into your own!"
+	para "<PLAYER>, sei"
+	line "davvero diventato"
+	cont "indipendente!"
 
-	para "Your #MON"
-	line "LEAGUE challenge"
-	cont "has reignited"
-	cont "a spirit that"
-	cont "left me a long"
-	cont "time ago..."
+	para "La tua sfida alla"
+	line "LEGA #MON ha"
+	cont "riacceso uno"
+	cont "spirito che mi"
+	cont "aveva lasciato"
+	cont "molto tempo fa..."
 
-	para "How about we"
-	line "spar a bit?"
-	cont "What say you?"
+	para "Che ne dici se"
+	line "facciamo un pò"
+	cont "di allenamento?"
+	cont "Che ne pensi?"
 	done
 
 _OakRealChallengeBattleText::
-	text "Excellent!"
+	text "Eccellente!"
 
-	para "Prepare yourself"
-	line "for a real"
-	cont "challenge!"
+	para "Preparati per"
+	line "una vera sfida!"
 	done
 
 _OakRefusedBattleText::
-	text "Maybe some other"
-	line "time!"
+	text "Magari un'altra"
+	line "volta!"
 	done
 
 _OakDefeatedText::
 	text "Hmm..."
 
-	para "I still have a"
-	line "lot to learn!"
+	para "Ho ancora molto"
+	line "da imparare!"
 	prompt
 
 _OakWonText::
-	text "Back in my day,"
-	line "I was a serious"
-	cont "TRAINER!"
+	text "Ai miei tempi,"
+	line "ero un ALLENATORE"
+	cont "serio!"
 	prompt
 
 _OakPostBattleText::
-	text "Well done,"
+	text "Ben fatto,"
 	line "<PLAYER>!"
 
-	para "You've certainly"
-	line "proved your"
-	cont "mettle."
+	para "Hai certamente"
+	line "dimostrato il"
+	cont "tuo valore."
 
-	para "It seems I might"
-	line "be getting a bit"
-	cont "rusty in my old"
-	cont "age."
+	para "Sembra che io"
+	line "stia invecchiando"
+	cont "un pò con"
+	cont "l'età."
 
-	para "A good trainer"
-	line "always strives"
-	cont "for improvement,"
-	cont "and so shall I."
+	para "Un buon allenatore"
+	line "cerca sempre di"
+	cont "migliorarsi, e"
+	cont "così farò anch'io."
 
-	para "May your journey"
-	line "continue to be"
-	cont "one of growth"
-	cont "and discovery."
+	para "Possa il tuo"
+	line "viaggio continuare"
+	cont "ad essere uno di"
+	cont "crescita e"
+	cont "scoperta."
 	done

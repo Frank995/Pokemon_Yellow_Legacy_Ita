@@ -1,38 +1,41 @@
 _PokemonTower1FReceptionistText::
-	text "#MON TOWER was"
-	line "erected in the"
-	cont "memory of #MON"
-	cont "that had died."
+	text "La TORRE #MON è"
+	line "stata eretta in"
+	cont "memoria dei #MON"
+	cont "che sono morti."
 	done
 
 _PokemonTower1FMiddleAgedWomanText::
-	text "Did you come to"
-	line "pay respects?"
-	cont "Bless you!"
+	text "Sei venuto a"
+	line "rendere omaggio?"
+	cont "Che tu sia"
+	cont "benedetto!"
 	done
 
 _PokemonTower1FBaldingGuyText::
-	text "I came to pray"
-	line "for my CLEFAIRY."
+	text "Sono venuto a"
+	line "pregare per il"
+	cont "mio CLEFAIRY."
 
-	para "Sniff! I can't"
-	line "stop crying..."
+	para "Sniff! Non riesco"
+	line "a smettere di"
+	cont "piangere..."
 	done
 
 _PokemonTower1FGirlText::
-	text "My GROWLITHE..."
-	line "Why did you die?"
+	text "Il mio GROWLITHE.."
+	line "Perché sei morto?"
 	done
 
 _PokemonTower1FChannelerText::
-	text "I am a CHANNELER!"
-	line "There are spirits"
-	cont "up to mischief!"
+	text "Sono una MEDIUM!"
+	line "Ci sono degli"
+	cont "spiriti che fanno"
+	cont "dispetti!"
 
-	para "Ghost-type"
-	line "#MON don't"
-	cont "make physical"
-	cont "contact, but"
-	cont "instead land"
-	cont "SPECIAL damage!"
+	para "I #MON di tipo"
+	line "Spettro non fanno"
+	cont "contatto fisico,"
+	cont "ma infliggono"
+	cont "danni SPECIALI!"
 	done

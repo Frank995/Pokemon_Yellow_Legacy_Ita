@@ -1,110 +1,119 @@
 _ViridianGymGiovanniPreBattleText::
-	text "Fwahahaha! This is"
-	line "my hideout!"
+	text "Fwahahaha!"
+	line "Questo è il mio"
+	cont "rifugio!"
 
-	para "I planned to"
-	line "resurrect TEAM"
-	cont "ROCKET here!"
+	para "Avevo pianificato"
+	line "di far risorgere"
+	cont "il TEAM ROCKET"
+	cont "qui!"
 
-	para "But, you have"
-	line "caught me again!"
-	cont "So be it! This"
-	cont "time, I'm not"
-	cont "holding back!"
+	para "Ma tu mi hai"
+	line "catturato di"
+	cont "nuovo! E sia!"
+	cont "Questa volta non"
+	cont "mi trattengo!"
 
-	para "Once more, you"
-	line "shall face"
-	cont "GIOVANNI, the"
-	cont "greatest trainer!"
+	para "Ancora una volta"
+	line "affronterai"
+	cont "GIOVANNI, il più"
+	cont "grande allenatore!"
 	done
 
 _ViridianGymGiovanniReceivedEarthBadgeText::
 	text "Ha!"
-	line "That was a truly"
-	cont "intense fight!"
-	cont "You have won!"
-	cont "As proof, here is"
-	cont "the EARTHBADGE!@"
+	line "È stata davvero"
+	cont "una lotta intensa!"
+	cont "Hai vinto!"
+	cont "Come prova, ecco"
+	cont "la MEDAGLIA"
+	cont "TERRA!@"
 	text_end
 
 _ViridianGymGiovanniPostBattleAdviceText::
-	text "Having lost, I"
-	line "cannot face my"
-	cont "underlings!"
-	cont "TEAM ROCKET is"
-	cont "finished forever!"
+	text "Avendo perso, non"
+	line "posso guardare in"
+	cont "faccia i miei"
+	cont "sottoposti!"
+	cont "Il TEAM ROCKET è"
+	cont "finito per sempre!"
 
-	para "I will dedicate my"
-	line "life to the study"
-	cont "of #MON!"
+	para "Dedicherò la mia"
+	line "vita allo studio"
+	cont "dei #MON!"
 
-	para "Let us meet again"
-	line "someday!"
-	cont "Farewell!@"
+	para "Incontriamoci di"
+	line "nuovo un giorno!"
+	cont "Addio!@"
 	text_end
 
 _ViridianGymGiovanniEarthBadgeInfoText::
-	text "The EARTHBADGE"
-	line "makes #MON of"
-	cont "any level obey!"
+	text "La MEDAGLIA TERRA"
+	line "fa obbedire i"
+	cont "#MON di"
+	cont "qualsiasi livello!"
 
-	para "It is evidence of"
-	line "your mastery as a"
-	cont "#MON trainer!"
+	para "È la prova della"
+	line "tua maestria come"
+	cont "allenatore di"
+	cont "#MON!"
 
-	para "With it, you can"
-	line "enter the #MON"
-	cont "LEAGUE!"
+	para "Con essa puoi"
+	line "entrare nella"
+	cont "LEGA #MON!"
 
-	para "It is my gift for"
-	line "your #MON"
-	cont "LEAGUE challenge!"
+	para "È il mio regalo"
+	line "per la tua sfida"
+	cont "alla LEGA #MON!"
 	done
 
 _ViridianGymGiovanniReceivedTM27Text::
-	text "<PLAYER> received"
-	line "TM27 FISSURE!@"
+	text "<PLAYER> ha"
+	line "ricevuto MT27"
+	cont "ABISSO!@"
 	text_end
 
 _ViridianGymGiovanniTM27ExplanationText::
 	text_start
 
-	para "TM27 is FISSURE!"
-	line "It will take out"
-	cont "#MON with just"
-	cont "one hit!"
+	para "MT27 è ABISSO!"
+	line "Metterà KO i"
+	cont "#MON con un"
+	cont "solo colpo!"
 
-	para "I made it when I"
-	line "ran the GYM here,"
-	cont "too long ago..."
+	para "L'ho creata quando"
+	line "dirigevo questa"
+	cont "PALESTRA, tanto"
+	cont "tempo fa..."
 	done
 
 _ViridianGymGiovanniTM27NoRoomText::
-	text "You do not have"
-	line "space for this!"
+	text "Non hai spazio"
+	line "per questo!"
 	done
 
 _ViridianGymCooltrainerM1BattleText::
-	text "Heh! You must be"
-	line "running out of"
-	cont "steam by now!"
+	text "Heh! Ormai devi"
+	line "essere a corto di"
+	cont "energie!"
 	done
 
 _ViridianGymCooltrainerM1EndBattleText::
-	text "I"
-	line "ran out of gas!"
+	text "Sono"
+	line "rimasto a secco!"
 	prompt
 
 _ViridianGymCooltrainerM1AfterBattleText::
-	text "You need power to"
-	line "keep up with our"
-	cont "GYM LEADER!"
+	text "Ti serve potenza"
+	line "per stare al passo"
+	cont "col nostro"
+	cont "CAPOPALESTRA!"
 	done
 
 _ViridianGymHiker1BattleText::
-	text "Rrrroar! I'm"
-	line "working myself"
-	cont "into a rage!"
+	text "Rrrroar! Mi sto"
+	line "caricando di"
+	cont "rabbia!"
 	done
 
 _ViridianGymHiker1EndBattleText::
@@ -112,31 +121,33 @@ _ViridianGymHiker1EndBattleText::
 	prompt
 
 _ViridianGymHiker1AfterBattleText::
-	text "I'm still not"
-	line "worthy!"
+	text "Non sono ancora"
+	line "degno!"
 	done
 
 _ViridianGymRocker1BattleText::
-	text "#MON and I, we"
-	line "make wonderful"
-	cont "music together!"
+	text "Io e i #MON"
+	line "facciamo musica"
+	cont "meravigliosa"
+	cont "insieme!"
 	done
 
 _ViridianGymRocker1EndBattleText::
-	text "You are in"
-	line "perfect harmony!"
+	text "Sei in perfetta"
+	line "armonia!"
 	prompt
 
 _ViridianGymRocker1AfterBattleText::
-	text "Do you know the"
-	line "identity of our"
-	cont "GYM LEADER?"
+	text "Conosci l'identità"
+	line "del nostro"
+	cont "CAPOPALESTRA?"
 	done
 
 _ViridianGymHiker2BattleText::
-	text "Karate is the"
-	line "ultimate form of"
-	cont "martial arts!"
+	text "Il karate è la"
+	line "forma suprema"
+	cont "delle arti"
+	cont "marziali!"
 	done
 
 _ViridianGymHiker2EndBattleText::
@@ -144,30 +155,32 @@ _ViridianGymHiker2EndBattleText::
 	prompt
 
 _ViridianGymHiker2AfterBattleText::
-	text "If my #MON"
-	line "were as good at"
-	cont "Karate as I..."
+	text "Se i miei #MON"
+	line "fossero bravi nel"
+	cont "karate quanto"
+	cont "me..."
 	done
 
 _ViridianGymCooltrainerM2BattleText::
-	text "The truly talented"
-	line "win with style!"
+	text "I veri talenti"
+	line "vincono con stile!"
 	done
 
 _ViridianGymCooltrainerM2EndBattleText::
-	text "I"
-	line "lost my grip!"
+	text "Ho"
+	line "perso la presa!"
 	prompt
 
 _ViridianGymCooltrainerM2AfterBattleText::
-	text "The LEADER will"
-	line "scold me!"
+	text "Il CAPO mi"
+	line "sgridera!"
 	done
 
 _ViridianGymHiker3BattleText::
-	text "I'm the KARATE"
-	line "KING! Your fate"
-	cont "rests with me!"
+	text "Sono il RE del"
+	line "KARATE! Il tuo"
+	cont "destino è nelle"
+	cont "mie mani!"
 	done
 
 _ViridianGymHiker3EndBattleText::
@@ -175,71 +188,78 @@ _ViridianGymHiker3EndBattleText::
 	prompt
 
 _ViridianGymHiker3AfterBattleText::
-	text "#MON LEAGUE?"
-	line "You? Don't get"
-	cont "cocky!"
+	text "LEGA #MON?"
+	line "Tu? Non montarti"
+	cont "la testa!"
 	done
 
 _ViridianGymRocker2BattleText::
-	text "Your #MON will"
-	line "cower at the"
-	cont "crack of my whip!"
+	text "I tuoi #MON"
+	line "si rannicchieranno"
+	cont "al suono della"
+	cont "mia frusta!"
 	done
 
 _ViridianGymRocker2EndBattleText::
-	text "Yowch!"
-	line "Whiplash!"
+	text "Ahi!"
+	line "Colpo di frusta!"
 	prompt
 
 _ViridianGymRocker2AfterBattleText::
-	text "Wait! I was just"
-	line "careless!"
+	text "Aspetta! Sono"
+	line "stato solo"
+	cont "sbadato!"
 	done
 
 _ViridianGymCooltrainerM3BattleText::
-	text "VIRIDIAN GYM was"
-	line "closed for a long"
-	cont "time, but now our"
-	cont "LEADER is back!"
+	text "La PALESTRA di"
+	line "SMERALDOPOLI è"
+	cont "stata chiusa a"
+	cont "lungo, ma ora il"
+	cont "nostro CAPO è"
+	cont "tornato!"
 	done
 
 _ViridianGymCooltrainerM3EndBattleText::
-	text "I"
-	line "was beaten?"
+	text "Sono"
+	line "stato sconfitto?"
 	prompt
 
 _ViridianGymCooltrainerM3AfterBattleText::
-	text "You can go on to"
-	line "#MON LEAGUE"
-	cont "only by defeating"
-	cont "our GYM LEADER!"
+	text "Puoi andare alla"
+	line "LEGA #MON"
+	cont "solo sconfiggendo"
+	cont "il nostro"
+	cont "CAPOPALESTRA!"
 	done
 
 _ViridianGymGuidePreBattleText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Yo! Futuro"
+	line "campione!"
 
-	para "Even I don't know"
-	line "VIRIDIAN LEADER's"
-	cont "identity!"
+	para "Neanche io conosco"
+	line "l'identità del"
+	cont "CAPO di"
+	cont "SMERALDOPOLI!"
 
-	para "This will be the"
-	line "toughest of all"
-	cont "GYMs!"
+	para "Questa sarà la più"
+	line "dura di tutte le"
+	cont "PALESTRE!"
 
-	para "I did hear a"
-	line "rumor that"
-	cont "this LEADER"
-	cont "is quite wealthy."
+	para "Ho sentito una"
+	line "voce che questo"
+	cont "CAPO è piuttosto"
+	cont "ricco."
 	
-	para "You should expect"
-	line "to see a lot"
-	cont "of TM moves if"
-	cont "that is true!"
+	para "Dovresti"
+	line "aspettarti di"
+	cont "vedere molte"
+	cont "mosse MT se è"
+	cont "vero!"
 	done
 
 _ViridianGymGuidePostBattleText::
-	text "Blow me away!"
-	line "GIOVANNI was the"
-	cont "GYM LEADER here?"
+	text "Incredibile!"
+	line "GIOVANNI era il"
+	cont "CAPOPALESTRA qui?"
 	done

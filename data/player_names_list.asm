@@ -1,17 +1,17 @@
 DefaultNamesPlayerList:
-	db "NEW NAME@"
-	db "YELLOW@"
+	db "NUOVO@"
+	db "ROSSO@"
 	db "ASH@"
-	db "JACK@"
+	db "MARIO@"
 
 DefaultNamesGirlList:
-	db "NEW NAME@"
-	db "GREEN@"
+	db "NUOVO@"
+	db "VERDE@"
 	db "LEAF@"
-	db "AMANDA@"
+	db "ANNA@"
 
 DefaultNamesRivalList:
-	db "NEW NAME@"
-	db "BLUE@"
+	db "NUOVO@"
+	db "BLU@"
 	db "GARY@"
-	db "JOHN@"
+	db "BENITO@"

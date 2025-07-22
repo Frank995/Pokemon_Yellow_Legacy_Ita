@@ -1,69 +1,79 @@
 _SSAnneKitchenCook1Text::
-	text "You, mon petit!"
-	line "We're busy here!"
-	cont "Out of the way!"
+	text "Tu, mon petit!"
+	line "Siamo occupati"
+	cont "qui! Fuori dai"
+	cont "piedi!"
 	done
 
 _SSAnneKitchenCook2Text::
-	text "I saw an odd ball"
-	line "in the trash."
+	text "Ho visto una palla"
+	line "strana nella"
+	cont "spazzatura."
 	done
 
 _SSAnneKitchenCook3Text::
-	text "I'm so busy I'm"
-	line "getting dizzy!"
+	text "Sono così"
+	line "indaffarato che mi"
+	cont "gira la testa!"
 	done
 
 _SSAnneKitchenCook4Text::
 	text "Hum-de-hum-de-"
 	line "ho..."
 
-	para "I peel spuds"
-	line "every day!"
+	para "Sbuccio patate"
+	line "ogni giorno!"
 	cont "Hum-hum..."
 	done
 
 _SSAnneKitchenCook5Text::
-	text "Did you hear about"
+	text "Hai sentito di"
 	line "SNORLAX?"
 
-	para "All it does is"
-	line "eat and sleep!"
+	para "Non fa altro che"
+	line "mangiare e"
+	cont "dormire!"
 	done
 
 _SSAnneKitchenCook6Text::
-	text "Snivel...Sniff..."
+	text "Singhiozzo..."
+	line "Sniff..."
 
-	para "I only get to"
-	line "peel onions..."
-	cont "Snivel..."
+	para "Posso solo"
+	line "sbucciare"
+	cont "cipolle..."
+	cont "Singhiozzo..."
 	done
 
 _SSAnneKitchenCook7MainCourseIsText::
-	text "Er-hem! Indeed I"
-	line "am le CHEF!"
+	text "Er-hem! Infatti io"
+	line "sono le CHEF!"
 
-	para "Le main course is"
+	para "Le portata"
+	line "principale è"
 	prompt
 
 SSAnneKitchenCook7SalmonDuSaladText::
-	text "Salade de Salmon!"
+	text "Salade de Saumon!"
 
-	para "Les guests may"
-	line "gripe it's fish"
-	cont "again, however!"
+	para "Les hotes"
+	line "potrebbero"
+	cont "lamentarsi che è"
+	cont "di nuovo pesce,"
+	cont "però!"
 	done
 
 SSAnneKitchenCook7EelsAuBarbecueText::
 	text "Eels au Barbecue!"
 
-	para "Les guests will"
-	line "mutiny, I fear."
+	para "Les hotes si"
+	line "rivolteranno,"
+	cont "temo."
 	done
 
 SSAnneKitchenCook7PrimeBeefSteakText::
 	text "Prime Beef Steak!"
 
-	para "But, have I enough"
+	para "Ma, ho abbastanza"
 	line "fillets du beef?"
 	done

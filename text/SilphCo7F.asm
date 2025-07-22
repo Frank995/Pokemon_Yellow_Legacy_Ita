@@ -1,209 +1,229 @@
 _SilphCo7FSilphWorkerM1HaveThisPokemonText::
-	text "Oh! Hi! You're"
-	line "not a ROCKET! You"
-	cont "came to save us?"
-	cont "Why, thank you!"
+	text "Oh! Ciao! Non sei"
+	line "un ROCKET! Sei"
+	cont "venuto a salvarci?"
+	cont "Grazie mille!"
 
-	para "I want you to"
-	line "have this #MON"
-	cont "for saving us."
+	para "Voglio che tu"
+	line "abbia questo"
+	cont "#MON per"
+	cont "averci salvato."
 	prompt
 
 _SilphCo7FSilphWorkerM1LaprasDescriptionText::
-	text "It's LAPRAS. It's"
-	line "very intelligent."
+	text "È LAPRAS. è molto"
+	line "intelligente."
 
-	para "We kept it in our"
-	line "lab, but it will"
-	cont "be much better"
-	cont "off with you!"
+	para "Lo tenevamo nel"
+	line "nostro laboratorio"
+	cont "ma starà molto "
+	cont "meglio con te!"
 
-	para "I think you will"
-	line "be a good trainer"
-	cont "for LAPRAS!"
+	para "Penso che sarai un"
+	line "bravo allenatore"
+	cont "per LAPRAS!"
 
-	para "It's a good"
-	line "swimmer. It'll"
-	cont "give you a lift!"
+	para "È un bravo"
+	line "nuotatore. Ti"
+	cont "darà un passaggio!"
 	done
 
 _SilphCo7FSilphWorkerM1IsOurPresidentOkText::
-	text "TEAM ROCKET's"
-	line "BOSS went to the"
-	cont "boardroom! Is our"
-	cont "PRESIDENT OK?"
+	text "Il BOSS del TEAM"
+	line "ROCKET è andato"
+	cont "nella sala"
+	cont "riunioni!"
+	cont "Il nostro"
+	cont "PRESIDENTE"
+	cont "sta bene?"
 	done
 
 _SilphCo7FSilphWorkerM1SavedText::
-	text "Saved at last!"
-	line "Thank you!"
+	text "Salvati"
+	line "finalmente!"
+	line "Grazie!"
 	done
 
 _SilphCo7FSilphWorkerM2AfterTheMasterBallText::
-	text "TEAM ROCKET was"
-	line "after the MASTER"
-	cont "BALL which will"
-	cont "catch any #MON!"
+	text "Il TEAM ROCKET"
+	line "cercava la MASTER"
+	cont "BALL che cattura"
+	cont "qualsiasi #MON!"
 	done
 
 _SilphCo7FSilphWorkerM2CancelledMasterBallText::
-	text "We canceled the"
-	line "MASTER BALL"
-	cont "project because"
-	cont "of TEAM ROCKET."
+	text "Abbiamo cancellato"
+	line "il progetto MASTER"
+	cont "BALL a causa del"
+	cont "TEAM ROCKET."
 	done
 
 _SilphCo7FSilphWorkerM3ItWouldBeBadText::
-	text "It would be bad"
-	line "if TEAM ROCKET"
-	cont "took over SILPH"
-	cont "or our #MON!"
+	text "Sarebbe un"
+	line "disastro se il"
+	cont "TEAM ROCKET"
+	cont "prendesse il"
+	cont "controllo della"
+	cont "della SILPH o dei"
+	cont "nostri #MON!"
 	done
 
 _SilphCo7FSilphWorkerM3YouChasedOffTeamRocketText::
-	text "Wow! You chased"
-	line "off TEAM ROCKET"
-	cont "all by yourself?"
+	text "Wow! Hai cacciato"
+	line "il TEAM ROCKET"
+	cont "tutto da solo?"
 	done
 
 _SilphCo7FSilphWorkerM4ItsReallyDangerousHereText::
-	text "You! It's really"
-	line "dangerous here!"
-	cont "You came to save"
-	cont "me? You can't!"
+	text "Tu! è davvero"
+	line "pericoloso qui!"
+	cont "Sei venuto a"
+	cont "salvarmi?"
+	cont "Non puoi!"
 	done
 
 _SilphCo7FSilphWorkerM4SafeAtLastText::
-	text "Safe at last!"
-	line "Oh thank you!"
+	text "Finalmente al"
+	line "sicuro!"
+	cont "Oh, grazie!"
 	done
 
 _SilphCo7FRocket1BattleText::
-	text "Aha! I smell a"
-	line "little rat!"
+	text "Aha! Sento odore"
+	line "di topo!"
 	done
 
 _SilphCo7FRocket1EndBattleText::
-	text "Lights"
-	line "out!"
+	text "Spento!"
 	prompt
 
 _SilphCo7FRocket1AfterBattleText::
-	text "You won't find my"
-	line "BOSS by just"
-	cont "scurrying around!"
+	text "Non troverai il"
+	line "mio BOSS"
+	cont "semplicemente"
+	cont "sgattaiolando in giro!"
 	done
 
 _SilphCo7FScientistBattleText::
 	text "Heheh!"
 
-	para "You mistook me for"
-	line "a SILPH worker?"
+	para "Mi hai scambiato"
+	line "per un impiegato"
+	cont "della SILPH?"
 	done
 
 _SilphCo7FScientistEndBattleText::
-	text "I'm"
-	line "done!"
+	text "Sono"
+	line "finito!"
 	prompt
 
 _SilphCo7FScientistAfterBattleText::
-	text "Despite your age,"
-	line "you are a skilled"
-	cont "trainer!"
+	text "Nonostante la tua"
+	line "età, sei un"
+	cont "allenatore"
+	cont "esperto!"
 	done
 
 _SilphCo7FRocket2BattleText::
-	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	text "Sono uno dei 4"
+	line "FRATELLI ROCKET!"
 	done
 
 _SilphCo7FRocket2EndBattleText::
 	text "Aack!"
-	line "Brothers, I lost!"
+	line "Fratelli, ho"
+	cont "perso!"
 	prompt
 
 _SilphCo7FRocket2AfterBattleText::
-	text "Doesn't matter."
-	line "My brothers will"
-	cont "repay the favor!"
+	text "Non importa."
+	line "I miei fratelli"
+	cont "si vendicheranno!"
 	done
 
 _SilphCo7FRocket3BattleText::
-	text "A child intruder?"
-	line "That must be you!"
+	text "Un intruso"
+	line "bambino?"
+	cont "Devi essere tu!"
 	done
 
 _SilphCo7FRocket3EndBattleText::
-	text "Fine!"
-	line "I lost!"
+	text "Bene!"
+	line "Ho perso!"
 	prompt
 
 _SilphCo7FRocket3AfterBattleText::
-	text "Go on home"
-	line "before my BOSS"
-	cont "gets ticked off!"
+	text "Vai a casa"
+	line "prima che il mio"
+	cont "BOSS si arrabbi!"
 	done
 
 _SilphCo7FRivalText::
-	text "<RIVAL>: What"
-	line "kept you <PLAYER>?"
+	text "<RIVAL>: Cosa ti"
+	line "ha trattenuto"
+	cont "<PLAYER>?"
 	done
 
 _SilphCo7FRivalWaitedHereText::
 	text "<RIVAL>: Hahaha!"
-	line "I thought you'd"
-	cont "turn up if I"
-	cont "waited here!"
+	line "Pensavo che"
+	cont "saresti arrivato"
+	cont "se avessi"
+	cont "aspettato qui!"
 
-	para "I guess TEAM"
-	line "ROCKET slowed you"
-	cont "down! Not that I"
-	cont "care!"
+	para "Immagino che il"
+	line "TEAM ROCKET ti"
+	cont "abbia rallentato!"
+	cont "Non che me ne"
+	cont "importi!"
 
-	para "I saw you in"
-	line "SAFFRON, so I"
-	cont "decided to see if"
-	cont "you got better!"
+	para "Ti ho visto a"
+	line "ZAFFERANOPOLI,"
+	cont "così ho deciso di"
+	cont "vedere se eri"
+	cont "migliorato!"
 	done
 
 _SilphCo7FRivalDefeatedText::
 	text "Oh-oh!"
-	line "So, you are ready"
-	cont "for BOSS ROCKET!"
+	line "Allora, sei pronto"
+	cont "per il BOSS"
+	cont "ROCKET!"
 	prompt
 
 _SilphCo7FRivalVictoryText::
-	text "<RIVAL>: How can"
-	line "I put this?"
+	text "<RIVAL>: Come"
+	line "posso dirlo?"
 
-	para "You're not good"
-	line "enough to play"
-	cont "with us big boys!"
+	para "Non sei abbastanza"
+	line "bravo per giocare"
+	cont "con noi grandi!"
 	prompt
 
 _SilphCo7FRivalGoodLuckToYouText::
-	text "Well, <PLAYER>!"
+	text "Bene, <PLAYER>!"
 
-	para "I'm moving on up"
-	line "and ahead!"
+	para "Io vado avanti e"
+	line "sempre più in"
+	cont "alto!"
 
-	para "By checking my"
-	line "#DEX, I'm"
-	cont "starting to see"
-	cont "what's strong and"
-	cont "how they evolve!"
+	para "Controllando il"
+	line "mio #DEX, sto"
+	cont "iniziando a capire"
+	cont "cosa è forte e"
+	cont "come si evolve!"
 
-	para "I'm going to the"
-	line "#MON LEAGUE"
-	cont "to boot out the"
-	cont "ELITE FOUR!"
+	para "Sto andando alla"
+	line "LEGA #MON"
+	cont "per cacciare i"
+	cont "SUPERQUATTRO!"
 
-	para "I'll become the"
-	line "world's most"
-	cont "powerful trainer!"
+	para "Diventerò"
+	line "l'allenatore più"
+	cont "potente del mondo!"
 
-	para "<PLAYER>, well"
-	line "good luck to you!"
-	cont "Don't sweat it!"
-	cont "Smell ya!"
+	para "<PLAYER>, beh"
+	line "buona fortuna!"
+	cont "Non sudare!"
+	cont "Ci si vede!"
 	done

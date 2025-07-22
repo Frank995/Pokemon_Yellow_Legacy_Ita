@@ -1,189 +1,207 @@
 _GameCornerBeauty1Text::
-	text "Welcome!"
+	text "Benvenuto!"
 
-	para "You can exchange"
-	line "your coins for"
-	cont "fabulous prizes"
-	cont "next door."
+	para "Puoi scambiare"
+	line "i tuoi gettoni per"
+	cont "fantastici premi"
+	cont "nella porta"
+	cont "accanto."
 	done
 
 _GameCornerClerkDoYouNeedSomeGameCoinsText::
-	text "Welcome to ROCKET"
-	line "GAME CORNER!"
+	text "Benvenuto alla"
+	line "SALA GIOCHI"
+	cont "ROCKET!"
 
-	para "Do you need some"
-	line "game coins?"
+	para "Ti servono dei"
+	line "gettoni da gioco?"
 
-	para "It's ¥1000 for 50"
-	line "coins. Would you"
-	cont "like some?"
+	para "Costano ¥1000 per"
+	line "50 gettoni. Ne"
+	cont "vuoi alcune?"
 	done
 
 _GameCornerClerkThanksHereAre50CoinsText::
-	text "Thanks! Here are"
-	line "your 50 coins!"
+	text "Grazie! Ecco i"
+	line "tuoi 50 gettoni!"
 	done
 
 _GameCornerClerkPleaseComePlaySometimeText::
-	text "No? Please come"
-	line "play sometime!"
+	text "No? Per favore"
+	line "vieni a giocare"
+	cont "qualche volta!"
 	done
 
 _GameCornerClerkCantAffordTheCoinsText::
-	text "You can't afford"
-	line "the coins!"
+	text "Non puoi"
+	line "permetterti"
+	cont "i gettoni!"
 	done
 
 _GameCornerClerkCoinCaseIsFullText::
-	text "Oops! Your COIN"
-	line "CASE is full."
+	text "Ops! Il tuo"
+	line "SALVADANAIO è"
+	cont "pieno."
 	done
 
 _GameCornerClerkDontHaveCoinCaseText::
-	text "You don't have a"
-	line "COIN CASE!"
+	text "Non hai un"
+	line "SALVADANAIO!"
 	done
 
 _GameCornerMiddleAgedMan1Text::
-	text "Keep this quiet."
+	text "Tieni la bocca"
+	line "chiusa."
 
-	para "It's rumored that"
-	line "this place is run"
-	cont "by TEAM ROCKET."
+	para "Si dice in giro"
+	line "che questo posto"
+	cont "sia gestito dal"
+	cont "TEAM ROCKET."
 	done
 
 _GameCornerBeauty2Text::
-	text "I think these"
-	line "machines have"
-	cont "different odds."
+	text "Penso che queste"
+	line "macchine abbiano"
+	cont "probabilità"
+	cont "diverse."
 	done
 
 _GameCornerFishingGuru1WantToPlayText::
-	text "Kid, do you want"
-	line "to play?"
+	text "Ragazzo, vuoi"
+	line "giocare?"
 	prompt
 
 _GameCornerFishingGuru1Received10CoinsText::
-	text "<PLAYER> received"
-	line "10 coins!@"
+	text "<PLAYER> ha"
+	line "ricevuto"
+	cont "10 gettoni!@"
 	text_end
 
 _GameCornerFishingGuru1DontNeedMyCoinsText::
-	text "You don't need my"
-	line "coins!"
+	text "Non hai bisogno"
+	line "dei miei gettoni!"
 	done
 
 _GameCornerFishingGuru1WinsComeAndGoText::
-	text "Wins seem to come"
-	line "and go."
+	text "Le vincite vanno"
+	line "e vengono."
 	done
 
 _GameCornerMiddleAgedWomanText::
-	text "I'm having a"
-	line "wonderful time!"
+	text "Mi sto divertendo"
+	line "un mondo!"
 	done
 
 _GameCornerGymGuideChampInMakingText::
-	text "Hey!"
-	line "You found me!"
+	text "Ehi!"
+	line "Mi hai trovato!"
 
-	para "CELADON GYM's"
-	line "LEADER is ERIKA!"
-	cont "She uses grass-"
-	cont "type #MON!"
+	para "La CAPOPALESTRA"
+	line "di AZZURROPOLI è"
+	cont "ERIKA! Usa #MON"
+	cont "di tipo erba!"
 
-	para "They wouldn't"
-	line "let me in so"
-	cont "I don't know"
-	cont "anything else!"
+	para "Non mi hanno fatto"
+	line "entrare quindi non"
+	cont "so nient'altro!"
 
-	para "Maybe the JUNIOR"
-	line "TRAINERs will"
-	cont "let some info"
-	cont "slip if you"
-	cont "beat them!"
+	para "Forse gli"
+	line "ALLENATORI JUNIOR"
+	cont "si lasceranno"
+	cont "scappare qualche"
+	cont "informazione se"
+	cont "li sconfiggi!"
 	done
 
 _GameCornerGymGuideTheyOfferRarePokemonText::
-	text "They offer rare"
-	line "#MON that can"
-	cont "be exchanged for"
-	cont "your coins."
+	text "Offrono #MON"
+	line "rari che puoi"
+	cont "ottenere in cambio"
+	cont "dei tuoi gettoni."
 
-	para "But, I just can't"
-	line "seem to win!"
+	para "Ma io proprio non"
+	line "riesco a vincere!"
 	done
 
 _GameCornerGamblerText::
-	text "Games are scary!"
-	line "It's so easy to"
-	cont "get hooked!"
+	text "I giochi fanno"
+	line "paura! È così"
+	cont "facile diventarne"
+	cont "dipendenti!"
 	done
 
 _GameCornerMiddleAgedMan2WantSomeCoinsText::
-	text "What's up? Want"
-	line "some coins?"
+	text "Come va? Vuoi"
+	line "dei gettoni?"
 	prompt
 
 _GameCornerMiddleAgedMan2Received20CoinsText::
-	text "<PLAYER> received"
-	line "20 coins!@"
+	text "<PLAYER> ha"
+	line "ricevuto"
+	cont "20 gettoni!@"
 	text_end
 
 _GameCornerMiddleAgedMan2YouHaveLotsOfCoinsText::
-	text "You have lots of"
-	line "coins!"
+	text "Hai un sacco di"
+	line "gettoni!"
 	done
 
 _GameCornerMiddleAgedMan2INeedMoreCoinsText::
-	text "Darn! I need more"
-	line "coins for the"
-	cont "#MON I want!"
+	text "Accidenti! Mi"
+	line "servono più"
+	cont "gettoni per il"
+	cont "#MON che voglio!"
 	done
 
 _GameCornerFishingGuru2ThrowingMeOffText::
-	text "Hey, what? You're"
-	line "throwing me off!"
-	cont "Here are some"
-	cont "coins, shoo!"
+	text "Ehi, cosa? Mi stai"
+	line "distraendo! Ecco"
+	cont "dei gettoni,"
+	cont "sparisci!"
 	prompt
 
 _GameCornerFishingGuru2Received20CoinsText::
-	text "<PLAYER> received"
-	line "20 coins!@"
+	text "<PLAYER> ha"
+	line "ricevuto"
+	cont "20 gettoni!@"
 	text_end
 
 _GameCornerFishingGuru2YouGotYourOwnCoinsText::
-	text "You've got your"
-	line "own coins!"
+	text "Hai già i tuoi"
+	line "gettoni!"
 	done
 
 _GameCornerFishingGuru2CloselyWatchTheReelsText::
-	text "The trick is to"
-	line "watch the reels"
-	cont "closely!"
+	text "Il trucco è"
+	line "osservare"
+	cont "attentamente i"
+	cont "rulli!"
 	done
 
 _GameCornerRocketImGuardingThisPosterText::
-	text "I'm guarding this"
-	line "poster!"
-	cont "Go away, or else!"
+	text "Sto sorvegliando"
+	line "questo poster!"
+	cont "Vattene, o sono"
+	cont "guai!"
 	done
 
 _GameCornerRocketBattleEndText::
-	text "Dang!"
+	text "Dannazione!"
 	prompt
 
 _GameCornerRocketAfterBattleText::
-	text "Our hideout might"
-	line "be discovered! I"
-	cont "better tell BOSS!"
+	text "Il nostro"
+	line "nascondiglio"
+	cont "potrebbe essere"
+	cont "scoperto! Meglio"
+	cont "che avvisi il"
+	cont "CAPO!"
 	done
 
 _GameCornerPosterSwitchBehindPosterText::
-	text "Hey!"
+	text "Ehi!"
 
-	para "A switch behind"
-	line "the poster!?"
-	cont "Let's push it!@"
+	para "Un interruttore"
+	line "dietro il poster!?"
+	cont "Premiamolo!@"
 	text_end

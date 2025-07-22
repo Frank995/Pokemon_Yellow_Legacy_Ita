@@ -1,60 +1,62 @@
 _CeladonDinerCookText::
-	text "Hi!"
+	text "Ciao!"
 
-	para "We're taking a"
-	line "break now."
+	para "Stiamo facendo"
+	line "una pausa."
 	done
 
 _CeladonDinerMiddleAgedWomanText::
-	text "My #MON are"
-	line "weak, so I often"
-	cont "have to go to the"
-	cont "POWER ZONE."
+	text "I miei #MON sono"
+	line "deboli, quindi"
+	cont "vado spesso alla"
+	cont "ZONA ENERGIA."
 	done
 
 _CeladonDinerMiddleAgedManText::
-	text "Psst! There's a"
-	line "basement under"
-	cont "the GAME CORNER."
+	text "Psst! C'è un"
+	line "seminterrato"
+	cont "sotto la SALA"
+	cont "GIOCHI."
 	done
 
 _CeladonDinerFisherText::
 	text "Munch..."
 
-	para "The man at that"
-	line "table lost it all"
-	cont "at the slots."
+	para "L'uomo a quel"
+	line "tavolo ha perso"
+	cont "tutto alle slot."
 	done
 
 _CeladonDinerGymGuideImFlatOutBustedText::
-	text "Go ahead! Laugh!"
+	text "Vai avanti! Ridi!"
 
-	para "I'm flat out"
-	line "busted!"
+	para "Sono completamente"
+	line "al verde!"
 
-	para "No more slots for"
-	line "me! I'm going"
-	cont "straight!"
+	para "Niente più slot"
+	line "per me! Vado"
+	cont "dritto per la"
+	cont "mia strada!"
 
-	para "Here! I won't be"
-	line "needing this any-"
-	cont "more!"
+	para "Ecco! Non ne"
+	line "avrò più bisogno!"
 	prompt
 
 _CeladonDinerGymGuideReceivedCoinCaseText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> riceve"
+	line "un @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _CeladonDinerGymGuideCoinCaseNoRoomText::
-	text "Make room for"
-	line "this!"
+	text "Fai spazio per"
+	line "questo!"
 	done
 
 _CeladonDinerGymGuideWinItBackText::
-	text "I always thought"
-	line "I was going to"
-	cont "win it back..."
+	text "Pensavo sempre"
+	line "di riuscire a"
+	cont "riguadagnare"
+	cont "tutto..."
 	done

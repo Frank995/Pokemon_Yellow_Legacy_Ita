@@ -1,37 +1,42 @@
 _CinnabarIslandDoorIsLockedText::
-	text "The door is"
-	line "locked..."
+	text "La porta è"
+	line "chiusa a chiave..."
 	done
 
 _CinnabarIslandGirlText::
-	text "CINNABAR GYM's"
-	line "BLAINE is an odd"
-	cont "man who has lived"
-	cont "here for decades."
+	text "BLAINE della"
+	line "PALESTRA di ISOLA"
+	cont "CANNELLA è un uomo"
+	cont "strano che vive"
+	cont "qui da decenni."
 	done
 
 _CinnabarIslandGamblerText::
-	text "Scientists conduct"
-	line "experiments in"
-	cont "the burned-out"
-	cont "building."
+	text "Gli scienziati"
+	line "conducono"
+	cont "esperimenti"
+	cont "nell'edificio"
+	cont "bruciato."
 	done
 
 _CinnabarIslandSignText::
-	text "CINNABAR ISLAND"
-	line "The Fiery Town of"
-	cont "Burning Desire"
+	text "ISOLA CANNELLA"
+	line "La Città Infuocata"
+	cont "del Desiderio"
+	cont "Ardente"
 	done
 
 _CinnabarIslandPokemonLabSignText::
-	text "#MON LAB"
+	text "LABORATORIO"
+	line "#MON"
 	done
 
 _CinnabarIslandGymSignText::
-	text "CINNABAR ISLAND"
-	line "#MON GYM"
-	cont "LEADER: BLAINE"
+	text "ISOLA CANNELLA"
+	line "PALESTRA #MON"
+	cont "CAPOPALESTRA:"
+	cont "BLAINE"
 
-	para "The Hot-Headed"
-	line "Quiz Master!"
+	para "Il Maestro di Quiz"
+	line "dalla Testa Calda!"
 	done

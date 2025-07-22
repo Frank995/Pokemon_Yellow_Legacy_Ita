@@ -1,68 +1,74 @@
 _CeruleanBadgeHouseMiddleAgedManText::
-	text "#MON BADGEs"
-	line "are owned only by"
-	cont "skilled trainers."
+	text "Le MEDAGLIE"
+	line "#MON sono"
+	cont "possedute solo"
+	cont "da allenatori"
+	cont "esperti."
 
-	para "I see you have"
-	line "at least one."
+	para "Vedo che ne hai"
+	line "almeno una."
 
-	para "Those BADGEs have"
-	line "amazing secrets!"
+	para "Quelle MEDAGLIE"
+	line "hanno segreti"
+	cont "incredibili!"
 	prompt
 
 _CeruleanBadgeHouseMiddleAgedManWhichBadgeText::
-	text "Now then..."
+	text "Allora..."
 
-	para "Which of the 8"
-	line "BADGEs should I"
-	cont "describe?"
+	para "Quale delle 8"
+	line "MEDAGLIE dovrei"
+	cont "descrivere?"
 	done
 
 _CeruleanBadgeHouseMiddleAgedManVisitAnyTimeText::
-	text "Come visit me any-"
-	line "time you wish."
+	text "Vieni a trovarmi"
+	line "quando vuoi."
 	done
 
 _CeruleanBadgeHouseBoulderBadgeText::
-	text "The ATTACK of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "L'ATTACCO di tutti"
+	line "i #MON aumenta"
+	cont "leggermente."
 
-	para "It also lets you"
-	line "use FLASH any-"
-	cont "time you desire."
+	para "Ti permette di"
+	line "usare FLASH"
+	cont "quando vuoi."
 	prompt
 
 _CeruleanBadgeHouseCascadeBadgeText::
-	text "#MON up to L30"
-	line "will obey you."
+	text "I #MON fino al"
+	line "L30 ti"
+	cont "obbediranno."
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "Oltre quel"
+	line "livello,"
+	cont "diventano ribelli!"
 
-	para "It also lets you"
-	line "use CUT outside"
-	cont "of battle."
+	para "Ti permette di"
+	line "usare TAGLIO"
+	cont "fuori dalla lotta."
 	prompt
 
 _CeruleanBadgeHouseThunderBadgeText::
-	text "The SPEED of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "La VELOCITÀ di"
+	line "tutti i #MON"
+	cont "aumenta"
+	cont "leggermente."
 
-	para "It also lets you"
-	line "use FLY outside"
-	cont "of battle."
+	para "Ti permette di"
+	line "usare VOLO"
+	cont "fuori dalla lotta."
 	prompt
 
 _CeruleanBadgeHouseRainbowBadgeText::
-	text "#MON up to L50"
-	line "will obey you."
+	text "I #MON fino al L50"
+	line "ti obbediranno."
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "Oltre quel livello"
+	line "diventano ribelli!"
 
-	para "It also lets you"
-	line "use STRENGTH out-"
-	cont "side of battle."
+	para "Ti permette di"
+	line "usare FORZA"
+	cont "fuori dalla lotta."
 	prompt

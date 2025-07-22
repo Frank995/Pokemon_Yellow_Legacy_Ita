@@ -1,64 +1,68 @@
 _LavenderTownLittleGirlDoYouBelieveInGhostsText::
-	text "Do you believe in"
-	line "GHOSTs?"
+	text "Credi nei"
+	line "FANTASMI?"
 	done
 
 _LavenderTownLittleGirlSoThereAreBelieversText::
-	text "Really? So there"
-	line "are believers..."
+	text "Davvero? Quindi"
+	line "ci sono dei"
+	cont "credenti..."
 	done
 
 _LavenderTownLittleGirlHaHaGuessNotText::
-	text "Hahaha, I guess"
-	line "not."
+	text "Ahahah, immagino"
+	line "di no."
 
-	para "That white hand"
-	line "on your shoulder,"
-	cont "it's not real."
+	para "Quella mano bianca"
+	line "sulla tua spalla,"
+	cont "non è reale."
 	done
 
 _LavenderTownCooltrainerMText::
-	text "This town is known"
-	line "as the grave site"
-	cont "of #MON."
+	text "Questa città è"
+	line "conosciuta come il"
+	cont "cimitero dei #MON."
 
-	para "Memorial services"
-	line "are held in"
-	cont "#MON TOWER."
+	para "I servizi funebri"
+	line "si tengono nella"
+	cont "TORRE #MON."
 	done
 
 _LavenderTownSuperNerdText::
-	text "GHOSTs appeared"
-	line "in #MON TOWER."
+	text "Sono apparsi dei"
+	line "FANTASMI nella"
+	cont "TORRE #MON."
 
-	para "I think they're"
-	line "the spirits of"
-	cont "#MON that the"
-	cont "ROCKETs killed."
+	para "Penso che siano"
+	line "gli spiriti dei"
+	cont "#MON che il TEAM"
+	cont "ROCKET ha ucciso."
 	done
 
 _LavenderTownSignText::
-	text "LAVENDER TOWN"
-	line "The Noble Purple"
-	cont "Town"
+	text "LAVANDONIA"
+	line "La Nobile Città"
+	cont "Viola"
 	done
 
 _LavenderTownSilphScopeSignText::
-	text "New SILPH SCOPE!"
+	text "Nuova SPETTROSONDA"
+	line "SILPH!"
 
-	para "Make the Invisible"
-	line "Plain to See!"
+	para "Rendi l'Invisibile"
+	line "Visibile a Tutti!"
 
 	para "SILPH CO."
 	done
 
 _LavenderTownPokemonHouseSignText::
-	text "LAVENDER VOLUNTEER"
-	line "#MON HOUSE"
+	text "CASA VOLONTARI"
+	line "#MON LAVANDONIA"
 	done
 
 _LavenderTownPokemonTowerSignText::
-	text "May the Souls of"
-	line "#MON Rest Easy"
-	cont "#MON TOWER"
+	text "Possano le Anime"
+	line "dei #MON"
+	cont "Riposare in Pace"
+	cont "TORRE #MON"
 	done

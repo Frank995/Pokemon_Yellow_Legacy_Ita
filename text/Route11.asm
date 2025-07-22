@@ -1,162 +1,175 @@
 _Route11Gambler1BattleText::
-	text "Win, lose or draw!"
+	text "Vincere, perdere"
+	line "o pareggiare!"
 	done
 
 _Route11Gambler1EndBattleText::
-	text "Atcha!"
-	line "Didn't go my way!"
+	text "Accidenti!"
+	line "Non è andata"
+	cont "come volevo!"
 	prompt
 
 _Route11Gambler1AfterBattleText::
-	text "#MON is life!"
-	line "And to live is to"
-	cont "gamble!"
+	text "I #MON"
+	line "sono la vita!"
+	cont "E vivere significa"
+	cont "scommettere!"
 	done
 
 _Route11Gambler2BattleText::
-	text "Competition! I"
-	line "can't get enough!"
+	text "Competizione!"
+	line "Non ne ho mai"
+	cont "abbastanza!"
 	done
 
 _Route11Gambler2EndBattleText::
-	text "I had"
-	line "a chance!"
+	text "Avevo"
+	line "una possibilità!"
 	prompt
 
 _Route11Gambler2AfterBattleText::
-	text "You can't be a"
-	line "coward in the"
-	cont "world of #MON!"
+	text "Non puoi essere un"
+	line "codardo nel mondo"
+	cont "dei #MON!"
 	done
 
 _Route11Youngster1BattleText::
-	text "Let's go, but"
-	line "don't cheat!"
+	text "Andiamo, ma"
+	line "non barare!"
 	done
 
 _Route11Youngster1EndBattleText::
-	text "Huh?"
-	line "That's not right!"
+	text "Eh?"
+	line "Non è giusto!"
 	prompt
 
 _Route11Youngster1AfterBattleText::
-	text "I did my best! I"
-	line "have no regrets!"
+	text "Ho fatto del"
+	line "mio meglio!"
+	cont "Non ho rimpianti!"
 	done
 
 _Route11SuperNerd1BattleText::
-	text "Careful!"
-	line "I'm laying down"
-	cont "some cables!"
+	text "Attento!"
+	line "Sto stendendo"
+	cont "dei cavi!"
 	done
 
 _Route11SuperNerd1EndBattleText::
-	text "That"
-	line "was electric!"
+	text "È stato"
+	line "elettrizzante!"
 	prompt
 
 _Route11SuperNerd1AfterBattleText::
-	text "Spread the word"
-	line "to save energy!"
+	text "Spargi la voce per"
+	line "risparmiare"
+	cont "energia!"
 	done
 
 _Route11Youngster2BattleText::
-	text "I just became a"
-	line "trainer! But, I"
-	cont "think I can win!"
+	text "Sono appena"
+	line "diventato"
+	cont "un allenatore!"
+	cont "Ma penso di"
+	cont "poter vincere!"
 	done
 
 _Route11Youngster2EndBattleText::
-	text "My"
-	line "#MON couldn't!"
+	text "I miei #MON"
+	line "non ce l'hanno"
+	cont "fatta!"
 	prompt
 
 _Route11Youngster2AfterBattleText5::
-	text "What do you want?"
-	line "Leave me alone!"
+	text "Cosa vuoi?"
+	line "Lasciami in pace!"
 	done
 
 _Route11Gambler3BattleText::
-	text "Fwahaha! I have"
-	line "never lost!"
+	text "Fwahaha! Non ho"
+	line "mai perso!"
 	done
 
 _Route11Gambler3EndBattleText::
-	text "My"
-	line "first loss!"
+	text "La mia"
+	line "prima sconfitta!"
 	prompt
 
 _Route11Gambler3AfterBattleText::
-	text "Luck of the draw!"
-	line "Just luck!"
+	text "Fortuna del"
+	line "sorteggio!"
+	cont "Solo fortuna!"
 	done
 
 _Route11Gambler4BattleText::
-	text "I have never won"
-	line "before..."
+	text "Non ho mai vinto"
+	line "prima d'ora..."
 	done
 
 _Route11Gambler4EndBattleText::
-	text "I saw"
-	line "this coming..."
+	text "Me lo"
+	line "aspettavo..."
 	prompt
 
 _Route11Gambler4AfterBattleText::
-	text "It's just luck."
-	line "Luck of the draw."
+	text "È solo fortuna."
+	line "Fortuna del"
+	cont "sorteggio."
 	done
 
 _Route11Youngster3BattleText::
-	text "I'm the best in"
-	line "my class!"
+	text "Sono il migliore"
+	line "della mia classe!"
 	done
 
 _Route11Youngster3EndBattleText::
-	text "Darn!"
-	line "I need to make my"
-	cont "#MON stronger!"
+	text "Dannazione!"
+	line "Devo rendere i"
+	cont "miei #MON"
+	cont "più forti!"
 	prompt
 
 _Route11Youngster3AfterBattleText::
-	text "There's a fat"
-	line "#MON that"
-	cont "comes down from"
-	cont "the mountains."
+	text "C'è un #MON"
+	line "grasso che scende"
+	cont "dalle montagne."
 
-	para "It's strong if"
-	line "you can get it."
+	para "È forte se riesci"
+	line "a catturarlo."
 	done
 
 _Route11SuperNerd2BattleText::
-	text "Watch out for"
-	line "live wires!"
+	text "Attento ai cavi"
+	line "sotto tensione!"
 	done
 
 _Route11SuperNerd2EndBattleText::
 	text "Whoa!"
-	line "You spark plug!"
+	line "Che scintilla!"
 	prompt
 
 _Route11SuperNerd2AfterBattleText::
-	text "Well, better get"
-	line "back to work."
+	text "Beh, meglio"
+	line "tornare al lavoro."
 	done
 
 _Route11Youngster4BattleText::
-	text "My #MON should"
-	line "be ready by now!"
+	text "I miei #MON"
+	line "dovrebbero essere"
+	cont "pronti ora!"
 	done
 
 _Route11Youngster4EndBattleText::
-	text "Too"
-	line "much, too young!"
+	text "Troppo"
+	line "e troppo giovane!"
 	prompt
 
 _Route11Youngster4AfterBattleText::
-	text "I better go find"
-	line "stronger ones!"
+	text "Meglio che vada"
+	line "a cercarne di"
+	cont "più forti!"
 	done
 
 _Route11DiglettsCaveSignText::
-	text "DIGLETT's CAVE"
+	text "GROTTA DIGLETT"
 	done

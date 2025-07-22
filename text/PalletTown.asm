@@ -1,83 +1,91 @@
 _PalletTownOakHeyWaitDontGoOutText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@"
+	text "OAK: Ehi! Aspetta!"
+	line "Non uscire!@"
 	text_end
 
 _PalletTownOakThatWasCloseText::
-	text "OAK: That was"
-	line "close!"
+	text "OAK: C'è mancato"
+	line "poco!"
 
-	para "Wild #MON live"
-	line "in tall grass!"
+	para "I #MON selvatici"
+	line "vivono nell'erba"
+	cont "alta!"
 	done
 
 _PalletTownOakWhewText::
-	text "OAK: Whew..."
+	text "OAK: Uff..."
 	done
 
 _PalletTownOakComeWithMe::
-	text "OAK: A #MON can"
-	line "appear anytime in"
-	cont "tall grass."
+	text "OAK: Un #MON"
+	line "può apparire in"
+	cont "qualsiasi momento"
+	cont "nell'erba alta."
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
+	para "Hai bisogno del"
+	line "tuo #MON per"
+	cont "proteggerti."
+	cont "Lo so!"
 
-	para "Here, come with"
-	line "me!"
+	para "Ecco, vieni"
+	line "con me!"
 	done
 
 _PalletTownGirlText::
-	text "I'm raising"
-	line "#MON too!"
+	text "Sto allenando"
+	line "anch'io i #MON!"
 
-	para "Like my new"
-	line "RUNNING SHOES?"
+	para "Ti piacciono"
+	line "le mie SCARPE"
+	cont "DA CORSA?"
 
-	para "I can get to"
-	line "VIRIDIAN MART"
-	cont "in record time!"
+	para "Riesco ad arrivare"
+	line "al MARKET di"
+	cont "SMERALDOPOLI in"
+	cont "tempo record!"
 
-	para "I can't run to"
-	line "CINNABAR ISLAND," 
-	cont "but I can see"
-	cont "it from here!"
+	para "Non posso correre"
+	line "fino all'ISOLA"
+	cont "CANNELLA, ma"
+	cont "riesco a vederla"
+	cont "da qui!"
 
-	para "Is someone"
-	line "surfing on a"
-	cont "RHYDON?"
+	para "C'è qualcuno che"
+	line "sta facendo surf"
+	cont "su un RHYDON?"
 	done
 
 _PalletTownFisherText::
-	text "Technology is"
-	line "incredible!"
+	text "La tecnologia è"
+	line "incredibile!"
 
-	para "My new backpack"
-	line "can store triple"
-	cont "the items!"
+	para "Il mio nuovo zaino"
+	line "può contenere il"
+	cont "triplo degli"
+	cont "oggetti!"
 
-	para "It even sorts"
-	line "itself by"
-	cont "pressing START!"
+	para "Si ordina persino"
+	line "da solo premendo"
+	cont "START!"
 	done
 
 _PalletTownOaksLabSignText::
-	text "OAK #MON"
-	line "RESEARCH LAB"
+	text "LABORATORIO DI"
+	line "RICERCA #MON"
+	cont "DEL PROF. OAK"
 	done
 
 _PalletTownSignText::
-	text "PALLET TOWN"
-	line "Shades of your"
-	cont "journey await!"
+	text "BIANCAVILLA"
+	line "Le sfumature del"
+	cont "tuo viaggio ti"
+	cont "aspettano!"
 	done
 
 _PalletTownPlayersHouseSignText::
-	text "<PLAYER>'s house "
+	text "Casa di <PLAYER>"
 	done
 
 _PalletTownRivalsHouseSignText::
-	text "<RIVAL>'s house "
+	text "Casa di <RIVAL>"
 	done

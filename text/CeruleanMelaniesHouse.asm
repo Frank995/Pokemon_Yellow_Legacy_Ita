@@ -1,35 +1,38 @@
 MelanieText1::
-	text "I take care of"
-	line "injured #MON."
+	text "Mi prendo cura dei"
+	line "#MON feriti."
 
-	para "I nursed this"
-	line "BULBASAUR back to"
-	cont "health."
+	para "Ho curato questo"
+	line "BULBASAUR fino a"
+	cont "farlo guarire."
 
-	para "It needs a good"
-	line "trainer to take"
-	cont "care of it now.@"
+	para "Ora ha bisogno di"
+	line "un bravo"
+	cont "allenatore che"
+	cont "se ne prenda"
+	cont "cura.@"
 	text_end
 
 MelanieText2::
-	text "I know! Would you"
-	line "take care of this"
-	cont "BULBASAUR?"
+	text "Lo so! Vorresti"
+	line "prenderti cura di"
+	cont "questo BULBASAUR?"
 	done
 
 MelanieText3::
-	text "Please take care"
-	line "of BULBASAUR!@"
+	text "Per favore"
+	line "prenditi cura di"
+	cont "BULBASAUR!@"
 	text_end
 
 MelanieText4::
-	text "Is BULBASAUR"
-	line "doing well?@"
+	text "BULBASAUR sta"
+	line "bene?@"
 	text_end
 
 MelanieText5::
 	text "Oh..."
-	line "That's too bad...@"
+	line "Che peccato...@"
 	text_end
 
 MelanieBulbasaurText::

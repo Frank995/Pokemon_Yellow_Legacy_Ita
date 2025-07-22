@@ -1,136 +1,145 @@
 _ChampionsRoomRivalIntroText::
-	text "<RIVAL>: Hey!"
+	text "<RIVAL>: Ehi!"
 
-	para "I was looking"
-	line "forward to seeing"
-	cont "you, <PLAYER>!"
+	para "Non vedevo l'ora"
+	line "di vederti,"
+	cont "<PLAYER>!"
 
-	para "My rival should"
-	line "be strong to keep"
-	cont "me sharp!"
+	para "Il mio rivale deve"
+	line "essere forte per"
+	cont "tenermi allenato!"
 
-	para "While working on"
-	line "#DEX, I looked"
-	cont "all over for"
-	cont "powerful #MON!"
+	para "Mentre lavoravo al"
+	line "#DEX, ho"
+	cont "cercato ovunque"
+	cont "#MON potenti!"
 
-	para "Not only that, I"
-	line "assembled teams"
-	cont "that would beat"
-	cont "any #MON type!"
+	para "Non solo, ho anche"
+	line "assemblato squadre"
+	cont "che batterebbero"
+	cont "qualsiasi tipo!"
 
-	para "And now!"
+	para "E ora!"
 
-	para "I'm the #MON"
-	line "LEAGUE champion!"
+	para "Sono il campione"
+	line "della LEGA"
+	cont "#MON!"
 
-	para "<PLAYER>! Do you"
-	line "know what that"
-	cont "means?"
+	para "<PLAYER>! Sai cosa"
+	line "significa questo?"
 
-	para "I'll tell you!"
+	para "Te lo dico io!"
 
-	para "I am the most"
-	line "powerful trainer"
-	cont "in the world!"
+	para "Sono l'allenatore"
+	line "più potente del"
+	cont "mondo!"
 	done
 
 _RivalDefeatedText::
 	text "NO!"
-	line "That can't be!"
-	cont "You beat my best!"
+	line "Non è possibile!"
+	cont "Hai battuto i miei"
+	cont "migliori!"
 
-	para "After all that"
-	line "work to become"
-	cont "LEAGUE champ?"
+	para "Dopo tutto quel"
+	line "lavoro per"
+	cont "diventare campione"
+	cont "della LEGA?"
 
-	para "My reign is over"
-	line "already?"
-	cont "It's not fair!"
+	para "Il mio regno è già"
+	line "finito?"
+	cont "Non è giusto!"
 	prompt
 
 _RivalVictoryText::
-	text "Hahaha!"
-	line "I won, I won!"
+	text "Ahahaha!"
+	line "Ho vinto,"
+	cont "ho vinto!"
 
-	para "I'm too good for"
-	line "you, <PLAYER>!"
+	para "Sono troppo forte"
+	line "per te, <PLAYER>!"
 
-	para "You did well to"
-	line "even reach me,"
-	cont "<RIVAL>, the"
-	cont "#MON genius!"
+	para "Hai fatto bene"
+	line "anche solo a"
+	cont "raggiungermi,"
+	cont "<RIVAL>, il genio"
+	cont "dei #MON!"
 
-	para "Nice try, loser!"
-	line "Hahaha!"
+	para "Bel tentativo,"
+	line "perdente! Ahahaha!"
 	prompt
 
 _ChampionsRoomRivalAfterBattleText::
-	text "Why?"
-	line "Why did I lose?"
+	text "Perché?"
+	line "Perché ho perso?"
 
-	para "I never made any"
-	line "mistakes raising"
-	cont "my #MON..."
+	para "Non ho mai fatto"
+	line "errori allevando"
+	cont "i miei #MON..."
 
-	para "Darn it! You're"
-	line "the new #MON"
-	cont "LEAGUE champion!"
+	para "Accidenti! Sei tu"
+	line "il nuovo campione"
+	cont "della LEGA"
+	cont "#MON!"
 
-	para "Although I don't"
-	line "like to admit it."
+	para "Anche se non mi"
+	line "piace ammetterlo."
 	done
 
 _ChampionsRoomRivalRematchIntroText::
-	text "Back again?"
-	line "I've been waiting,"
+	text "Sei tornato?"
+	line "Ti stavo"
+	cont "aspettando,"
 	cont "<PLAYER>!"
 
-	para "This time, my"
-	line "team's stronger"
-	cont "and ready to"
-	cont "take you down!"
+	para "Questa volta, la"
+	line "mia squadra è più"
+	cont "forte e pronta a"
+	cont "sconfiggerti!"
 
-	para "Ready to hand"
-    line "over that title?"
+	para "Pronto a cedere"
+    line "quel titolo?"
 
-    para "Let's do this!"
-    line "No holding back!"
+    para "Facciamolo!"
+    line "Senza trattenere"
+    cont "nulla!"
 	done
 
 _RivalRematchDefeatedText::
-	text "Even"
-	line "with my"
-	cont "strongest team,"
+	text "Anche"
+	line "con la mia"
+	cont "squadra più forte,"
 
-	para "your skills as"
-	line "CHAMPION..."
+	para "le tue abilità"
+	line "da CAMPIONE..."
 
-	para "They're real."
+	para "Sono reali."
 	prompt
 
 _RivalRematchVictoryText::
-	text "With my new"
-	line "strategies,"
+	text "Con le mie nuove"
+	line "strategie,"
 
-	para "you stood no"
-	line "chance, <PLAYER>!"
+	para "non avevi alcuna"
+	line "possibilità,"
+	cont "<PLAYER>!"
 
-	para "The title of"
-	line "champion is"
-	cont "rightfully mine!"
+	para "Il titolo di"
+	line "campione è"
+	cont "giustamente mio!"
 	prompt
 
 _ChampionsRoomRivalRematchAfterBattleText::
-	text "Fine, you win."
-	line "You're the best," 
+	text "Bene, hai vinto."
+	line "Sei il migliore,"
 	cont "<PLAYER>."
 
-	para "But I won't give"
-	line "up just yet!"
+	para "Ma non mi arrendo"
+	line "ancora!"
 
-	para "Next time, I'll"
-	line "be CHAMPION."
+	para "La prossima volta,"
+	line "sarò io il"
+	cont "CAMPIONE."
 	done
 
 _ChampionsRoomOakText::
@@ -138,127 +147,137 @@ _ChampionsRoomOakText::
 	done
 
 _ChampionsRoomOakCongratulatesPlayerText::
-	text "OAK: So, you won!"
-	line "Congratulations!"
-	cont "You're the new"
-	cont "#MON LEAGUE"
-	cont "champion!"
+	text "PROF. OAK: Allora,"
+	line "hai vinto!"
+	cont "Congratulazioni!"
+	cont "Sei il nuovo"
+	cont "campione della"
+	cont "LEGA #MON!"
 
-	para "You've grown up so"
-	line "much since you"
-	cont "first left with"
+	para "Sei cresciuto così"
+	line "tanto da quando"
+	cont "sei partito per"
+	cont "la prima volta con"
 	cont "@"
 	text_ram wcd6d
 	text "!"
 
-	para "<PLAYER>, you have"
-	line "come of age!"
+	para "<PLAYER>, sei"
+	line "diventato adulto!"
 	done
 
 _ChampionsRoomOakDisappointedWithRivalText::
-	text "OAK: <RIVAL>! I'm"
-	line "disappointed!"
+	text "PROF. OAK:"
+	line "<RIVAL>!"
+	cont "Sono deluso!"
 
-	para "I came when I"
-	line "heard you beat"
-	cont "the ELITE FOUR!"
+	para "Sono venuto quando"
+	line "ho sentito che"
+	cont "avevi battuto i"
+	cont "SUPERQUATTRO!"
 
-	para "But, when I got"
-	line "here, you had"
-	cont "already lost!"
+	para "Ma quando sono"
+	line "arrivato qui,"
+	cont "avevi già perso!"
 
-	para "<RIVAL>! Do you"
-	line "understand why"
-	cont "you lost?"
+	para "<RIVAL>! Capisci"
+	line "perché hai perso?"
 
-	para "You have forgotten"
-	line "to treat your"
-	cont "#MON with"
-	cont "trust and love!"
+	para "Hai dimenticato di"
+	line "trattare i tuoi"
+	cont "#MON con"
+	cont "fiducia e amore!"
 
-	para "Without them, you"
-	line "will never become"
-	cont "a champ again!"
+	para "Senza di loro, non"
+	line "diventerai mai più"
+	cont "campione!"
 	done
 
 _ChampionsRoomOakComeWithMeText::
-	text "OAK: <PLAYER>!"
+	text "PROF. OAK:"
+	line "<PLAYER>!"
 
-	para "You understand"
-	line "that your victory"
-	cont "was not just your"
-	cont "own doing!"
+	para "Capisci che la tua"
+	line "vittoria non è"
+	cont "solo merito tuo!"
 
-	para "The bond you share"
-	line "with your #MON"
-	cont "is marvelous!"
+	para "Il legame che"
+	line "condividi con i"
+	cont "tuoi #MON è"
+	cont "meraviglioso!"
 
 	para "<PLAYER>!"
-	line "Come with me!"
+	line "Vieni con me!"
 	done
 
 _ChampionsRoomRematchOakCongratulatesPlayerText::
-	text "OAK: So, you won"
-	line "again!"
+	text "PROF. OAK: Allora,"
+	line "hai vinto di"
+	cont "nuovo!"
 
-	para "Congratulations!"
-	line "Still the CHAMP"
-	cont "I see!"
+	para "Congratulazioni!"
+	line "Sei ancora il"
+	cont "CAMPIONE a quanto"
+	cont "vedo!"
 
-	para "You've returned,"
-	line "proving your"
-	cont "strength once"
-	cont "again!"
+	para "Sei tornato,"
+	line "dimostrando la tua"
+	cont "forza ancora una"
+	cont "volta!"
 
-	para "Your bond with"
-	line "your #MON is"
-	cont "truly inspiring!"
+	para "Il tuo legame con"
+	line "i tuoi #MON è"
+	cont "davvero"
+	cont "stimolante!"
 
-	para "<PLAYER>, you're"
-	line "a true CHAMPION!"
+	para "<PLAYER>, sei un"
+	line "vero CAMPIONE!"
 	done
 
 _ChampionsRoomRematchOakDisappointedWithRivalText::
-	text "OAK: Ah, "
+	text "PROF. OAK: Ah, "
 	line "<RIVAL>..."
 
-	para "I had hoped for"
-	line "a better outcome."
+	para "Speravo in un"
+	line "risultato"
+	cont "migliore,"
 	
-	para "but I see you"
-	line "have fallen"
-	cont "short once more!"
+	para "ma vedo che sei"
+	line "rimasto indietro"
+	cont "ancora una volta!"
 
-	para "Remember,"
+	para "Ricorda,"
 	line "<RIVAL>,"
 
-	para "it's not just"
-	line "about strength"
-	cont "in battle,"
+	para "non si tratta solo"
+	line "di forza in"
+	cont "battaglia,"
 
-	para "but also about"
-	line "the bond you"
-	cont "share with your"
-	cont "#MON."
+	para "ma anche del"
+	line "legame che"
+	cont "condividi con i"
+	cont "tuoi #MON."
 
-	para "Reflect on this,"
-	line "and grow stronger!"
+	para "Rifletti su questo"
+	line "e diventa più"
+	cont "forte!"
 	done
 
 _ChampionsRoomRematchOakComeWithMeText::
-	text "OAK: <PLAYER>!"
+	text "PROF. OAK:"
+	line "<PLAYER>!"
 
-	para "Your triumph is"
-	line "not yours alone!"
+	para "Il tuo trionfo non"
+	line "È solo tuo!"
 
-	para "Your bond with"
-	line "your #MON is"
-	cont "a lesson for us"
-	cont "all!"
+	para "Il tuo legame con"
+	line "i tuoi #MON è"
+	cont "una lezione per"
+	cont "tutti noi!"
 
-	para "<PLAYER>, let's"
-	line "celebrate your"
-	cont "achievement!"
+	para "<PLAYER>,"
+	line "celebriamo il tuo"
+	cont "traguardo!"
 	done
 
 _ChampionsRoomJolteonText::

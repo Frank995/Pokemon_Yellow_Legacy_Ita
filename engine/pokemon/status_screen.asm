@@ -262,11 +262,11 @@ NamePointers2:
 	dw wDayCareMonName
 
 Type1Text:
-	db   "TYPE1/"
+	db   "TIPO1/"
 	next ""
 	; fallthrough
 Type2Text:
-	db   "TYPE2/"
+	db   "TIPO2/"
 	next ""
 	; fallthrough
 IDNoText:
@@ -274,11 +274,11 @@ IDNoText:
 	next ""
 	; fallthrough
 OTText:
-	db   "OT/"
+	db   "AO/"
 	next "@"
 
 StatusText:
-	db "STATUS/@"
+	db "STATO/@"
 
 OKText:
 	db "OK@"
@@ -373,10 +373,10 @@ PrintStat:
 	ret
 
 StatsText:
-	db   "ATTACK"
-	next "DEFENSE"
-	next "SPEED"
-	next "SPECIAL@"
+	db   "ATTACCO"
+	next "DIFESA"
+	next "VELOCITÀ"
+	next "SPECIALI@"
 
 StatusScreen2:
 	ldh a, [hTileAnimations]

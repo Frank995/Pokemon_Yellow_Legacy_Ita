@@ -1,16 +1,18 @@
 _ViridianForestSouthGateGirlText::
-	text "Are you going to"
-	line "VIRIDIAN FOREST?"
-	cont "Be careful, it's"
-	cont "a natural maze!"
+	text "Stai andando al"
+	line "BOSCO SMERALDO?"
+	cont "Stai attento, è un"
+	cont "labirinto"
+	cont "naturale!"
 	done
 
 _ViridianForestSouthGateLittleGirlText::
-	text "You have to roam"
-	line "far to get new"
-	cont "kinds of #MON."
+	text "Devi viaggiare"
+	line "lontano per"
+	cont "trovare nuovi tipi"
+	cont "di #MON."
 
-	para "Look for other"
-	line "types outside of"
-	cont "VIRIDIAN FOREST."
+	para "Cerca altri"
+	line "tipi fuori dal"
+	cont "BOSCO SMERALDO."
 	done

@@ -1,64 +1,72 @@
 _SSAnneCaptainsRoomRubCaptainsBackText::
-	text "CAPTAIN: Ooargh..."
-	line "I feel hideous..."
-	cont "Urrp! Seasick..."
+	text "CAPITANO:"
+	line "Ooargh..."
+	cont "Mi sento"
+	cont "orribile..."
 
-	para "<PLAYER> rubbed"
-	line "the CAPTAIN's"
-	cont "back!"
+	para "Urrp! Mal di"
+	line "mare..."
 
-	para "Rub-rub..."
-	line "Rub-rub...@"
+	para "<PLAYER> ha"
+	line "massaggiato la"
+	cont "schiena del"
+	cont "CAPITANO!"
+
+	para "Massaggia-"
+	line "massaggia..."
+	cont "Massaggia-"
+	cont "massaggia...@"
 	text_end
 
 _SSAnneCaptainsRoomCaptainIFeelMuchBetterText::
-	text "CAPTAIN: Whew!"
-	line "Thank you! I"
-	cont "feel much better!"
+	text "CAPITANO: Uff!"
+	line "Grazie! Mi sento"
+	cont "molto meglio!"
 
-	para "You want to see"
-	line "my CUT technique?"
+	para "Vuoi vedere la mia"
+	line "tecnica TAGLIO?"
 
-	para "I could show you"
-	line "if I wasn't ill..."
+	para "Potrei mostrartela"
+	line "se non fossi stato"
+	cont "malato..."
 
-	para "I know! You can"
-	line "have this!"
+	para "Lo so! Puoi"
+	line "prendere questo!"
 
-	para "Teach it to your"
-	line "#MON and you"
-	cont "can see it CUT"
-	cont "anytime!"
+	para "Insegnalo al tuo"
+	line "#MON e potrai"
+	cont "vedere TAGLIO"
+	cont "quando vuoi!"
 	prompt
 
 _SSAnneCaptainsRoomCaptainReceivedHM01Text::
-	text "<PLAYER> got"
-	line "@"
+	text "<PLAYER> ha"
+	line "ricevuto @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SSAnneCaptainsRoomCaptainNotSickAnymoreText::
-	text "CAPTAIN: Whew!"
+	text "CAPITANO: Uff!"
 
-	para "Now that I'm not"
-	line "sick anymore, I"
-	cont "guess it's time."
+	para "Ora che non sono"
+	line "più malato,"
+	cont "penso sia ora."
 	done
 
 _SSAnneCaptainsRoomCaptainHM01NoRoomText::
-	text "Oh no! You have"
-	line "no room for this!"
+	text "Oh no! Non hai"
+	line "spazio per questo!"
 	done
 
 _SSAnneCaptainsRoomTrashText::
-	text "Yuck! Shouldn't"
-	line "have looked!"
+	text "Bleah! Non avrei"
+	line "dovuto guardare!"
 	done
 
 _SSAnneCaptainsRoomSeasickBookText::
-	text "How to Conquer"
-	line "Seasickness..."
-	cont "The CAPTAIN's"
-	cont "reading this!"
+	text "Come Vincere"
+	line "il Mal di Mare..."
+	cont "Il CAPITANO sta"
+	cont "leggendo questo!"
 	done

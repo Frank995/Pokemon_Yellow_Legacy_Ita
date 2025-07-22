@@ -91,7 +91,7 @@ AnimateHallOfFame:
 	ret
 
 HallOfFameText:
-	db "HALL OF FAME@"
+	db "SALA D'ONORE@"
 
 HoFShowMonOrPlayer:
 	call ClearScreen
@@ -192,9 +192,9 @@ HoFDisplayMonInfo:
 	ret
 
 HoFMonInfoText:
-	db   "LEVEL/"
-	next "TYPE1/"
-	next "TYPE2/@"
+	db   "LIVELLO/"
+	next "TIPO1/"
+	next "TIPO2/@"
 
 HoFLoadPlayerPics:
 	ld a, [wPlayerGender] ; New gender check

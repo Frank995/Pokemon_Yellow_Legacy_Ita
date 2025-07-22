@@ -1,19 +1,22 @@
 _MtMoonPokecenterYoungsterText::
-	text "I've 6 # BALLs"
-	line "set in my belt."
+	text "Ho 6 # BALL"
+	line "attaccate alla"
+	cont "cintura."
 
-	para "At most, you can"
-	line "carry 6 #MON."
+	para "Al massimo, puoi"
+	line "portare con te"
+	cont "6 #MON."
 	done
 
 _MtMoonPokecenterGentlemanText::
-	text "TEAM ROCKET"
-	line "attacks CERULEAN"
-	cont "citizens..."
+	text "Il TEAM ROCKET"
+	line "attacca i"
+	cont "cittadini di"
+	cont "CELESTOPOLI..."
 
-	para "TEAM ROCKET is"
-	line "always in the"
-	cont "news!"
+	para "Il TEAM ROCKET è"
+	line "sempre sui"
+	cont "giornali!"
 	done
 
 _MtMoonPokecenterClipboardText::
@@ -21,28 +24,28 @@ _MtMoonPokecenterClipboardText::
 	done
 
 _MtMoonPokecenterMagikarpSalesmanIGotADealText::
-	text "MAN: Hello, there!"
-	line "Have I got a deal"
-	cont "just for you!"
+	text "UOMO: Ciao!"
+	line "Ho un affare"
+	cont "perfetto per te!"
 
-	para "I'll let you have"
-	line "a swell MAGIKARP"
-	cont "for just ¥500!"
-	cont "What do you say?"
+	para "Ti lascio questo"
+	line "magnifico MAGIKARP"
+	cont "per soli ¥500!"
+	cont "Che ne dici?"
 	done
 
 _MtMoonPokecenterMagikarpSalesmanNoText::
-	text "No? I'm only"
-	line "doing this as a"
-	cont "favor to you!"
+	text "No? Lo sto facendo"
+	line "solo per farti"
+	cont "un favore!"
 	done
 
 _MtMoonPokecenterMagikarpSalesmanNoMoneyText::
-	text "You'll need more"
-	line "money than that!"
+	text "Ti servono più"
+	line "soldi!"
 	done
 
 _MtMoonPokecenterMagikarpSalesmanNoRefundsText::
-	text "MAN: Well, I don't"
-	line "give refunds!"
+	text "UOMO: Beh, io non"
+	line "faccio rimborsi!"
 	done

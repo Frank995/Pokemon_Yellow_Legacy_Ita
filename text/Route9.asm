@@ -1,136 +1,147 @@
 _Route9CooltrainerF1BattleText::
-	text "You have #MON"
-	line "with you!"
-	cont "You're mine!"
+	text "Hai dei #MON"
+	line "con te!"
+	cont "Sei mio!"
 	done
 
 _Route9CooltrainerF1EndBattleText::
-	text "You"
-	line "deceived me!"
+	text "Mi hai"
+	line "ingannata!"
 	prompt
 
 _Route9CooltrainerF1AfterBattleText::
-	text "You need light to"
-	line "get through that"
-	cont "dark tunnel ahead."
+	text "Ti serve della"
+	line "luce per"
+	cont "attraversare quel"
+	cont "tunnel buio."
 	done
 
 _Route9AJBattleText::
-	text "I aim to be the"
-	line "ultimate trainer!"
+	text "Il mio obiettivo"
+	line "è diventare"
+	cont "l'allenatore"
+	cont "definitivo!"
 	done
 
 _Route9AJEndBattleText::
-	text "My"
-	line "SANDSHREW lost?"
+	text "Il mio SANDSHREW"
+	line "ha perso?"
 	prompt
 
 _Route9AJAfterBattleText::
-	text "I'll restart my"
-	line "100-win streak"
-	cont "with SANDSHREW."
+	text "Ricomincerò la"
+	line "mia serie di 100"
+	cont "vittorie con"
+	cont "SANDSHREW."
 	done
 
 _Route9CooltrainerM2BattleText::
-	text "I'm taking ROCK"
-	line "TUNNEL to go to"
-	cont "LAVENDER..."
+	text "Sto prendendo il"
+	line "TUNNEL ROCCIOSO"
+	cont "per andare a"
+	cont "LAVANDONIA..."
 	done
 
 _Route9CooltrainerM2EndBattleText::
-	text "Can't"
-	line "measure up!"
+	text "Non posso"
+	line "competere!"
 	prompt
 
 _Route9CooltrainerM2AfterBattleText::
-	text "Are you off to"
-	line "ROCK TUNNEL too?"
+	text "Stai andando anche"
+	line "tu al TUNNEL"
+	cont "ROCCIOSO?"
 	done
 
 _Route9CooltrainerF2BattleText::
-	text "Don't you dare"
-	line "condescend me!"
+	text "Non osare"
+	line "sottovalutarmi!"
 	done
 
 _Route9CooltrainerF2EndBattleText::
 	text "No!"
-	line "You're too much!"
+	line "Sei troppo forte!"
 	prompt
 
 _Route9CooltrainerF2AfterBattleText::
-	text "You're obviously"
-	line "talented! Good"
-	cont "luck to you!"
+	text "Hai ovviamente"
+	line "talento! In bocca"
+	cont "al lupo!"
 	done
 
 _Route9Hiker1BattleText::
 	text "Bwahaha!"
-	line "Great! I was"
-	cont "bored, eh!"
+	line "Fantastico! Mi"
+	cont "stavo annoiando!"
 	done
 
 _Route9Hiker1EndBattleText::
-	text "Keep it"
-	line "coming, eh!"
+	text "Continua"
+	line "così!"
 
-	para "Oh wait. I'm out"
-	line "of #MON!"
+	para "Oh aspetta. Non ho"
+	line "più #MON!"
 	prompt
 
 _Route9Hiker1AfterBattleText::
-	text "You sure had guts"
-	line "standing up to me"
-	cont "there, eh?"
+	text "Hai avuto proprio"
+	line "coraggio a tener-"
+	cont "mi testa!"
 	done
 
 _Route9Hiker2BattleText::
 	text "Hahaha!"
-	line "Aren't you a"
-	cont "little toughie!"
+	line "Non sei un piccolo"
+	cont "duro!"
 	done
 
 _Route9Hiker2EndBattleText::
-	text "What's"
-	line "that?"
+	text "Cosa"
+	line "succede?"
 	prompt
 
 _Route9Hiker2AfterBattleText::
-	text "Hahaha! Kids"
-	line "should be tough!"
+	text "Hahaha! I"
+	line "bambini devono"
+	cont "essere forti!"
 	done
 
 _Route9Youngster2BattleText::
-	text "I got up early"
-	line "every day to"
-	cont "raise my #MON"
-	cont "from cocoons!"
+	text "Mi sono alzato"
+	line "presto ogni"
+	cont "giorno per far"
+	cont "crescere i miei"
+	cont "#MON dai bozzoli!"
 	done
 
 _Route9Youngster2EndBattleText::
-	text "WHAT?"
+	text "COSA?"
 
-	para "What a total"
-	line "waste of time!"
+	para "Che spreco di"
+	line "tempo totale!"
 	prompt
 
 _Route9Youngster2AfterBattleText::
-	text "I have to collect"
-	line "more than bugs to"
-	cont "get stronger..."
+	text "Devo catturare"
+	line "altro oltre agli"
+	cont "insetti per"
+	cont "diventare più"
+	cont "forte..."
 	done
 
 _Route9Hiker3BattleText::
 	text "Hahahaha!"
-	line "Come on, dude!"
+	line "Forza, amico!"
 	done
 
 _Route9Hiker3EndBattleText::
 	text "Hahahaha!"
-	line "You beat me fair!"
+	line "Mi hai battuto"
+	cont "lealmente!"
 	prompt
 
 _Route9Hiker3AfterBattleText::
 	text "Hahahaha!"
-	line "Us hearty guys"
-	cont "always laugh!"
+	line "Noi tipi allegri"
+	cont "ridiamo sempre!"
 	done

@@ -1,124 +1,136 @@
 _PewterCityCooltrainerFText::
-	text "It's rumored that"
-	line "CLEFAIRYs came"
-	cont "from the moon!"
+	text "Si dice che i"
+	line "CLEFAIRY vengano"
+	cont "dalla luna!"
 
-	para "They appeared "
-	line "after MOON STONE"
-	cont "fell on MT.MOON."
+	para "Sono apparsi"
+	line "dopo che la"
+	cont "PIETRALUNARE è"
+	cont "caduta su MONTE"
+	cont "LUNA."
 	done
 
 _PewterCityCooltrainerMText::
-	text "There aren't many"
-	line "serious #MON"
-	cont "trainers here!"
+	text "Non ci sono molti"
+	line "allenatori di"
+	cont "#MON seri qui!"
 
-	para "They're all like"
-	line "BUG CATCHERs,"
-	cont "but PEWTER GYM's"
-	cont "BROCK is totally"
-	cont "into it!"
+	para "Sono tutti come"
+	line "PIGLIAMOSCHE,"
+	cont "ma BROCK della"
+	cont "PALESTRA di"
+	cont "PLUMBEOPOLI è"
+	cont "davvero bravo!"
 	done
 
 _PewterCitySuperNerd1DidYouCheckOutMuseumText::
-	text "Did you check out"
-	line "the MUSEUM?"
+	text "Hai visitato il"
+	line "MUSEO?"
 	done
 
 _PewterCitySuperNerd1WerentThoseFossilsAmazingText::
-	text "Weren't those"
-	line "fossils from MT."
-	cont "MOON amazing?"
+	text "Non erano"
+	line "straordinari quei"
+	cont "fossili di MONTE"
+	cont "LUNA?"
 	done
 
 _PewterCitySuperNerd1YouHaveToGoText::
-	text "Really?"
-	line "You absolutely"
-	cont "have to go!"
+	text "Davvero?"
+	line "Devi assolutamente"
+	cont "andarci!"
 	done
 
 _PewterCitySuperNerd1ItsRightHereText::
-	text "It's right here!"
-	line "You have to pay"
-	cont "to get in, but"
-	cont "it's worth it!"
-	cont "See you around!"
+	text "È proprio qui!"
+	line "Devi pagare per"
+	cont "entrare, ma ne"
+	cont "vale la pena!"
+	cont "Ci vediamo!"
 	done
 
 _PewterCitySuperNerd2DoYouKnowWhatImDoingText::
 	text "Psssst!"
-	line "Do you know what"
-	cont "I'm doing?"
+	line "Sai cosa sto"
+	cont "facendo?"
 	done
 
 _PewterCitySuperNerd2ThatsRightText::
-	text "That's right!"
-	line "It's hard work!"
+	text "Esatto!"
+	line "È un lavoro duro!"
 	done
 
 _PewterCitySuperNerd2ImSprayingRepelText::
-	text "I'm spraying REPEL"
-	line "to keep #MON"
-	cont "out of my garden!"
+	text "Sto spruzzando"
+	line "REPELLENTE per"
+	cont "tenere i #MON"
+	cont "lontani dal mio"
+	cont "giardino!"
 	done
 
 _PewterCityYoungsterYoureATrainerFollowMeText::
-	text "You're a trainer"
-	line "right? BROCK's"
-	cont "looking for new"
-	cont "challengers!"
-	cont "Follow me!"
+	text "Sei un allenatore"
+	line "vero? BROCK sta"
+	cont "cercando nuovi"
+	cont "sfidanti!"
+	cont "Seguimi!"
 	done
 
 _PewterCityYoungsterGoTakeOnBrockText::
-	text "If you have the"
-	line "right stuff, go"
-	cont "take on BROCK!"
+	text "Se hai le qualità"
+	line "giuste, vai a"
+	cont "sfidare BROCK!"
 	done
 
 _PewterCityTrainerTipsText::
-	text "TRAINER TIPS"
+	text "CONSIGLI"
+	line "ALLENATORE"
 
-	para "You can check a"
-	line "#MONs DVs in"
-	cont "the #MON"
-	cont "STATS menu."
+	para "Puoi controllare"
+	line "i DV di un #MON"
+	cont "nel menu"
+	cont "STATISTICHE"
+	cont "#MON."
 
-	para "Before pressing"
-	line "A, hold START"
-	cont "and then press"
-	cont "A on STATS in"
-	cont "the #MON"
-	cont "menu."
+	para "Prima di premere"
+	line "A, tieni premuto"
+	cont "START e poi premi"
+	cont "A su STATISTICHE"
+	cont "nel menu #MON."
 	done
 
 _PewterCityPoliceNoticeSignText::
-	text "NOTICE!"
+	text "AVVISO!"
 
-	para "Thieves have been"
-	line "stealing #MON"
-	cont "fossils at MT."
-	cont "MOON! Please call"
-	cont "PEWTER POLICE"
-	cont "with any info!"
+	para "I ladri hanno"
+	line "rubato fossili di"
+	cont "#MON al MONTE"
+	cont "LUNA! Chiamate la"
+	cont "POLIZIA di"
+	cont "PLUMBEOPOLI per"
+	cont "qualsiasi info!"
 	done
 
 _PewterCityMuseumSignText::
-	text "PEWTER MUSEUM"
-	line "OF SCIENCE"
+	text "MUSEO DELLE"
+	line "SCIENZE di"
+	cont "PLUMBEOPOLI"
 	done
 
 _PewterCityGymSignText::
-	text "PEWTER CITY"
-	line "#MON GYM"
-	cont "LEADER: BROCK"
+	text "PALESTRA #MON"
+	line "di PLUMBEOPOLI"
+	cont "CAPOPALESTRA:"
+	cont "BROCK"
 
-	para "The Rock Solid"
-	line "#MON Trainer!"
+	para "L'Allenatore di"
+	line "#MON"
+	cont "Solido come la"
+	cont "Roccia!"
 	done
 
 _PewterCitySignText::
-	text "PEWTER CITY"
-	line "A Stone Gray"
-	cont "City"
+	text "PLUMBEOPOLI"
+	line "Una Città Grigia"
+	cont "come la Pietra"
 	done

@@ -1,64 +1,70 @@
 _CinnabarLabMetronomeRoomScientist1Text::
-	text "Tch-tch-tch!"
-	line "I made a cool TM!"
+	text "Tic-tic-tic!"
+	line "Ho creato una MT"
+	cont "fantastica!"
 
-	para "It can cause all"
-	line "kinds of fun!"
+	para "Può causare ogni"
+	line "tipo di"
+	cont "divertimento!"
 	prompt
 
 _CinnabarLabMetronomeRoomScientist1ReceivedTM35Text::
-	text "<PLAYER> received "
-	line "@"
+	text "<PLAYER> ha"
+	line "ricevuto @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _CinnabarLabMetronomeRoomScientist1TM35ExplanationText::
-	text "Tch-tch-tch!"
-	line "That's the sound"
-	cont "of a METRONOME!"
+	text "Tic-tic-tic!"
+	line "È il suono"
+	cont "di un METRONOMO!"
 
-	para "It tweaks your"
-	line "#MON's brain"
-	cont "into using moves"
-	cont "it doesn't know!"
+	para "Modifica il"
+	line "cervello del tuo"
+	cont "#MON per fargli"
+	cont "usare mosse che"
+	cont "non sa!"
 	done
 
 _CinnabarLabMetronomeRoomScientist1TM35NoRoomText::
-	text "Your pack is"
-	line "crammed full!"
+	text "Il tuo zaino è"
+	line "pieno zeppo!"
 	done
 
 _CinnabarLabMetronomeRoomScientist2Text::
-	text "EEVEE can evolve"
-	line "into 1 of 3 kinds"
-	cont "of #MON."
+	text "EEVEE può"
+	line "evolversi in 1 di"
+	cont "3 tipi di #MON."
 	done
 
 _CinnabarLabMetronomeRoomPCText::
-	text "There's an e-mail"
-	line "message!"
+	text "C'è un messaggio"
+	line "di posta"
+	cont "elettronica!"
 
 	para "..."
 
-	para "The 3 legendary"
-	line "bird #MON are"
-	cont "ARTICUNO, ZAPDOS"
-	cont "and MOLTRES."
+	para "I 3 #MON"
+	line "uccello leggendari"
+	cont "sono ARTICUNO,"
+	cont "ZAPDOS e MOLTRES."
 
-	para "Their whereabouts"
-	line "are unknown."
+	para "I loro luoghi di"
+	line "dimora sono"
+	cont "sconosciuti."
 
-	para "We plan to explore"
-	line "the cavern close"
-	cont "to CERULEAN."
+	para "Pianifichiamo di"
+	line "esplorare la"
+	cont "caverna vicino"
+	cont "a CELESTOPOLI."
 
-	para "From: #MON"
-	line "RESEARCH TEAM"
+	para "Da: TEAM RICERCA"
+	line "#MON"
 
 	para "..."
 	done
 
 _CinnabarLabMetronomeRoomAmberPipeText::
-	text "An amber pipe!"
+	text "Un tubo d'ambra!"
 	done

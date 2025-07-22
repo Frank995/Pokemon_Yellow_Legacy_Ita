@@ -1,67 +1,74 @@
 _PokemonTower2FRivalWhatBringsYouHereText::
-	text "<RIVAL>: Hey,"
-	line "<PLAYER>! What"
-	cont "brings you here?"
-	cont "Your #MON"
-	cont "don't look dead!"
+	text "<RIVAL>: Ehi,"
+	line "<PLAYER>! Cosa"
+	cont "ti porta qui?"
+	cont "I tuoi #MON non"
+	cont "sembrano morti!"
 
-	para "I can at least"
-	line "make them faint!"
-	cont "Let's go, pal!"
+	para "Posso almeno"
+	line "farli svenire!"
+	cont "Andiamo, amico!"
 	done
 
 _PokemonTower2FRivalDefeatedText::
-	text "What?"
-	line "You stinker!"
+	text "Cosa?"
+	line "Canaglia!"
 
-	para "I took it easy on"
-	line "you too!"
+	para "Sono anche andato"
+	line "piano con te!"
 	prompt
 
 _PokemonTower2FRivalVictoryText::
-	text "<RIVAL>: Well,"
-	line "look at all your"
-	cont "wimpy #MON!"
+	text "<RIVAL>: Beh,"
+	line "guarda tutti i"
+	cont "tuoi #MON"
+	cont "smidollati!"
 
-	para "Toughen them up a"
-	line "bit more!"
+	para "Rendili un pò"
+	line "più tosti!"
 
-	para "Also watch out"
-	line "for ghost-type"
-	cont "moves!"
+	para "Inoltre stai"
+	line "attento alle"
+	cont "mosse di tipo"
+	cont "spettro!"
 
-	para "They may not hit"
-	line "normal-types,"
-	cont "but non-physical"
-	cont "moves can still"
-	cont "hit hard!"
+	para "Potrebbero non"
+	line "colpire i tipi"
+	cont "normali, ma le"
+	cont "mosse non fisiche"
+	cont "possono ancora"
+	cont "far male!"
 	prompt
 
 _PokemonTower2FRivalHowsYourDexText::
-	text "How's your #DEX"
-	line "coming, pal?"
-	cont "I just caught a"
+	text "Come va il tuo"
+	line "#DEX, amico?"
+	cont "Ho appena"
+	cont "catturato un"
 	cont "CUBONE!"
 
-	para "I can't find the"
-	line "grown-up MAROWAK"
-	cont "yet!"
+	para "Non riesco ancora"
+	line "a trovare il"
+	cont "MAROWAK adulto!"
 
-	para "I doubt there are"
-	line "any left! Well, I"
-	cont "better get going!"
-	cont "I've got a lot to"
-	cont "accomplish, pal!"
+	para "Dubito che ce ne"
+	line "siano ancora! Beh,"
+	cont "È meglio che vada!"
+	cont "Ho un sacco di"
+	cont "cose da fare,"
+	cont "amico!"
 
-	para "Smell ya later!"
+	para "Ci sentiamo dopo!"
 	done
 
 _PokemonTower2FChannelerText::
-	text "Even we could not"
-	line "identify the"
-	cont "wayward GHOSTs!"
+	text "Nemmeno noi siamo"
+	line "riusciti a"
+	cont "identificare i"
+	cont "FANTASMI vaganti!"
 
-	para "A SILPH SCOPE"
-	line "might be able to"
-	cont "unmask them."
+	para "Una SPETTROSONDA"
+	line "potrebbe essere"
+	cont "in grado di"
+	cont "smascherarli."
 	done

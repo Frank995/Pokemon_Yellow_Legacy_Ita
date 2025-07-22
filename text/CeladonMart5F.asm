@@ -1,28 +1,31 @@
 _CeladonMart5FGentlemanText::
-	text "#MON ability"
-	line "enhancers can be"
-	cont "bought only here."
+	text "I potenziatori"
+	line "di abilità #MON"
+	cont "si comprano solo"
+	cont "qui."
 
-	para "Use CALCIUM to"
-	line "increase SPECIAL"
-	cont "abilities."
+	para "Usa il CALCIO per"
+	line "aumentare le"
+	cont "abilità SPECIALI."
 
-	para "Use CARBOS to"
-	line "increase SPEED."
+	para "Usa i CARBURANTI"
+	line "per aumentare la"
+	cont "VELOCITÀ."
 	done
 
 _CeladonMart5FSailorText::
-	text "I'm here for"
-	line "#MON ability"
-	cont "enhancers."
+	text "Sono qui per i"
+	line "potenziatori di"
+	cont "abilità #MON."
 
-	para "PROTEIN increases"
-	line "ATTACK power."
+	para "Le PROTEINE"
+	line "aumentano l'"
+	cont "ATTACCO."
 
-	para "IRON increases"
-	line "DEFENSE!"
+	para "Il FERRO aumenta"
+	line "la DIFESA!"
 	done
 
 _CeladonMart5FCurrentFloorSignText::
-	text "5F: POWER ZONE"
+	text "4P: ZONA ENERGIA"
 	done

@@ -1,181 +1,195 @@
 _PokemonMansion2FSuperNerdBattleText::
-	text "I can't get out!"
-	line "This old place is"
-	cont "one big puzzle!"
+	text "Non riesco a"
+	line "uscire! Questo"
+	cont "vecchio posto è"
+	cont "un grande puzzle!"
 	done
 
 _PokemonMansion2FSuperNerdEndBattleText::
 	text "Oh no!"
-	line "My bag of loot!"
+	line "Il mio bottino!"
 	prompt
 
 _PokemonMansion2FSuperNerdAfterBattleText::
-	text "Switches open and"
-	line "close alternating"
-	cont "sets of doors!"
+	text "Gli interruttori"
+	line "aprono e chiudono"
+	cont "gruppi alternati"
+	cont "di porte!"
 	done
 
 _PokemonMansion2FDiary1Text::
-	text "Diary: July 5"
+	text "Diario: 5 Luglio"
 	line "Guyana,"
-	cont "South America"
+	cont "Sud America"
 
-	para "A new #MON was"
-	line "discovered deep"
-	cont "in the jungle."
+	para "È stato scoperto"
+	line "un nuovo #MON"
+	cont "nel profondo"
+	cont "della giungla."
 	done
 
 _PokemonMansion2FDiary2Text::
-	text "Diary: July 10"
-	line "We christened the"
-	cont "newly discovered"
-	cont "#MON, MEW."
+	text "Diario: 10 Luglio"
+	line "Abbiamo battezzato"
+	cont "il #MON appena"
+	cont "scoperto, MEW."
 	done
 
 _PokemonMansion2FSwitchText::
-	text "A secret switch!"
+	text "Un interruttore"
+	line "segreto!"
 
-	para "Press it?"
+	para "Premerlo?"
 	done
 
 _PokemonMansion2FSwitchPressedText::
-	text "Who wouldn't?"
+	text "Chi non lo"
+	line "farebbe?"
 	prompt
 
 _PokemonMansion2FSwitchNotPressedText::
-	text "Not quite yet!"
+	text "Non ancora!"
 	done
 
 _PokemonMansion2F_OakBeforeBattleText1::
-	text "You've caught me"
-	line "in a moment of"
-	cont "deep research."
+	text "Mi hai colto in"
+	line "un momento di"
+	cont "profonda ricerca."
 	
-	para "This mansion"
-	line "holds secrets of"
-	cont "a #MON barely"
-	cont "more than a"
-	cont "whisper in"
-	cont "ancient texts."
+	para "Questa villa"
+	line "custodisce segreti"
+	cont "di un #MON che"
+	cont "È poco più di un"
+	cont "sussurro negli"
+	cont "antichi testi."
 	prompt
 
 _PokemonMansion2F_OakBeforeBattleText2::	
-	text "Looking at the"
-	line "story of MEWTWO,"
+	text "Osservando la"
+	line "storia di MEWTWO,"
 	
-	para "one ponders its"
-	line "origins..."
+	para "ci si interroga"
+	line "sulle sue"
+	cont "origini..."
 	prompt
 
 _PokemonMansion2F_OakBeforeBattleText3::
-	text "I spent many"
-	line "years exploring"
-	cont "the region to"
-	cont "discover every"
-	cont "species."
+	text "Ho passato molti"
+	line "anni esplorando"
+	cont "la regione per"
+	cont "scoprire ogni"
+	cont "specie."
 
-	para "There were"
-	line "a few, however."
+	para "Ce n'erano alcune,"
+	line "tuttavia."
 	prompt
 
 _PokemonMansion2F_OakBeforeBattleText4::
-	text "They were"
-	line "so powerful,"
+	text "Erano così"
+	line "potenti,"
 
-	para "so rare,"
+	para "così rare,"
 
-	para "I had to keep"
-	line "their capture"
-	cont "hidden."
+	para "che ho dovuto"
+	line "tenere nascosta"
+	cont "la loro cattura."
 	prompt
 
 _PokemonMansion2F_OakBeforeBattleText5::
-	text "In learning of"
-	line "MEWTWO's creation,"
+	text "Venendo a"
+	line "conoscenza della"
+	cont "creazione di"
+	cont "MEWTWO,"
 
-	para "it seems my fears"
-	line "were well placed."
+	para "sembra che le mie"
+	line "paure fossero"
+	cont "ben fondate."
 
-	para "Not all are"
-	line "capable of"
-	cont "wielding such"
-	cont "power."
+	para "Non tutti sono"
+	line "capaci di"
+	cont "maneggiare tale"
+	cont "potere."
 	prompt
 
 _PokemonMansion2F_OakBeforeBattleText6::
-	text "But let's focus"
-	line "on the present."
+	text "Ma concentriamoci"
+	line "sul presente."
 
 	para "<PLAYER>!"
 	
-	para "You have become"
-	line "a #MON master"
-	cont "above all others."
+	para "Sei diventato un"
+	line "maestro #MON"
+	cont "al di sopra di"
+	cont "tutti gli altri."
 
-	para "Our battle has"
-	line "showed me back"
-	cont "to the path of"
-	cont "strength."
+	para "La nostra lotta"
+	line "mi ha riportato"
+	cont "sul sentiero"
+	cont "della forza."
 	
-	para "Now, I challenge"
-	line "you with my full,"
+	para "Ora ti sfido con"
+	line "tutto il mio"
 
-	para "unrestrained"
-	line "power."
+	para "potere"
+	line "incontrollato."
 
-	para "Might I test"
-	line "your might" 
-	cont "once more?"
+	para "Posso mettere"
+	line "alla prova la tua" 
+	cont "forza ancora"
+	cont "una volta?"
 	done
 
 _PokemonMansion2F_OakRealChallengeBattleText::
-	text "May our battle"
-	line "echo through"
-	cont "these halls."
+	text "Che la nostra"
+	line "battaglia echeggi"
+	cont "in queste sale."
 	
-	para "Prepare yourself!"
+	para "Preparati!"
 	done
 
 _PokemonMansion2F_OakRefusedBattleText::
-	text "Perhaps it's best"
-	line "to wait until the"
-	cont "time feels right."
+	text "Forse è meglio"
+	line "aspettare finché"
+	cont "non arriva il"
+	cont "momento giusto."
 	done
 
 _PokemonMansion2F_OakDefeatedText::
-	text "This"
-	line "defeat teaches"
-	cont "me more than"
-	cont "any victory."
+	text "Questa sconfitta"
+	line "mi insegna più di"
+	cont "qualsiasi"
+	cont "vittoria."
 	prompt
 
 _PokemonMansion2F_OakWonText::
-	text "I've still got"
-	line "a trick or two"
-	cont "up my sleeve!"
+	text "Ho ancora"
+	line "qualche asso"
+	cont "nella manica!"
 	prompt
 
 _PokemonMansion2F_OakPostBattleText::
-	text "Our clash today"
-	line "stirred the very"
-	cont "air itself."
+	text "Il nostro scontro"
+	line "di oggi ha"
+	cont "agitato l'aria"
+	cont "stessa."
 
-	para "There's a certain"
-	line "energy in this"
-	cont "place, ripe with"
-	cont "possibility."
+	para "C'è una certa"
+	line "energia in questo"
+	cont "luogo, ricca di"
+	cont "possibilità."
 
-	para "Keep your senses"
-	line "sharp. The world"
-	cont "is full of wonders"
+	para "Tieni i sensi"
+	line "all'erta. Il mondo"
+	cont "È pieno di"
+	cont "meraviglie"
 	
-	para "waiting to reveal"
-	line "themselves to the"
-	cont "worthy."
+	para "che aspettano di"
+	line "rivelarsi ai"
+	cont "degni."
 
-	para "Who knows what"
-	line "mysteries may"
-	cont "unfold next?"
+	para "Chissà quali"
+	line "misteri potranno"
+	cont "svelarsi ora?"
 	done
 
 _PokemonMansion2F_MewText::

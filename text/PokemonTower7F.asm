@@ -1,51 +1,57 @@
 _PokemonTowerJessieJamesText1::
-	text "Stop right there!@"
+	text "Fermati subito!@"
 	text_end
 
 _PokemonTowerJessieJamesText2::
-	text "Grampa here wanted"
-	line "to complain, so"
-	cont "we're setting him"
-	cont "straight."
+	text "Il vecchietto qui"
+	line "voleva lamentarsi,"
+	cont "quindi lo stiamo"
+	cont "rimettendo"
+	cont "in riga."
 
-	para "So render yourself"
-	line "invisible, or"
-	cont "prepare to fight!"
+	para "Quindi renditi"
+	line "invisibile, o"
+	cont "preparati"
+	cont "a lottare!"
 	done
 
 _PokemonTowerJessieJamesText3::
-	text "You"
-	line "will regret this!"
+	text "Te ne"
+	line "pentirai!"
 	prompt
 
 _PokemonTowerJessieJamesText4::
-	text "Looks like TEAM"
-	line "ROCKET's blasting"
-	cont "off again!@"
+	text "Sembra che il TEAM"
+	line "ROCKET stia"
+	cont "decollando"
+	cont "di nuovo!@"
 	text_end
 
 _PokemonTower7FMrFujiRescueText::
-	text "MR.FUJI: Heh? You"
-	line "came to save me?"
+	text "MR. FUJI: Eh? Sei"
+	line "venuto a salvarmi?"
 
-	para "Thank you. But, I"
-	line "came here of my"
-	cont "own free will."
+	para "Grazie. Ma sono"
+	line "venuto qui di mia"
+	cont "spontanea volontà."
 
-	para "I came to calm"
-	line "the soul of"
-	cont "CUBONE's mother."
+	para "Sono venuto a"
+	line "calmare l'anima"
+	cont "della madre di"
+	cont "CUBONE."
 
-	para "I think MAROWAK's"
-	line "spirit has gone"
-	cont "to the afterlife."
+	para "Penso che lo"
+	line "spirito di MAROWAK"
+	cont "sia andato"
+	cont "nell'aldilà."
 
-	para "I must thank you"
-	line "for your kind"
-	cont "concern!"
+	para "Devo ringraziarti"
+	line "per la tua gentile"
+	cont "preoccupazione!"
 
-	para "Follow me to my"
-	line "home, #MON"
-	cont "HOUSE at the foot"
-	cont "of this tower."
+	para "Seguimi fino a"
+	line "casa mia, la CASA"
+	cont "#MON ai"
+	cont "piedi di questa"
+	cont "torre."
 	done

@@ -1,114 +1,119 @@
 _VictoryRoad1FCooltrainerFBattleText::
-	text "Oh? Did you"
-	line "need help with"
-	cont "something?"
+	text "Oh? Hai bisogno"
+	line "di aiuto per"
+	cont "qualcosa?"
 	done
 
 _VictoryRoad1FCooltrainerFEndBattleText::
 	text "Ah."
-	line "You've got the"
-	cont "hang of things,"
-	cont "then."
+	line "Hai capito come"
+	cont "funziona, allora."
 	prompt
 
 _VictoryRoad1FCooltrainerFAfterBattleText::
-	text "I love helping"
-	line "people learn!"
+	text "Adoro aiutare"
+	line "le persone ad"
+	cont "imparare!"
 
-	para "Maybe I should've"
-	line "been a TEACHER?"
+	para "Forse avrei dovuto"
+	line "diventare un'"
+	cont "INSEGNANTE?"
 	done
 
 _VictoryRoad1FCooltrainerMBattleText::
-	text "I hope you can"
-	line "entertain me for"
-	cont "a bit."
+	text "Spero che tu"
+	line "possa intratte-"
+	cont "nermi un pò."
 	done
 
 _VictoryRoad1FCooltrainerMEndBattleText::
 	text "Hm,"
-	line "this didn't turn"
-	cont "out well."
+	line "non è andata"
+	cont "molto bene."
 	prompt
 
 _VictoryRoad1FCooltrainerMAfterBattleText::
-	text "Perhaps I should"
-	line "try a more"
-	cont "physical moveset."
+	text "Forse dovrei"
+	line "provare un set"
+	cont "di mosse più"
+	cont "fisiche."
 	done
 
 _VictoryRoad1FBugCatcherBattleText::
-	text "These aren't your"
-	line "average bug-"
-	cont "types!"
+	text "Questi non sono"
+	line "i tuoi soliti"
+	cont "tipi coleottero!"
 
-	para "Let's duel!"
+	para "Battiamoci!"
 	done
 
 _VictoryRoad1FBugCatcherEndBattleText::
-	text "MY"
-	line "BUGS!!!"
+	text "I MIEI"
+	line "COLEOTTERI!!!"
 	prompt
 
 _VictoryRoad1FBugCatcherAfterBattleText::
-	text "I know they"
-	line "aren't all bugs,"
+	text "So che non sono"
+	line "tutti coleotteri,"
 
-	para "I just like"
-	line "the net."
+	para "mi piace solo"
+	line "il retino."
 	done
 
 _VictoryRoad1FBeautyBattleText::
-	text "I've always loved"
+	text "Ho sempre amato"
 	line "RAICHU!"
 
-	para "Let me show you"
-	line "how great they"
-	cont "are!"
+	para "Lascia che ti"
+	line "mostri quanto"
+	cont "sono fantastici!"
 	done
 
 _VictoryRoad1FBeautyEndBattleText::
 	text "Aw, "
-	line "RAICHU and their"
-	cont "friends lost..."
+	line "RAICHU e i suoi"
+	cont "amici hanno"
+	cont "perso..."
 	prompt
 
 _VictoryRoad1FBeautyAfterBattleText::
-	text "It doesn't matter,"
-	line "RAICHU is still"
-	cont "the best to me!"
+	text "Non importa,"
+	line "RAICHU è ancora"
+	cont "il migliore"
+	cont "per me!"
 	done
 
 _VictoryRoad1FBurglarBattleText::
-	text "LOOT AND PILLAGE!"
+	text "SACCHEGGIO E"
+	line "RAZZIE!"
 	done
 
 _VictoryRoad1FBurglarEndBattleText::
-	text "I thought"
-	line "you were soft"
-	cont "and weak..."
+	text "Pensavo"
+	line "fossi dolce"
+	cont "e debole..."
 	prompt
 
 _VictoryRoad1FBurglarAfterBattleText::
-	text "Go away, I am"
-	line "looking for my"
-	cont "next victim!"
+	text "Vattene, sto"
+	line "cercando la mia"
+	cont "prossima vittima!"
 
-	para "A burglar's life"
-	line "for me,"
+	para "Vita da ladro"
+	line "per me,"
 	cont "yo-ho!"
 	done
 
 _VictoryRoad1FBlackbeltBattleText::
-	text "Everybody was"
-	line "Kung Fu fighting,"
+	text "Tutti stavano"
+	line "facendo Kung Fu,"
 	cont "HUH!"
 	done
 
 _VictoryRoad1FBlackbeltEndBattleText::
-	text "You"
-	line "were fast as"
-	cont "lightning!"
+	text "Sei stato"
+	line "veloce come"
+	cont "un fulmine!"
 	prompt
 
 _VictoryRoad1FBlackbeltAfterBattleText::

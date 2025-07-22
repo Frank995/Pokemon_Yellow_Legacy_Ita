@@ -1,95 +1,99 @@
 _FuchsiaPokecenterRockerText::
-	text "You can't win"
-	line "with just one"
-	cont "strong #MON."
+	text "Non puoi vincere"
+	line "con un solo"
+	cont "#MON forte."
 
-	para "It's tough, but"
-	line "you have to raise"
-	cont "them evenly."
+	para "È dura, ma devi"
+	line "allevarli tutti"
+	cont "allo stesso modo."
 	done
 
 _FuchsiaPokecenterCooltrainerFText::
-	text "There's a narrow"
-	line "trail west of"
-	cont "VIRIDIAN CITY."
+	text "C'è un sentiero"
+	line "stretto a ovest"
+	cont "di SMERALDOPOLI."
 
-	para "It goes to #MON"
-	line "LEAGUE HQ."
-	cont "The HQ governs"
-	cont "all trainers."
+	para "Porta al quartier"
+	line "generale della"
+	cont "LEGA #MON."
+	
+	para "Il QG governa"
+	line "tutti gli"
+	cont "allenatori."
 	done
 
 _NurseJoyBattleText::
-	text "Actually..."
-    line "Before you go,"
+	text "In realtà..."
+    line "Prima che tu vada,"
 
-    para "I've always"
-    line "dreamed of"
+    para "Ho sempre"
+    line "sognato di"
 
-    para "becoming a"
-    line "#MON MASTER,"
+    para "diventare un"
+    line "MAESTRO #MON,"
 
-    para "but my duties"
-    line "here make it"
+    para "ma i miei doveri"
+    line "qui rendono"
     
-	para "hard to travel"
-    line "and collect"
-    cont "badges."
+	para "difficile il"
+	line "viaggio per"
+	cont "collezionare"
+	cont "medaglie."
 
-	para "It would be a"
-    line "great honor to"
-    cont "test my skills"
+	para "Sarebbe un grande"
+	line "onore testare"
+	cont "le mie abilità"
 
-    para "against the new"
-    line "CHAMPION."
+    para "contro il nuovo"
+    line "CAMPIONE."
 
-    para "Could I ask for"
-    line "a battle?"
+    para "Potrei chiederti"
+    line "una lotta?"
 	done
 
 _NurseJoyBattleText2::
-    text "Actually..."
-    line "Before you go,"
+    text "In realtà..."
+    line "Prima che tu vada,"
 
-    para "Could I ask for"
-    line "another battle?"
+    para "Potrei chiederti"
+    line "un'altra lotta?"
 	done
 
 _NurseJoyRefusedText::
-	text "I understand."
-	line "Duty calls, and"
-	cont "so does yours."
+	text "Capisco."
+	line "Il dovere chiama,"
+	cont "e anche il tuo."
 
-	para "Maybe another"
-	line "time, then."
+	para "Magari un'altra"
+	line "volta, allora."
 	done
 
 _NurseJoyAcceptedText::
-	text "Thank you!"
+	text "Grazie!"
 
-	para "This means"
-	line "a lot to me."
+	para "Questo significa"
+	line "molto per me."
 	
-	para "Let's give it"
-    line "our best shot!"
+	para "Diamo il meglio"
+    line "di noi!"
 	done
 
 _NurseJoyAfterBattleText::
-    text "That was amazing!"
+    text "È stato incredibile!"
 
-    para "Your strength and"
-    line "bond with your"
-    cont "#MON is"
-	cont "inspiring."
+    para "La tua forza e il"
+    line "legame con i tuoi"
+    cont "#MON è"
+	cont "d'ispirazione."
 
-    para "This battle has"
-    line "taught me so"
-	cont "much."
+    para "Questa lotta mi"
+    line "ha insegnato"
+	cont "così tanto."
 
-	para "Thank you for"
-    line "this opportunity!"
+	para "Grazie per questa"
+    line "opportunità!"
 
-	para "I hope we can"
-    line "battle again"
-    cont "sometime!"
+	para "Spero che potremo"
+    line "lottare di nuovo"
+    cont "un giorno!"
     done

@@ -1,17 +1,19 @@
 _PewterMartYoungsterText::
-	text "A shady old man"
-	line "got me to buy"
-	cont "this really weird"
-	cont "fish #MON!"
+	text "Un vecchio losco"
+	line "mi ha venduto"
+	cont "questo #MON"
+	cont "pesce strano!"
 
-	para "It's totally weak"
-	line "and it cost ¥500!"
+	para "È del tutto"
+	line "inutile ed è"
+	cont "costato ¥500!"
 	done
 
 _PewterMartSuperNerdText::
-	text "Good things can"
-	line "happen if you"
-	cont "raise #MON"
-	cont "diligently, even"
-	cont "the weak ones!"
+	text "Cose belle"
+	line "possono succedere"
+	cont "allenando i #MON"
+	cont "con diligenza,"
+	cont "anche quelli"
+	cont "deboli!"
 	done

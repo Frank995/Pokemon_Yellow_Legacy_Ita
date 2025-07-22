@@ -4,111 +4,120 @@ _SSAnneB1FRoomsMachokeText::
 	text_end
 
 _SSAnneB1FRoomsSailor1BattleText::
-	text "You know what they"
-	line "say about sailors"
-	cont "and fighting!"
+	text "Sai cosa si dice"
+	line "dei marinai e"
+	cont "delle lotte!"
 	done
 
 _SSAnneB1FRoomsSailor1EndBattleText::
-	text "Right!"
-	line "Good fight, mate!"
+	text "Giusto!"
+	line "Bella lotta,"
+	cont "amico!"
 	prompt
 
 _SSAnneB1FRoomsSailor1AfterBattleText::
-	text "Haha! Want to be"
-	line "a sailor, mate?"
+	text "Ahah! Vuoi fare il"
+	line "marinaio, amico?"
 	done
 
 _SSAnneB1FRoomsSailor2BattleText::
-	text "My sailor's pride"
-	line "is at stake!"
+	text "Il mio orgoglio"
+	line "di marinaio è"
+	cont "in gioco!"
 	done
 
 _SSAnneB1FRoomsSailor2EndBattleText::
-	text "Your"
-	line "spirit sank me!"
+	text "Il tuo spirito"
+	line "mi ha affondato!"
 	prompt
 
 _SSAnneB1FRoomsSailor2AfterBattleText::
-	text "Did you see the"
-	line "FISHING GURU in"
-	cont "VERMILION CITY?"
+	text "Hai visto il"
+	line "GURU DELLA PESCA"
+	cont "ad ARANCIOPOLI?"
 	done
 
 _SSAnneB1FRoomsSailor3BattleText::
-	text "Us sailors have"
-	line "#MON too!"
+	text "Anche noi marinai"
+	line "abbiamo i #MON!"
 	done
 
 _SSAnneB1FRoomsSailor3EndBattleText::
 	text "OK, "
-	line "you're not bad."
+	line "non sei male."
 	prompt
 
 _SSAnneB1FRoomsSailor3AfterBattleText::
-	text "We caught all our"
-	line "#MON while"
-	cont "out at sea!"
+	text "Abbiamo catturato"
+	line "tutti i nostri"
+	cont "#MON mentre"
+	cont "eravamo in mare!"
 	done
 
 _SSAnneB1FRoomsSailor4BattleText::
-	text "I like feisty"
-	line "kids like you!@"
+	text "Mi piacciono i"
+	line "ragazzi combattivi"
+	cont "come te!@"
 	text_end
 
 _SSAnneB1FRoomsSailor4EndBattleText::
 	text "Argh!"
-	line "Lost it!"
+	line "L'ho persa!"
 	prompt
 
 _SSAnneB1FRoomsSailor4AfterBattleText::
-	text "Sea #MON live"
-	line "in deep water."
-	cont "You'll need a ROD!"
+	text "I #MON marini"
+	line "vivono in acque"
+	cont "profonde."
+	cont "Ti servirà un AMO!"
 	done
 
 _SSAnneB1FRoomsSailor5BattleText::
-	text "Matey, you're"
-	line "walking the plank"
-	cont "if you lose!"
+	text "Compagno, se perdi"
+	line "ti faccio"
+	cont "camminare sulla"
+	cont "tavola!"
 	done
 
 _SSAnneB1FRoomsSailor5EndBattleText::
 	text "Argh!"
-	line "Beaten by a kid!"
+	line "Battuto da un"
+	cont "ragazzino!"
 	prompt
 
 _SSAnneB1FRoomsSailor5AfterBattleText::
-	text "Jellyfish some-"
-	line "times drift into"
-	cont "the ship."
+	text "Le meduse a volte"
+	line "si avvicinano"
+	cont "alla nave."
 	done
 
 _SSAnneB1FRoomsFisherBattleText::
-	text "Hello stranger!"
-	line "Stop and chat!"
+	text "Ciao straniero!"
+	line "Fermati a"
+	cont "chiacchierare!"
 
-	para "All my #MON"
-	line "are from the sea!"
+	para "Tutti i miei #MON"
+	line "vengono dal mare!"
 	done
 
 _SSAnneB1FRoomsFisherEndBattleText::
-	text "Darn!"
-	line "I let that one"
-	cont "get away!"
+	text "Accidenti!"
+	line "L'ho lasciato"
+	cont "scappare!"
 	prompt
 
 _SSAnneB1FRoomsFisherAfterBattleText::
-	text "I was going to"
-	line "make you my"
-	cont "assistant too!"
+	text "Stavo per farti"
+	line "diventare il mio"
+	cont "assistente!"
 	done
 
 _SSAnneB1FRoomsSuperNerdText::
-	text "My buddy, MACHOKE,"
-	line "is super strong!"
+	text "Il mio amico,"
+	line "MACHOKE, è super"
+	cont "forte!"
 
-	para "He has enough"
-	line "STRENGTH to move"
-	cont "big rocks!"
+	para "Ha abbastanza"
+	line "FORZA per spostare"
+	cont "grandi rocce!"
 	done

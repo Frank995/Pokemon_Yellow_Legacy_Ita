@@ -28,13 +28,10 @@ INCLUDE "text/SilphCo5F.asm"
 INCLUDE "text/SilphCo6F.asm"
 INCLUDE "text/SilphCo7F.asm"
 INCLUDE "text/SilphCo8F.asm"
-INCLUDE "text/SilphCo9F.asm"
-INCLUDE "text/SilphCo10F.asm"
 
 
 SECTION "Text 2", ROMX
 
-INCLUDE "text/SilphCo11F.asm"
 INCLUDE "text/PokemonMansion3F.asm"
 INCLUDE "text/PokemonMansionB1F.asm"
 INCLUDE "text/SafariZoneEast.asm"
@@ -53,8 +50,6 @@ INCLUDE "text/HallOfFame.asm"
 INCLUDE "text/LoreleisRoom.asm"
 INCLUDE "text/BrunosRoom.asm"
 INCLUDE "text/AgathasRoom.asm"
-INCLUDE "text/RockTunnelB1F.asm"
-INCLUDE "text/SeafoamIslandsB4F.asm"
 
 INCLUDE "data/text/text_2.asm"
 
@@ -102,12 +97,10 @@ INCLUDE "text/Route4.asm"
 INCLUDE "text/Route5.asm"
 INCLUDE "text/Route6.asm"
 INCLUDE "text/Route7.asm"
-INCLUDE "text/Route8.asm"
 
 
 SECTION "Text 4", ROMX
 
-INCLUDE "text/RedsHouse1F.asm"
 INCLUDE "text/Route10.asm"
 INCLUDE "text/Route11.asm"
 INCLUDE "text/Route12.asm"
@@ -124,7 +117,6 @@ INCLUDE "text/Route22.asm"
 INCLUDE "text/Route23.asm"
 INCLUDE "text/Route24.asm"
 INCLUDE "text/Route25.asm"
-INCLUDE "text/PokemonMansion2F.asm"
 
 INCLUDE "data/text/text_4.asm"
 
@@ -135,8 +127,6 @@ INCLUDE "data/text/text_5.asm"
 
 INCLUDE "text/Route9_2.asm"
 INCLUDE "text/BluesHouse.asm"
-INCLUDE "text/OaksLab.asm"
-INCLUDE "text/pokedex_ratings.asm"
 INCLUDE "text/ViridianPokecenter.asm"
 INCLUDE "text/ViridianMart.asm"
 INCLUDE "text/ViridianNicknameHouse.asm"
@@ -195,14 +185,11 @@ INCLUDE "text/CeladonMansionRoof.asm"
 INCLUDE "text/CeladonMansionRoofHouse.asm"
 INCLUDE "text/CeladonPokecenter.asm"
 INCLUDE "text/CeladonGym.asm"
-INCLUDE "text/GameCorner.asm"
 
 
 SECTION "Text 7", ROMX
 
-INCLUDE "text/GameCorner_2.asm"
 INCLUDE "text/CeladonMart5F.asm"
-INCLUDE "text/GameCornerPrizeRoom.asm"
 INCLUDE "text/CeladonDiner.asm"
 INCLUDE "text/CeladonChiefHouse.asm"
 INCLUDE "text/CeladonHotel.asm"
@@ -224,13 +211,11 @@ INCLUDE "text/CinnabarMart.asm"
 INCLUDE "text/IndigoPlateauLobby.asm"
 INCLUDE "text/CopycatsHouse1F.asm"
 INCLUDE "text/CopycatsHouse2F.asm"
-INCLUDE "text/FightingDojo.asm"
 INCLUDE "text/SaffronGym.asm"
 INCLUDE "text/SaffronPidgeyHouse.asm"
 INCLUDE "text/SaffronMart.asm"
 INCLUDE "text/SilphCo1F.asm"
 INCLUDE "text/SaffronPokecenter.asm"
-INCLUDE "text/MrPsychicsHouse.asm"
 
 INCLUDE "data/text/text_7.asm"
 
@@ -259,8 +244,27 @@ INCLUDE "text/move_deleter.asm"
 INCLUDE "text/move_relearner.asm"
 INCLUDE "text/ChampionsRoom.asm"
 INCLUDE "text/Route9.asm"
+INCLUDE "text/SilphCo9F.asm"
+INCLUDE "text/SilphCo10F.asm"
+INCLUDE "text/SilphCo11F.asm"
+INCLUDE "text/RockTunnelB1F.asm"
+INCLUDE "text/SeafoamIslandsB4F.asm"
+INCLUDE "text/Route8.asm"
+INCLUDE "text/PokemonMansion2F.asm"
+INCLUDE "text/RedsHouse1F.asm"
 
 INCLUDE "data/text/text_9.asm"
+
+
+SECTION "Text 10", ROMX
+
+INCLUDE "text/GameCorner.asm"
+INCLUDE "text/GameCorner_2.asm"
+INCLUDE "text/pokedex_ratings.asm"
+INCLUDE "text/OaksLab.asm"
+INCLUDE "text/GameCornerPrizeRoom.asm"
+INCLUDE "text/MrPsychicsHouse.asm"
+INCLUDE "text/FightingDojo.asm"
 
 
 SECTION "Pokédex Text", ROMX

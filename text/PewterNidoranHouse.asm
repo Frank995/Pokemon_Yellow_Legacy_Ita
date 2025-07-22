@@ -3,23 +3,27 @@ _PewterNidoranHouseNidoranText::
 	text_end
 
 _PewterNidoranHouseLittleBoyText::
-	text "NIDORAN sit!"
+	text "NIDORAN seduto!"
 	done
 
 _PewterNidoranHouseMiddleAgedManText::
-	text "Our #MON's an"
-	line "outsider, so it's"
-	cont "hard to handle."
+	text "Il nostro #MON è"
+	line "scambiato, quindi"
+	cont "È difficile da"
+	cont "gestire."
 
-	para "An outsider is a"
-	line "#MON that you"
-	cont "get in a trade."
+	para "Un #MON scambiato"
+	line "È un #MON che"
+	cont "ottieni tramite"
+	cont "uno scambio."
 
-	para "It grows fast, but"
-	line "it may ignore an"
-	cont "unskilled trainer"
-	cont "in battle!"
+	para "Cresce velocemente"
+	line "ma potrebbe"
+	cont "ignorare un"
+	cont "allenatore"
+	cont "inesperto"
+	cont "in battaglia!"
 
-	para "If only we had"
-	line "some BADGEs..."
+	para "Se solo avessimo"
+	line "delle MEDAGLIE..."
 	done

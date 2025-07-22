@@ -1,35 +1,40 @@
 _UndergroundPathRoute7CopyUnusedGirlText::
-	text "I want to shop at"
-	line "the dept. store"
-	cont "in CELADON but..."
+	text "Vorrei fare"
+	line "compere al centro"
+	cont "commerciale di"
+	cont "AZZURROPOLI ma..."
 
-	para "There are so many"
-	line "rough looking"
-	cont "people there."
+	para "Ci sono così tante"
+	line "persone dall'aria"
+	cont "minacciosa là."
 	done
 
 _UndergroundPathRoute7CopyUnusedTeamRocketHadAHideoutText::
-	text "TEAM ROCKET had a"
-	line "secret hideout in"
-	cont "CELADON CITY?"
+	text "Il TEAM ROCKET"
+	line "aveva un nascondi-"
+	cont "glio segreto ad"
+	cont "AZZURROPOLI?"
 	done
 
 _UndergroundPathRoute7CopyUnusedMiddleAgedManText::
-	text "You're here to"
-	line "shop in CELADON?"
+	text "Sei qui per fare"
+	line "compere ad"
+	cont "AZZURROPOLI?"
 
-	para "Just step outside"
-	line "and head west!"
+	para "Esci e vai verso"
+	line "ovest!"
 	done
 
 _UndergroundPathRoute7CopyUnusedGoesUnderSaffronText::
-	text "The UNDERGROUND"
-	line "PATH goes beneath"
-	cont "SAFFRON and leads"
-	cont "to LAVENDER."
+	text "La VIA SOTTERRANEA"
+	line "passa sotto"
+	cont "ZAFFERANOPOLI"
+	cont "e porta a"
+	cont "LAVANDONIA."
 
-	para "If you're heading"
-	line "to CERULEAN, go"
-	cont "to the building"
-	cont "across the road."
+	para "Se stai andando a"
+	line "CELESTOPOLI, vai"
+	cont "all'edificio"
+	cont "dall'altra parte"
+	cont "della strada."
 	done

@@ -1,14 +1,15 @@
 _Route11Gate1FGuardText::
-	text "When you catch"
-	line "lots of #MON,"
-	cont "isn't it hard to"
-	cont "think up names?"
+	text "Quando catturi"
+	line "tanti #MON,"
+	cont "non è difficile"
+	cont "inventare i nomi?"
 
-	para "In LAVENDER TOWN,"
-	line "there's a man who"
-	cont "rates #MON"
-	cont "nicknames."
+	para "A LAVANDONIA,"
+	line "c'è un uomo"
+	cont "che valuta i"
+	cont "soprannomi dei"
+	cont "#MON."
 
-	para "He'll help you"
-	line "rename them too!"
+	para "Ti aiuterà anche"
+	line "a rinominarli!"
 	done

@@ -3,23 +3,24 @@ _LavenderCuboneHouseCuboneText::
 	text_end
 
 _LavenderCuboneHouseBrunetteGirlPoorCubonesMotherText::
-	text "I hate those"
-	line "horrible ROCKETs!"
+	text "Odio quei"
+	line "terribili ROCKET!"
 
-	para "That poor CUBONE's"
-	line "mother..."
+	para "La povera madre"
+	line "di quel CUBONE..."
 
-	para "It was killed"
-	line "trying to escape"
-	cont "from TEAM ROCKET!"
+	para "È stata uccisa"
+	line "mentre cercava"
+	cont "di fuggire dal"
+	cont "TEAM ROCKET!"
 	done
 
 _LavenderCuboneHouseBrunetteGirlGhostIsGoneText::
-	text "The GHOST of"
-	line "#MON TOWER is"
-	cont "gone!"
+	text "Il FANTASMA della"
+	line "TORRE #MON"
+	cont "se n'è andato!"
 
-	para "Someone must have"
-	line "soothed its"
-	cont "restless soul!"
+	para "Qualcuno deve aver"
+	line "calmato la sua"
+	cont "anima inquieta!"
 	done

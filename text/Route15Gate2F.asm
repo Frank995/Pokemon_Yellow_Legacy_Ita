@@ -1,46 +1,44 @@
 _Route15Gate2FOaksAideHiText::
-	text "Hi! Remember me?"
-	line "I'm PROF.OAK's"
-	cont "AIDE!"
+	text "Ciao! Ti ricordi"
+	line "di me? Sono"
+	cont "l'ASSISTENTE del"
+	cont "PROF. OAK!"
 
-	para "I'm supposed to"
-	line "give you an"
-	cont "EXP ALL!"
+	para "Dovrei darti"
+	line "CONDIV. ESP!"
 	prompt
 
 _Route15Gate2FOaksAideGotItemText::
-	text "<PLAYER> got the"
-	line "EXP ALL!"
+	text "<PLAYER> ha"
+	line "ottenuto"
+	cont "CONDIV. ESP!"
 	prompt
 
 _Route15Gate2FOaksAideNoRoomText::
-	text "Oh! I see you"
-	line "don't have any"
-	cont "room for the"
-	cont "EXP ALL."
+	text "Oh! Vedo che non"
+	line "hai spazio per"
+	cont "CONDIV. ESP."
 	done
 
 _Route15Gate2FOaksAideExpAllText::
-	text "EXP.ALL gives"
-	line "EXP points to all"
-	cont "the #MON with"
-	cont "you, even if they"
-	cont "don't fight."
+	text "CONDIV. ESP dà"
+	line "ESP a tutti i"
+	cont "#MON che hai"
+	cont "con te, anche se"
+	cont "non lottano."
 
-	para "It does, however,"
-	line "reduce the amount"
-	cont "of EXP for each"
+	para "Tuttavia, riduce"
+	line "l'ESP per ogni"
 	cont "#MON."
 
-	para "If you don't need"
-	line "it, you should "
-	cont "store it via PC."
+	para "Se non ti serve,"
+	line "mettilo nel PC."
 	done
 
 _Route15Gate2FBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Hai guardato nel"
+	line "binocolo."
 
-	para "It looks like a"
-	line "small island!"
+	para "Sembra una"
+	line "piccola isola!"
 	done

@@ -1,65 +1,69 @@
 _Museum2FYoungsterText::
-	text "MOON STONE?"
+	text "PIETRALUNARE?"
 
-	para "What's so special"
-	line "about it?"
+	para "Cosa ha di così"
+	line "speciale?"
 	done
 
 _Museum2FGrampsText::
-	text "July 20, 1969!"
+	text "20 luglio 1969!"
 
-	para "The 1st lunar"
-	line "landing!"
+	para "Il primo"
+	line "allunaggio!"
 
-	para "I bought a color"
-	line "TV to watch it!"
+	para "Comprai una TV"
+	line "a colori per"
+	cont "guardarlo!"
 	done
 
 _Museum2FScientistText::
-	text "We have a space"
-	line "exhibit now."
+	text "Ora abbiamo una"
+	line "mostra spaziale."
 	done
 
 _Museum2FBrunetteGirlText::
-	text "I want a PIKACHU!"
-	line "It's so cute!"
+	text "Voglio un PIKACHU!"
+	line "È così carino!"
 
-	para "I asked my Daddy"
-	line "to catch me one!"
+	para "Ho chiesto al mio"
+	line "papà di catturarne"
+	cont "uno per me!"
 	done
 
 _Museum2FHikerText::
-	text "Yeah, a PIKACHU"
-	line "soon, I promise!"
+	text "Sì, un PIKACHU"
+	line "presto, promesso!"
 	done
 
 _Museum2FPikachuText1::
-	text "Your PIKACHU looks"
-	line "stronger than"
-	cont "most. May I have"
-	cont "it for my"
-	cont "daughter?"
+	text "Il tuo PIKACHU"
+	line "sembra più forte"
+	cont "della maggior"
+	cont "parte. Potresti"
+	cont "darmelo per mia"
+	cont "figlia?"
 	done
 
 _Museum2FPikachuText2::
-	text "I'd love to get"
-	line "that strong"
-	cont "looking PIKACHU"
-	cont "off you!"
+	text "Mi piacerebbe"
+	line "ottenere quel"
+	cont "PIKACHU dall'"
+	cont "aspetto forte!"
 
-	para "Too bad it looks"
-	line "so attached."
-	cont "They've been hard"
-	cont "to find lately!"
+	para "Peccato che sembri"
+	line "così affezionato."
+	cont "Ultimamente sono"
+	cont "stati difficili"
+	cont "da trovare!"
 	done
 
 _Museum2FSpaceShuttleSignText::
-	text "SPACE SHUTTLE"
+	text "NAVETTA SPAZIALE"
 	line "COLUMBIA"
 	done
 
 _Museum2FMoonStoneSignText::
-	text "Meteorite that"
-	line "fell on MT.MOON."
-	cont "(MOON STONE?)"
+	text "Meteorite caduto"
+	line "su MONTE LUNA."
+	cont "(PIETRALUNARE?)"
 	done

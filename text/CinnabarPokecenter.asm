@@ -1,21 +1,22 @@
 _CinnabarPokecenterCooltrainerFText::
-	text "You can cancel"
-	line "evolution."
+	text "Puoi annullare"
+	line "l'evoluzione."
 
-	para "When a #MON is"
-	line "evolving, you can"
-	cont "stop it and leave"
-	cont "it the way it is."
+	para "Quando un #MON sta"
+	line "evolvendo, puoi"
+	cont "fermarlo e"
+	cont "lasciarlo com'è."
 	done
 
 _CinnabarPokecenterGentlemanText::
-	text "Do you have any"
-	line "friends?"
+	text "Hai degli"
+	line "amici?"
 
-	para "#MON you get"
-	line "in trades grow"
-	cont "very quickly."
+	para "I #MON che ottieni"
+	line "negli scambi"
+	cont "crescono molto"
+	cont "velocemente."
 
-	para "I think it's"
-	line "worth a try!"
+	para "Penso che valga"
+	line "la pena provare!"
 	done

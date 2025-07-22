@@ -1,264 +1,286 @@
 _SaffronGymSabrinaText::
-	text "I had a vision of"
-	line "your arrival!"
+	text "Ho avuto una"
+	line "visione del tuo"
+	cont "arrivo!"
 
-	para "I have had psychic"
-	line "powers since I"
-	cont "was a child."
+	para "Ho avuto poteri"
+	line "psichici sin da"
+	cont "quando ero"
+	cont "bambina."
 
-	para "I first learned"
-	line "to bend spoons"
-	cont "with my mind."
+	para "Ho imparato per"
+	line "prima a piegare"
+	cont "i cucchiai con"
+	cont "la mente."
 
-	para "I dislike fight-"
-	line "ing, but if you"
-	cont "wish, I will show"
-	cont "you my powers!"
+	para "Non mi piace"
+	line "combattere, ma se"
+	cont "vuoi, ti mostrerò"
+	cont "i miei poteri!"
 	done
 
 _SaffronGymSabrinaReceivedMarshBadgeText::
-	text "I'm"
-	line "shocked!"
-	cont "But, a loss is a"
-	cont "loss."
+	text "Sono"
+	line "scioccata!"
+	cont "Ma una sconfitta"
+	cont "È una sconfitta."
 
-	para "I admit I didn't"
-	line "work hard enough"
-	cont "to win!"
+	para "Ammetto di non"
+	line "aver lavorato"
+	cont "abbastanza duro"
+	cont "per vincere!"
 
-	para "You earned the"
-	line "MARSHBADGE!@"
+	para "Ti sei guadagnato"
+	line "la MEDAGLIA"
+	cont "PALUDE!@"
 	text_end
 
 _SaffronGymSabrinaPostBattleAdviceText::
-	text "Everyone has"
-	line "psychic power!"
-	cont "People just don't"
-	cont "realize it!"
+	text "Tutti hanno"
+	line "poteri psichici!"
+	cont "Le persone"
+	cont "semplicemente"
+	cont "non se ne rendono"
+	cont "conto!"
 	done
 
 _SaffronGymRematchPreBattle1Text::
-	text "My psychic power"
-    line "feels your might."
+	text "Il mio potere"
+    line "psichico sente"
+    cont "la tua forza."
 
-    para "Since our last"
-    line "battle, I've"
-    cont "grown stronger."
+    para "Dal nostro ultimo"
+    line "scontro, sono"
+    cont "diventata più forte."
 
-    para "Ready for a"
-    line "true challenge?"
-    cont "Rematch me?"
+    para "Pronto per una"
+    line "vera sfida?"
+    cont "Rivincita?"
 	done
 
 _SaffronGymPreRematchBattle2Text::
-	text "Let's see the"
-    line "power within!"
+	text "Vediamo il"
+    line "potere interiore!"
     done
 
 _SaffronGymRematchPostBattleText::
-	text "Incredible!"
-    line "Your strength"
-    cont "is the real deal!"
+	text "Incredibile!"
+    line "La tua forza"
+    cont "È autentica!"
 
-    para "This loss"
-    line "sharpens my"
-    cont "psychic sense."
+    para "Questa sconfitta"
+    line "affina il mio"
+    cont "senso psichico."
 	done
 
 _SaffronGymSabrinaMarshBadgeInfoText::
-	text "The MARSHBADGE"
-	line "makes #MON up"
-	cont "to L70 obey you!"
+	text "La MEDAGLIA PALUDE"
+	line "fa obbedire i"
+	cont "#MON fino al"
+	cont "livello 70!"
 
-	para "Stronger #MON"
-	line "will become wild,"
-	cont "ignoring your"
-	cont "orders in battle!"
+	para "I #MON più forti"
+	line "diventeranno"
+	cont "selvaggi,"
+	cont "ignorando i tuoi"
+	cont "ordini in"
+	cont "battaglia!"
 
-	para "Just don't raise"
-	line "your #MON too"
-	cont "much!"
+	para "Non allenare"
+	line "troppo i tuoi"
+	cont "#MON!"
 
-	para "Wait, please take"
-	line "this TM with you!"
+	para "Aspetta, per"
+	line "favore prendi"
+	cont "questa MT!"
 	done
 
 _SaffronGymSabrinaReceivedTM46Text::
-	text "<PLAYER> received"
-	line "TM46!@"
+	text "<PLAYER> ha"
+	line "ricevuto MT46!@"
 	text_end
 
 _TM46ExplanationText::
 	text_start
 
-	para "TM46 is PSYWAVE!"
-	line "It uses powerful"
-	cont "psychic waves to"
-	cont "inflict damage!"
+	para "MT46 è PSICONDA!"
+	line "Usa potenti onde"
+	cont "psichiche per"
+	cont "infliggere danni!"
 	done
 
 _SaffronGymSabrinaTM46NoRoomText::
-	text "Your pack is full"
-	line "of other items!"
+	text "La tua borsa è"
+	line "piena di altri"
+	cont "oggetti!"
 	done
 
 _SaffronGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Ehi! Futuro"
+	line "Campione!"
 
-	para "SABRINA's pure"
-	line "psychic #MON"
-	cont "are incredibly"
-	cont "powerful!"
+	para "I #MON psichici"
+	line "puri di SABRINA"
+	cont "sono"
+	cont "incredibilmente"
+	cont "potenti!"
 
-	para "With high SPECIAL,"
-	line "they land huge"
-	cont "damage and take"
-	cont "non-physical"
-	cont "hits quite well."
+	para "Con SPECIALE alto,"
+	line "infliggono enormi"
+	cont "danni e resistono"
+	cont "bene agli attacchi"
+	cont "non fisici."
 
-	para "If you don't have"
-	line "a ghost or bug-"
-	cont "type, bring a"
-	cont "#MON with"
-	cont "high ATTACK!"
+	para "Se non hai un"
+	line "tipo spettro o"
+	cont "coleottero, porta"
+	cont "un #MON con"
+	cont "ATTACCO alto!"
 	done
 
 _SaffronGymGuideBeatSabrinaText::
-	text "Psychic power,"
-	line "huh?"
+	text "Potere psichico,"
+	line "eh?"
 
-	para "If I had that,"
-	line "I'd make a bundle"
-	cont "at the slots!"
+	para "Se l'avessi"
+	line "anch'io, farei"
+	cont "fortuna alle slot!"
 	done
 
 _SaffronGymChanneler1BattleText::
-	text "SABRINA is younger"
-	line "than I, but I"
-	cont "respect her!"
+	text "SABRINA è più"
+	line "giovane di me, ma"
+	cont "la rispetto!"
 	done
 
 _SaffronGymChanneler1EndBattleText::
-	text "Not"
-	line "good enough!"
+	text "Non"
+	line "abbastanza bravo!"
 	prompt
 
 _SaffronGymChanneler1AfterBattleText::
-	text "In a battle of"
-	line "equals, the one"
-	cont "with the stronger"
-	cont "will wins!"
+	text "In una battaglia"
+	line "tra pari, vince"
+	cont "chi ha la volontà"
+	cont "più forte!"
 
-	para "If you wish"
-	line "to beat SABRINA,"
-	cont "focus on winning!"
+	para "Se vuoi battere"
+	line "SABRINA,"
+	cont "concentrati"
+	cont "sulla vittoria!"
 	done
 
 _SaffronGymYoungster1BattleText::
-	text "Does our unseen"
-	line "power scare you?"
+	text "Il nostro potere"
+	line "invisibile ti"
+	cont "spaventa?"
 	done
 
 _SaffronGymYoungster1EndBattleText::
-	text "I never"
-	line "foresaw this!"
+	text "Non l'avevo"
+	line "previsto!"
 	prompt
 
 _SaffronGymYoungster1AfterBattleText::
-	text "Psychic #MON"
-	line "fear only bugs"
-	cont "and ghosts!"
+	text "I #MON psichici"
+	line "temono solo"
+	cont "coleotteri e"
+	cont "spettri!"
 	done
 
 _SaffronGymChanneler2BattleText::
-	text "#MON take on"
-	line "the appearance of"
-	cont "their trainers."
+	text "I #MON assumono"
+	line "l'aspetto dei"
+	cont "loro allenatori."
 
-	para "Your #MON must"
-	line "be tough, then!"
+	para "I tuoi #MON"
+	line "devono essere"
+	cont "tosti, allora!"
 	done
 
 _SaffronGymChanneler2EndBattleText::
-	text "I knew"
-	line "it!"
+	text "Lo"
+	line "sapevo!"
 	prompt
 
 _SaffronGymChanneler2AfterBattleText::
-	text "I must teach"
-	line "better techniques"
-	cont "to my #MON!"
+	text "Devo insegnare"
+	line "tecniche migliori"
+	cont "ai miei #MON!"
 	done
 
 _SaffronGymYoungster2BattleText::
-	text "You know that"
-	line "power alone isn't"
-	cont "enough!"
+	text "Sai che la sola"
+	line "forza non basta!"
 	done
 
 _SaffronGymYoungster2EndBattleText::
-	text "I don't"
-	line "believe this!"
+	text "Non ci"
+	line "posso credere!"
 	prompt
 
 _SaffronGymYoungster2AfterBattleText::
-	text "SABRINA just wiped"
-	line "out the KARATE"
-	cont "MASTER next door!"
+	text "SABRINA ha appena"
+	line "distrutto il"
+	cont "MAESTRO di KARATE"
+	cont "della porta"
+	cont "accanto!"
 	done
 
 _SaffronGymChanneler3BattleText::
-	text "You and I, our"
-	line "#MON shall"
-	cont "fight!"
+	text "Tu ed io, i nostri"
+	line "#MON"
+	cont "combatteranno!"
 	done
 
 _SaffronGymChanneler3EndBattleText::
-	text "I lost"
-	line "after all!"
+	text "Alla fine"
+	line "ho perso!"
 	prompt
 
 _SaffronGymChanneler3AfterBattleText::
-	text "I knew that this"
-	line "was going to take"
-	cont "place."
+	text "Sapevo che questo"
+	line "sarebbe successo."
 	done
 
 _SaffronGymYoungster3BattleText::
-	text "SABRINA is young,"
-	line "but she's also"
-	cont "our LEADER!"
+	text "SABRINA è giovane,"
+	line "ma è anche la"
+	cont "nostra CAPALESTRA!"
 
-	para "You won't reach"
-	line "her easily!"
+	para "Non la"
+	line "raggiungerai"
+	cont "facilmente!"
 	done
 
 _SaffronGymYoungster3EndBattleText::
-	text "I lost"
-	line "my concentration!"
+	text "Ho perso"
+	line "la concentrazione!"
 	prompt
 
 _SaffronGymYoungster3AfterBattleText::
-	text "There used to be"
-	line "2 #MON GYMs in"
-	cont "SAFFRON."
+	text "C'erano una volta"
+	line "2 PALESTRE #MON"
+	cont "a ZAFFERANOPOLI."
 
-	para "The FIGHTING DOJO"
-	line "next door lost"
-	cont "its GYM status"
-	cont "when we went and"
-	cont "creamed them!"
+	para "Il DOJO di LOTTA"
+	line "della porta"
+	cont "accanto ha perso"
+	cont "lo status di"
+	cont "PALESTRA quando"
+	cont "li abbiamo"
+	cont "sconfitti!"
 	done
 
 _SaffronGymYoungster4BattleText::
-	text "SAFFRON #MON"
-	line "GYM is famous for"
-	cont "its psychics!"
+	text "La PALESTRA #MON"
+	line "di ZAFFERANOPOLI è"
+	cont "famosa per i suoi"
+	cont "sensitivi!"
 
-	para "You want to see"
+	para "Vuoi vedere"
 	line "SABRINA!"
-	cont "I can tell!"
+	cont "Lo capisco!"
 	done
 
 _SaffronGymYoungster4EndBattleText::
@@ -266,7 +288,8 @@ _SaffronGymYoungster4EndBattleText::
 	prompt
 
 _SaffronGymYoungster4AfterBattleText::
-	text "That's right! I"
-	line "used telepathy to"
-	cont "read your mind!"
+	text "Esatto! Ho usato"
+	line "la telepatia per"
+	cont "leggere la tua"
+	cont "mente!"
 	done

@@ -1,8 +1,8 @@
 TeachingHMsText::
-	text "HMs are really"
-	line "important!"
+	text "Le MN sono molto"
+	line "importanti!"
 
-	para "You should keep"
-	line "them on you at"
-	cont "all times."
+	para "Dovresti "
+	line "tenerle sempre"
+	cont "con te."
 	done

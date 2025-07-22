@@ -1,22 +1,24 @@
 _CeladonChiefHouseChiefText::
-	text "Hehehe! The slots"
-	line "just reel in the"
-	cont "dough, big time!"
+	text "Ehehe! Le slot"
+	line "machine fanno"
+	cont "soldi a palate!"
 	done
 
 _CeladonChiefHouseRocketText::
-	text "CHIEF!"
+	text "CAPO!"
 
-	para "We just shipped"
-	line "2000 #MON as"
-	cont "slot prizes!"
+	para "Abbiamo appena"
+	line "spedito 2000"
+	cont "#MON come premi"
+	cont "delle slot!"
 	done
 
 _CeladonChiefHouseSailorText::
-	text "Don't touch the"
-	line "poster at the"
-	cont "GAME CORNER!"
+	text "Non toccare il"
+	line "poster alla SALA"
+	cont "GIOCHI!"
 
-	para "There's no secret"
-	line "switch behind it!"
+	para "Non c'è nessun"
+	line "interruttore"
+	cont "segreto dietro!"
 	done

@@ -1,12 +1,13 @@
 _SafariZoneNorthRestHouseSignText::
-	text "REST HOUSE"
+	text "CASA DI RIPOSO"
 	done
 
 _SafariZoneNorthTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "CONSIGLI"
+	line "ALLENATORE"
 
-	para "The SECRET HOUSE"
-	line "is still ahead!"
+	para "La CASA SEGRETA"
+	line "È ancora avanti!"
 	done
 
 _SafariZoneNorthSignText::
@@ -14,20 +15,23 @@ _SafariZoneNorthSignText::
 	done
 
 _SafariZoneNorthTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "CONSIGLI"
+	line "ALLENATORE"
 
-	para "#MON hide in"
-	line "tall grass!"
+	para "I #MON si"
+	line "nascondono nell'"
+	cont "erba alta!"
 
-	para "Zigzag through"
-	line "grassy areas to"
-	cont "flush them out."
+	para "Fai lo zigzag"
+	line "nelle zone erbose"
+	cont "per scovarli."
 	done
 
 _SafariZoneNorthTrainerTips3Text::
-	text "TRAINER TIPS"
+	text "CONSIGLI"
+	line "ALLENATORE"
 
-	para "Win a free HM for"
-	line "finding the"
-	cont "SECRET HOUSE!"
+	para "Vinci una MN"
+	line "gratis trovando"
+	cont "la CASA SEGRETA!"
 	done

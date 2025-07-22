@@ -81,8 +81,8 @@ BikeShopClerkText:
 	jp TextScriptEnd
 
 BikeShopMenuText:
-	db   "BICYCLE"
-	next "CANCEL@"
+	db   "BICICLETTA"
+	next "ESCI@"
 
 BikeShopMenuPrice:
 	db "¥1000000@"

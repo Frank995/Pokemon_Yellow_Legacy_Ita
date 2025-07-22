@@ -247,10 +247,10 @@ PlayerPCToss:
 	jp .loop
 
 PlayersPCMenuEntries:
-	db   "WITHDRAW ITEM"
-	next "DEPOSIT ITEM"
-	next "TOSS ITEM"
-	next "LOG OFF@"
+	db   "RITIRA STRUM."
+	next "DEPOSITA STRUM."
+	next "BUTTA STRUM."
+	next "DISCONNETTI@"
 
 TooImportantToDepositText:
 	text_far _TooImportantToDepositText

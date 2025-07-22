@@ -1,4 +1,5 @@
 _Route12Gate1FGuardText::
-	text "There's a lookout"
-	line "spot upstairs."
+	text "C'è un punto di"
+	line "osservazione al"
+	cont "piano di sopra."
 	done

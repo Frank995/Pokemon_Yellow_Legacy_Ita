@@ -1,43 +1,46 @@
 _Route12Gate2FBrunetteGirlYouCanHaveThisText::
-	text "My #MON's"
-	line "ashes are stored"
-	cont "in #MON TOWER."
+	text "Le ceneri del mio"
+	line "#MON sono"
+	cont "custodite nella"
+	cont "TORRE #MON."
 
-	para "You can have this"
-	line "TM. I don't need"
-	cont "it anymore..."
+	para "Puoi prendere"
+	line "questa MT. Non mi"
+	cont "serve più..."
 	prompt
 
 _Route12Gate2FBrunetteGirlReceivedTM39Text::
-	text "<PLAYER> received"
-	line "TM39 SWIFT!@"
+	text "<PLAYER> ha"
+	line "ricevuto MT39"
+	cont "COMETE!@"
 	text_end
 
 _Route12Gate2FBrunetteGirlTM39ExplanationText::
-	text "TM39 is a move"
-	line "called SWIFT."
+	text "MT39 è una mossa"
+	line "chiamata COMETE."
 
-	para "It's very accurate,"
-	line "so use it during"
-	cont "battles you can't"
-	cont "afford to lose."
+	para "È molto precisa,"
+	line "quindi usala nelle"
+	cont "battaglie che non"
+	cont "puoi permetterti"
+	cont "di perdere."
 	done
 
 _Route12Gate2FBrunetteGirlTM39NoRoomText::
-	text "You don't have"
-	line "room for this."
+	text "Non hai spazio"
+	line "per questo."
 	done
 
 _Route12Gate2FLeftBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Hai guardato nel"
+	line "binocolo."
 
-	para "A man fishing!"
+	para "Un uomo che pesca!"
 	done
 
 _Route12Gate2FRightBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Hai guardato nel"
+	line "binocolo."
 
-	para "It's #MON TOWER!"
+	para "È la TORRE #MON!"
 	done

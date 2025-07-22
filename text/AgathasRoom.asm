@@ -1,84 +1,90 @@
 _AgathaBeforeBattleText::
-	text "I am AGATHA of"
-	line "the ELITE FOUR!"
+	text "Io sono AGATHA"
+	line "dei SUPERQUATTRO!"
 
-	para "OAK's taken a lot"
-	line "of interest in"
-	cont "you, child!"
+	para "OAK ha mostrato"
+	line "molto interesse"
+	cont "per te, ragazzo!"
 
-	para "That old duff was"
-	line "once tough and"
-	cont "handsome! That"
-	cont "was decades ago!"
+	para "Quel vecchio una"
+	line "volta era forte"
+	cont "e bello! Ma erano"
+	cont "decenni fa!"
 
-	para "Now he just wants"
-	line "to fiddle with"
-	cont "his #DEX! He's"
-	cont "wrong! #MON"
-	cont "are for fighting!"
+	para "Ora vuole solo"
+	line "armeggiare con"
+	cont "il suo #DEX!"
+	cont "Si sbaglia! I"
+	cont "#MON sono"
+	cont "per lottare!"
 
-	para "<PLAYER>! I'll show"
-	line "you how a real"
-	cont "trainer fights!"
+	para "<PLAYER>! Ti"
+	line "mostrerò come"
+	cont "combatte un vero"
+	cont "allenatore!"
 	done
 
 _AgathaEndBattleText::
 	text "Woo-hoo!"
-	line "You're something"
-	cont "special, child!"
+	line "Sei davvero"
+	cont "speciale!"
 	prompt
 
 _AgathaAfterBattleText::
-	text "You win! I see"
-	line "what the old duff"
-	cont "sees in you now!"
+	text "Hai vinto! Ora"
+	line "vedo cosa vede"
+	cont "in te OAK!"
 
-	para "I have nothing"
-	line "else to say! Run"
-	cont "along now, child!"
+	para "Non ho altro da"
+	line "dire! Ora và,"
+	cont "ragazzo!"
 	done
 
 _AgathaRematchBeforeBattleText::
-	text "Back again, eh?"
+	text "Di nuovo qui?"
 
-	para "Seen OAK lately?"
-	line "Still fond of"
-	cont "you, I bet!"
+	para "Hai visto OAK"
+	line "di recente?"
+	cont "Scommetto che ti"
+	cont "vuole ancora bene!"
 
-	para "He's softened,"
-	line "unlike me. I"
-	cont "relish battles!"
+	para "Si è ammorbidito,"
+	line "diversamente da"
+	cont "me. Io adoro le"
+	cont "battaglie!"
 
-	para "Let's see your"
-	line "growth, young"
-	cont "one!"
+	para "Vediamo la tua"
+	line "crescita,"
+	cont "giovane!"
 
-	para "Ready, <PLAYER>?"
+	para "Pronto,"
+	line "<PLAYER>?"
 	done
 
 _AgathaRematchEndBattleText::
-	text "Oh, my!"
-	line "You've grown"
-	cont "even stronger!"
+	text "Oh, cielo!"
+	line "Sei diventato"
+	cont "più forte!"
 	prompt
 
 _AgathaRematchAfterBattleText::
-	text "Well earned,"
-	line "CHAMPION! You've"
-	cont "grown mighty!"
+	text "Ben meritato,"
+	line "CAMPIONE!"
+	cont "Sei diventato"
+	cont "potente!"
 
-	para "You've earned"
-	line "OAK's--and my"
-	cont "respect!"
+	para "Ti sei guadagnato"
+	line "il rispetto di"
+	cont "OAK--e il mio!"
 
-	para "Now, go!"
+	para "Ora, và!"
 
-	para "Show the world"
-	line "your power,"
+	para "Mostra al mondo"
+	line "il tuo potere,"
 	cont "<PLAYER>!"
 	done
 
 _AgathasRoomAgathaDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "Voce di qualcuno:"
+	line "Non scappare!"
 	done

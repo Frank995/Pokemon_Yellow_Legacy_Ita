@@ -1,27 +1,29 @@
 _FuchsiaBillsGrandpasHouseMiddleAgedWomanText::
-	text "SAFARI ZONE's"
-	line "WARDEN is old,"
-	cont "but still active!"
+	text "Il GUARDIANO della"
+	line "ZONA SAFARI è"
+	cont "vecchio, ma ancora"
+	cont "in gamba!"
 
-	para "All his teeth are"
-	line "false, though."
+	para "Però tutti i suoi"
+	line "denti sono finti."
 	done
 
 _FuchsiaBillsGrandpasHouseBillsGrandpaText::
-	text "Hmm? You've met"
-	line "BILL?"
+	text "Hmm? Hai"
+	line "conosciuto BILL?"
 
-	para "He's my grandson!"
+	para "È mio nipote!"
 
-	para "He always liked"
-	line "collecting things"
-	cont "even as a child!"
+	para "Gli è sempre"
+	line "piaciuto collezio-"
+	cont "nare cose fin da"
+	cont "bambino!"
 	done
 
 _FuchsiaBillsGrandpasHouseYoungsterText::
-	text "BILL files his"
-	line "own #MON data"
-	cont "on his PC!"
+	text "BILL archivia i"
+	line "suoi dati #MON"
+	cont "sul suo PC!"
 
-	para "Did he show you?"
+	para "Te li ha mostrati?"
 	done

@@ -1,115 +1,125 @@
 _LancesRoomLanceBeforeBattleText::
-	text "Ah! I heard about"
-	line "you, <PLAYER>!"
+	text "Ah! Ho sentito"
+	line "parlare di te,"
+	cont "<PLAYER>!"
 
-	para "I lead the ELITE"
-	line "FOUR! You can"
-	cont "call me LANCE the"
-	cont "dragon trainer!"
+	para "Io guido i"
+	line "SUPERQUATTRO!"
+	cont "Puoi chiamarmi"
+	cont "LANCE l'allenatore"
+	cont "di draghi!"
 
-	para "You know that"
-	line "dragons are"
-	cont "mythical #MON!"
+	para "Sai che i draghi"
+	line "sono #MON"
+	cont "leggendari!"
 
-	para "They're hard to"
-	line "catch and raise,"
-	cont "but their powers"
-	cont "are superior!"
+	para "Sono difficili da"
+	line "catturare e"
+	cont "allevare, ma i"
+	cont "loro poteri sono"
+	cont "superiori!"
 
-	para "They're virtually"
-	line "indestructible!"
+	para "Sono praticamente"
+	line "indistruttibili!"
 
-	para "Well, are you"
-	line "ready to lose?"
+	para "Allora, sei"
+	line "pronto a perdere?"
 
-	para "Your LEAGUE"
-	line "challenge ends"
-	cont "with me, <PLAYER>!"
+	para "La tua sfida alla"
+	line "LEGA finisce con"
+	cont "me, <PLAYER>!"
 	done
 
 _LancesRoomLanceEndBattleText::
-	text "That's it!"
+	text "È finita!"
 
-	para "I hate to admit"
-	line "it, but you are a"
-	cont "#MON master!"
+	para "Odio ammetterlo,"
+	line "ma sei un vero"
+	cont "maestro di #MON!"
 	prompt
 
 _LancesRoomLanceAfterBattleText::
-	text "I still can't"
-	line "believe my"
-	cont "dragons lost to"
-	cont "you, <PLAYER>!"
+	text "Non riesco ancora"
+	line "a credere che i"
+	cont "miei draghi"
+	cont "abbiano perso"
+	cont "contro di te,"
+	cont "<PLAYER>!"
 
-	para "You are now the"
-	line "#MON LEAGUE"
-	cont "champion!"
+	para "Ora sei il"
+	line "campione della"
+	cont "LEGA #MON!"
 
-	para "...Or, you would"
-	line "have been, but"
-	cont "you have one more"
-	cont "challenge ahead."
+	para "...O meglio, lo"
+	line "saresti stato, ma"
+	cont "hai ancora una"
+	cont "sfida davanti a"
+	cont "te."
 
-	para "You have to face"
-	line "another trainer!"
-	cont "His name is..."
+	para "Devi affrontare un"
+	line "altro allenatore!"
+	cont "Il suo nome è..."
 
 	para "<RIVAL>!"
-	line "He beat the ELITE"
-	cont "FOUR before you!"
+	line "Ha battuto i"
+	cont "SUPERQUATTRO"
+	cont "prima di te!"
 
-	para "He is the real"
-	line "#MON LEAGUE"
-	cont "champion!@"
+	para "Lui è il vero"
+	line "campione della"
+	cont "LEGA #MON!@"
 	text_end
 
 _LancesRoomLanceRematchBeforeBattleText::
-	text "Back so soon,"
+	text "Già di ritorno,"
 	line "<PLAYER>?"
 
-	para "As CHAMPION,"
-	line "you seek more"
-	cont "battles?"
+	para "Come CAMPIONE,"
+	line "cerchi altre"
+	cont "battaglie?"
 
-	para "My dragons await"
-	line "your challenge."
+	para "I miei draghi"
+	line "aspettano la"
+	cont "tua sfida."
 
-	para "Their might is"
-	line "unyielding, a"
-	cont "true force of"
-	cont "nature!"
+	para "La loro potenza è"
+	line "inarrestabile, una"
+	cont "vera forza della"
+	cont "natura!"
 
-	para "Ready for"
-	line "round two?"
+	para "Pronto per il"
+	line "secondo round?"
 
-	para "We won't go"
-	line "easy!"
+	para "Non saremo"
+	line "clementi!"
 	done
 
 _LancesRoomLanceRematchEndBattleText::
-	text "Incredible!"
+	text "Incredibile!"
 
-	para "Your strength"
-	line "keeps growing."
+	para "La tua forza"
+	line "continua a"
+	cont "crescere."
 
-	para "Truly, you are a"
-	line "#MON master"
-	cont "now."
+	para "Davvero, ora sei"
+	line "un maestro di"
+	cont "#MON."
 	prompt
 
 _LancesRoomLanceRematchAfterBattleText::
-	text "As the reigning"
-	line "CHAMPION, your"
-	cont "legacy grows"
-	cont "even stronger!"
+	text "Come CAMPIONE"
+	line "regnante, la tua"
+	cont "leggenda diventa"
+	cont "sempre più forte!"
 
-	para "But remember,"
-	line "the path of a"
-	cont "CHAMPION never"
-	cont "ends."
+	para "Ma ricorda, il"
+	line "cammino di un"
+	cont "CAMPIONE non"
+	cont "finisce mai."
 
-	para "Keep honing"
-	line "your skills!"
+	para "Continua ad"
+	line "affinare le tue"
+	cont "abilità!"
 
-	para "Until next time!"
+	para "Alla prossima!"
 	done

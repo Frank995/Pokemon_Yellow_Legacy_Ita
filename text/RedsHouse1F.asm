@@ -1,63 +1,69 @@
 _RedsHouse1FMomWakeUpText::
-	text "MOM: Right."
-	line "All kids leave"
-	cont "home someday."
-	cont "It said so on TV."
+	text "MAMMA: Giusto."
+	line "Tutti i bambini"
+	cont "lasciano casa"
+	cont "prima o poi."
+	cont "L'hanno detto"
+	cont "in TV."
 
-	para "PROF.OAK, next"
-	line "door, is looking"
-	cont "for you."
+	para "PROF. OAK, della"
+	line "porta accanto, ti"
+	cont "sta cercando."
 	done
 
 _RedsHouse1FMomYouShouldRestText::
-	text "MOM: <PLAYER>, if"
-	line "you drive your"
-	cont "#MON too hard,"
-	cont "they'll dislike"
-	cont "you."
+	text "MAMMA: <PLAYER>,"
+	line "se spingi troppo"
+	cont "i tuoi #MON,"
+	cont "finiranno per"
+	cont "odiarti."
 
-	para "You should take a"
-	line "rest."
+	para "Dovresti riposare"
+	line "un pò."
 	prompt
 
 _RedsHouse1FMomLookingGreatText::
-	text "MOM: Oh good!"
-	line "You and your"
-	cont "#MON are"
-	cont "looking great!"
-	cont "Take care now!"
+	text "MAMMA: Oh bene!"
+	line "Tu e i tuoi"
+	cont "#MON avete"
+	cont "un aspetto"
+	cont "fantastico!"
+	cont "Abbiate cura!"
 	done
 
 _RedsHouse1FMomChampionText::
-	text "MOM: <PLAYER>!"
+	text "MAMMA: <PLAYER>!"
 
-	para "I'm so proud of"
-	line "you for becoming"
-	cont "the #MON"
-	cont "LEAGUE CHAMPION!"
+	para "Sono così"
+	line "orgogliosa di te"
+	cont "per essere"
+	cont "diventato CAMPIONE"
+	cont "della LEGA #MON!"
 
-	para "You and your"
-	line "#MON have"
-	cont "worked so hard"
-	cont "for this."
+	para "Tu e i tuoi"
+	line "#MON avete"
+	cont "lavorato così"
+	cont "duramente per"
+	cont "questo."
 
-	para "Congratulations!"
+	para "Congratulazioni!"
 
-	para "Take some time to"
-	line "celebrate with"
-	cont "your #MON and"
-	cont "friends."
+	para "Prenditi del tempo"
+	line "per festeggiare"
+	cont "con i tuoi #MON"
+	cont "e i tuoi amici."
 	
-	para "You've earned it!"
+	para "Te lo sei"
+	line "meritato!"
 
-	para "I know you'll"
-	line "continue to be a"
-	cont "great trainer"
-	cont "and CHAMPION."
+	para "So che continuerai"
+	line "ad essere un"
+	cont "grande allenatore"
+	cont "e CAMPIONE."
 
-	para "I'll always be"
-	line "here to support"
-	cont "you, <PLAYER>."
+	para "Sarò sempre qui"
+	line "per sostenerti,"
+	cont "<PLAYER>."
 	done
 
 _RedsHouse1FMrMimeText::
@@ -66,14 +72,17 @@ _RedsHouse1FMrMimeText::
 	done
 
 _RedsHouse1FTVStandByMeMovieText::
-	text "There's a movie"
-	line "on TV. Four boys"
-	cont "are walking on"
-	cont "railroad tracks."
+	text "C'è un film"
+	line "in TV. Quattro"
+	cont "ragazzi camminano"
+	cont "sui binari del"
+	cont "treno."
 
-	para "I better go too."
+	para "È meglio che vada"
+	line "anch'io."
 	done
 
 _RedsHouse1FTVWrongSideText::
-	text "Oops, wrong side."
+	text "Ops, lato"
+	line "sbagliato."
 	done

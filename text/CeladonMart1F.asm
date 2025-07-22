@@ -1,31 +1,34 @@
 _CeladonMart1FReceptionistText::
-	text "Hello! Welcome to"
-	line "CELADON DEPT."
-	cont "STORE."
+	text "Ciao! Benvenuto"
+	line "al CENTRO"
+	cont "COMMERCIALE DI"
+	cont "AZZURROPOLI."
 
-	para "The board on the"
-	line "right describes"
-	cont "the store layout."
+	para "Il tabellone"
+	line "sulla destra"
+	cont "descrive la"
+	cont "disposizione."
 	done
 
 _CeladonMart1FDirectorySignText::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "PT: PUNTO"
+	line "    ASSISTENZA"
 
-	para "2F: TRAINER'S"
-	line "    MARKET"
+	para "1P: REPARTO"
+	line "    ALLENATORI"
 
-	para "3F: TV GAME SHOP"
+	para "2P: VIDEOGIOCHI"
 
-	para "4F: WISEMAN GIFTS"
+	para "3P: REGALI"
 
-	para "5F: POWER ZONE"
+	para "4P: ZONA ENERGIA"
 
-	para "ROOFTOP SQUARE:"
-	line "VENDING MACHINES"
+	para "PIAZZA SUL TETTO:"
+	line "DISTRIBUTORI"
+	cont "AUTOMATICI"
 	done
 
 _CeladonMart1FCurrentFloorSignText::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "PT: BANCO"
+	line "    INFORMAZIONI"
 	done

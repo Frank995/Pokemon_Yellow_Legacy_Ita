@@ -1,7 +1,7 @@
 _SilphCo1FLinkReceptionistText::
-	text "Welcome!"
+	text "Benvenuto!"
 
-	para "The PRESIDENT is"
-	line "in the boardroom"
-	cont "on 11F!"
+	para "Il PRESIDENTE è"
+	line "nella sala"
+	cont "riunioni al 10P!"
 	done

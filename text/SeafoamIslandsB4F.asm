@@ -3,40 +3,42 @@ _SeafoamIslandsB4FArticunoBattleText::
 	text_end
 
 _SeafoamIslandsB4FBouldersSignText::
-	text "Boulders might"
-	line "change the flow"
-	cont "of water!"
+	text "I massi potrebbero"
+	line "cambiare il flusso"
+	cont "dell'acqua!"
 	done
 
 _SeafoamIslandsB4FDangerSignText::
-	text "DANGER"
-	line "Fast current!"
+	text "PERICOLO"
+	line "Corrente forte!"
 	done
 
 _SeafoamIslandsWeebraBattleText1::
-	text "You gotta be"
-	line "pretty strong"
-	cont "to get this far," 
-	cont "huh?"
+	text "Devi essere"
+	line "piuttosto forte"
+	cont "per arrivare fin" 
+	cont "qui, eh?"
 	
-	para "Then I guess"
-	line "we don't gotta"
-	cont "pull any punches."
+	para "Allora immagino"
+	line "che non dobbiamo"
+	cont "trattenerci."
 	done
 	
 _SeafoamIslandsWeebraEndBattleText1::
-	text "Nice moves!"
+	text "Belle mosse!"
 
-	para "I almost got off"
-	line "my 'Essence of"
-	cont "Beast Style' too!"
+	para "Stavo quasi per"
+	line "usare la mia"
+	cont "'Essenza dello"
+	cont "Stile Bestià!"
 	done
 
 _SeafoamIslandsWeebraAfterBattleText1::
-	text "Honestly I prefer"
-	line "my team fresh"
-	cont "never frozen,"
+	text "Onestamente"
+	line "preferisco la mia"
+	cont "squadra fresca"
+	cont "mai congelata,"
 
-	para "but you do you,"
-	line "bro!"
+	para "ma fai come"
+	line "credi, amico!"
 	done

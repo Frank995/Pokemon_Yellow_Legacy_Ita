@@ -1,44 +1,45 @@
 _FuchsiaGoodRodHouseFishingGuruText::
-	text "I'm the FISHING"
-	line "GURU's brother!"
+	text "Sono il fratello"
+	line "del GURU della"
+	cont "PESCA!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "Adoro veramente"
+	line "pescare!"
 
-	para "Do you like to"
-	line "fish?"
+	para "Ti piace"
+	line "pescare?"
 	done
 
 _FuchsiaGoodRodHouseFishingGuruReceivedGiftText::
-	text "Grand! I like"
-	line "your style!"
+	text "Magnifico! Mi"
+	line "piace il tuo"
+	cont "stile!"
 
-	para "I don't have a"
-	line "spare rod to give"
-	cont "you,"
+	para "Non ho una canna"
+	line "di riserva da"
+	cont "darti,"
 
-	para "but I did fish"
-	line "myself up one of"
-	cont "these in the"
-	cont "SEAFOAM ISLANDS!"
+	para "ma ho pescato"
+	line "questo alle"
+	cont "ISOLE SPUMARINE!"
 	text_end
 
 _FuchsiaGoodRodHouseFishingGuruThatsSoDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Oh... È così"
+	line "deludente..."
 	done
 
 _FuchsiaGoodRodHouseFishingGuruHowAreTheFishText::
-	text "Hello there,"
+	text "Ciao,"
 	line "<PLAYER>!"
 
-	para "How are the fish"
-	line "biting?"
+	para "Come va la"
+	line "pesca?"
 	done
 
 _FuchsiaGoodRodHouseFishingGuruNoRoomText::
 	text "Oh no!"
 
-	para "You have no room"
-	line "for my gift!"
+	para "Non hai spazio"
+	line "per il mio regalo!"
 	done

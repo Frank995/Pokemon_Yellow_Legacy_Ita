@@ -5,13 +5,14 @@ _PokemonTower3FChanneler1BattleText::
 
 _PokemonTower3FChanneler1EndBattleText::
 	text "Hwa!"
-	line "I'm saved!"
+	line "Sono salva!"
 	prompt
 
 _PokemonTower3FChanneler1AfterBattleText::
-	text "The GHOSTs can be"
-	line "identified by the"
-	cont "SILPH SCOPE."
+	text "I FANTASMI possono"
+	line "essere"
+	cont "identificati con"
+	cont "lo SPETTROSCOPIO."
 	done
 
 _PokemonTower3FChanneler2BattleText::
@@ -21,25 +22,27 @@ _PokemonTower3FChanneler2BattleText::
 
 _PokemonTower3FChanneler2EndBattleText::
 	text "Hmm?"
-	line "What am I doing?"
+	line "Che sto facendo?"
 	prompt
 
 _PokemonTower3FChanneler2AfterBattleText::
-	text "Sorry! I was"
-	line "possessed!"
+	text "Scusa! Ero"
+	line "posseduta!"
 	done
 
 _PokemonTower3FChanneler3BattleText::
-	text "Be gone!"
-	line "Evil spirit!"
+	text "Vattene!"
+	line "Spirito maligno!"
 	done
 
 _PokemonTower3FChanneler3EndBattleText::
-	text "Whew!"
-	line "The spirit left!"
+	text "Uff!"
+	line "Lo spirito se"
+	cont "n'è andato!"
 	prompt
 
 _PokemonTower3FChanneler3AfterBattleText::
-	text "My friends were"
-	line "possessed too!"
+	text "Anche le mie"
+	line "amiche erano"
+	cont "possedute!"
 	done

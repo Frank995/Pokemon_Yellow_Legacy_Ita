@@ -1,38 +1,41 @@
 _MoveRelearnerGreetingText::
-	text "I teach #MON"
-	line "to remember moves"
-	cont "they forgot."
+	text "Io insegno ai #MON"
+	line "a ricordare mosse"
+	cont "che hanno"
+	cont "dimenticato."
 
-	para "¥1000 per lesson."
-	line "How about it?"
+	para "¥1000 per lezione."
+	line "Che ne dici?"
 	done
 
 _MoveRelearnerSaidYesText::
-	text "Which #MON"
-	line "should I tutor?"
+	text "Quale #MON"
+	line "dovrei istruire?"
 	prompt
 
 _MoveRelearnerNotEnoughMoneyText::
 	text "Hmmm..."
 
-	para "You don't have"
-	line "enough money!"
+	para "Non hai abbastanza"
+	line "soldi!"
 	done
 
 _MoveRelearnerWhichMoveText::
-	text "Which move should"
-	line "it learn?"
+	text "Quale mossa"
+	line "dovrebbe imparare?"
 	done
 
 _MoveRelearnerByeText::
-	text "If any of your"
-	line "#MON need to"
-	cont "remember a move,"
-	cont "come visit me!"
+	text "Se qualcuno dei"
+	line "tuoi #MON ha"
+	cont "bisogno di"
+	cont "ricordare una"
+	cont " mossa, vieni a"
+	cont "trovarmi!"
 	done
 
 _MoveRelearnerNoMovesText::
-	text "This #MON"
-	line "hasn't forgotten"
-	cont "any moves."
+	text "Questo #MON"
+	line "non ha dimenticato"
+	cont "nessuna mossa."
 	done

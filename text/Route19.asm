@@ -1,51 +1,52 @@
 _Route19CooltrainerM1BattleText::
-	text "Have to warm up"
-	line "before my swim!"
+	text "Devo riscaldarmi"
+	line "prima di nuotare!"
 	done
 
 _Route19CooltrainerM1EndBattleText::
-	text "All"
-	line "warmed up!"
+	text "Tutto"
+	line "riscaldato!"
 	prompt
 
 _Route19CooltrainerM1AfterBattleText::
-	text "Thanks, kid! I'm"
-	line "ready for a swim!"
+	text "Grazie, ragazzo!"
+	line "Sono pronto per"
+	cont "una nuotata!"
 	done
 
 _Route19CooltrainerM2BattleText::
-	text "Wait! You'll have"
-	line "a heart attack!"
+	text "Aspetta! Ti verrà"
+	line "un infarto!"
 	done
 
 _Route19CooltrainerM2EndBattleText::
 	text "Ooh!"
-	line "That's chilly!"
+	line "Che freddo!"
 	prompt
 
 _Route19CooltrainerM2AfterBattleText::
-	text "Watch out for"
+	text "Attento ai"
 	line "TENTACOOL!"
 	done
 
 _Route19Swimmer1BattleText::
-	text "I love swimming!"
-	line "What about you?"
+	text "Amo nuotare!"
+	line "E tu?"
 	done
 
 _Route19Swimmer1EndBattleText::
-	text "Belly"
-	line "flop!"
+	text "Che"
+	line "pancia!"
 	prompt
 
 _Route19Swimmer1AfterBattleText::
-	text "I can beat #MON"
-	line "at swimming!"
+	text "Posso battere i"
+	line "#MON a nuoto!"
 	done
 
 _Route19Swimmer2BattleText::
-	text "What's beyond the"
-	line "horizon?"
+	text "Cosa c'è oltre"
+	line "l'orizzonte?"
 	done
 
 _Route19Swimmer2EndBattleText::
@@ -53,105 +54,111 @@ _Route19Swimmer2EndBattleText::
 	prompt
 
 _Route19Swimmer2AfterBattleText::
-	text "I see a couple of"
-	line "islands!"
+	text "Vedo un paio di"
+	line "isole!"
 	done
 
 _Route19Swimmer3BattleText::
-	text "I tried diving"
-	line "for #MON, but"
-	cont "it was a no go!"
+	text "Ho provato a"
+	line "tuffarmi per i"
+	cont "#MON, ma niente!"
 	done
 
 _Route19Swimmer3EndBattleText::
-	text "Help!"
+	text "Aiuto!"
 	prompt
 
 _Route19Swimmer3AfterBattleText::
-	text "You have to fish"
-	line "for sea #MON!"
+	text "Devi pescare per"
+	line "trovare i #MON"
+	cont "marini!"
 	done
 
 _Route19Swimmer4BattleText::
-	text "I look at the"
-	line "sea to forget!"
+	text "Guardo il mare"
+	line "per dimenticare!"
 	done
 
 _Route19Swimmer4EndBattleText::
 	text "Ooh!"
-	line "Traumatic!"
+	line "Traumatico!"
 	prompt
 
 _Route19Swimmer4AfterBattleText::
-	text "I'm looking at the"
-	line "sea to forget!"
+	text "Sto guardando il"
+	line "mare per"
+	cont "dimenticare!"
 	done
 
 _Route19Swimmer5BattleText::
-	text "Oh, I just love"
-	line "your ride! Can I"
-	cont "have it if I win?"
+	text "Oh, adoro il tuo"
+	line "mezzo! Posso"
+	cont "averlo se vinco?"
 	done
 
 _Route19Swimmer5EndBattleText::
 	text "Oh!"
-	line "I lost!"
+	line "Ho perso!"
 	prompt
 
 _Route19Swimmer5AfterBattleText::
-	text "It's still a long"
-	line "way to go to"
-	cont "SEAFOAM ISLANDS."
+	text "È ancora lunga la"
+	line "strada per le"
+	cont "ISOLE SPUMARINE."
 	done
 
 _Route19Swimmer6BattleText::
-	text "Swimming's great!"
-	line "Sunburns aren't!"
+	text "Nuotare è bello!"
+	line "Le scottature no!"
 	done
 
 _Route19Swimmer6EndBattleText::
-	text "Shocker!"
+	text "Scioccante!"
 	prompt
 
 _Route19Swimmer6AfterBattleText::
-	text "My boy friend"
-	line "wanted to swim to"
-	cont "SEAFOAM ISLANDS."
+	text "Il mio ragazzo"
+	line "voleva nuotare"
+	cont "alle ISOLE"
+	cont "SPUMARINE."
 	done
 
 _Route19Swimmer7BattleText::
-	text "These waters are"
-	line "treacherous!"
+	text "Queste acque sono"
+	line "pericolose!"
 	done
 
 _Route19Swimmer7EndBattleText::
 	text "Ooh!"
-	line "Dangerous!"
+	line "Pericoloso!"
 	prompt
 
 _Route19Swimmer7AfterBattleText::
-	text "I got a cramp!"
-	line "Glub, glub..."
+	text "Mi è venuto un"
+	line "crampo! Glub,"
+	cont "glub..."
 	done
 
 _Route19Swimmer8BattleText::
-	text "I swam here, but"
-	line "I'm tired."
+	text "Ho nuotato fin"
+	line "qui, ma sono"
+	cont "stanco."
 	done
 
 _Route19Swimmer8EndBattleText::
-	text "I'm"
-	line "exhausted..."
+	text "Sono"
+	line "esausto..."
 	prompt
 
 _Route19Swimmer8AfterBattleText::
-	text "LAPRAS is so big,"
-	line "it must keep you"
-	cont "dry on water."
+	text "LAPRAS è così"
+	line "grande, deve"
+	cont "tenerti asciutto"
+	cont "sull'acqua."
 	done
 
 _Route19SignText::
-	text "SEA ROUTE 19"
-	line "FUCHSIA CITY -"
-	cont "SEAFOAM ISLANDS"
+	text "PERCORSO MARINO 19"
+	line "FUCSIAPOLI -"
+	cont "ISOLE SPUMARINE"
 	done
