@@ -147,7 +147,7 @@ AnimationOptionStringsPointerTable:
 	dw AnimationOffText
 
 AnimationOnText:
-	db "SI'@"
+	db "SÌ@"
 AnimationOffText:
 	db "NO@"
 
@@ -183,7 +183,7 @@ BattleStyleOptionStringsPointerTable:
 	dw BattleStyleSetText
 
 BattleStyleShiftText:
-	db "SPOST.@"
+	db "SCEGLI@"
 BattleStyleSetText:
 	db "FISSO @"
 
@@ -433,8 +433,8 @@ InitOptionsMenu:
 	ret
 
 AllOptionsText:
-	db "VELOCITÀ TESTO:"
-	next "ANIMAZIONE:"
+	db   "VEL. TESTO :"
+	next "ANIMAZIONE :"
 	next "STILE LOTTA:"
 	next "SUONO:"
 	next "STAMPA:@"

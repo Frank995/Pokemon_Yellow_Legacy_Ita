@@ -871,13 +871,13 @@ Func_fed01:
 	jp Func_fe7ca
 
 Text_fed12:
-	db   "けんしろう@" ; "KENSHIROU@"
+	db   "KENSHIROU@" ; "KENSHIROU@"
 
 Text_fed18:
-	db   "テスト ファイト@" ; "FIGHT TEST@"
+	db   "FIGHT TEST@" ; "FIGHT TEST@"
 
 Text_fed21:
-	db   "№．  なまえ    レべル@" ; "№．  NAME  LEVEL@"
+	db   "№．  NAME  LEVEL@" ; "№．  NAME  LEVEL@"
 
 Text_fed30:
 	db   "１．▶０００ ーーーーー  ０００"

@@ -20,10 +20,10 @@ TwoOptionMenuStrings:
 
 .NoYesMenu:
 	db   "NO"
-	next "SI'@"
+	next "SÌ@"
 
 .YesNoMenu:
-	db   "SI'"
+	db   "SÌ"
 	next "NO@"
 
 .BoyGirlMenu:
